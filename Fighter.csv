@@ -1,0 +1,1562 @@
+FighterID,Fname,Lname,Nname,DOB,Height,Weight,gymName,gymCountry,gymCity,gymState,Nationality,Wins,Loss,Draw,NoContest
+29688,Conor,McGregor,Notorious,1988-07-14,68,145,SBG Ireland,Ireland,Dublin,,Samoan,31,12,6,0
+27944,Jon,Jones,Bones,1987-07-19,76,205,Jackson-Wink MMA,United States,Rochester,New York,Mexican,11,12,8,2
+75125,Holly,Holm,The Preachers Daughter,1981-10-17,68,135,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Guatemalan,24,8,3,3
+12107,Dominick,Cruz,The Dominator,1985-09-03,68,134,Alliance MMA,United States,San Diego,California,Chilean,10,20,7,4
+45452,Demetrious,Johnson,Mighty Mouse,1986-08-13,63,125,AMC Pankration,United States,Kirkland,Washington,Latin American Indian,9,3,1,3
+73073,Ronda,Rousey,Rowdy,1987-02-01,66,135,Team Hayastan,United States,Santa Monica,California,Ute,1,9,6,0
+8390,Fabricio,Werdum,Vai Cavalo,1977-07-30,76,242,Werdum Combat Team,Brazil,Porto Alegre,Rio Grande do Sul,Thai,10,5,10,4
+2245,Robbie,Lawler,Ruthless,1982-03-20,71,170,American Top Team,United States,Granite City,Illinois,Spaniard,34,14,1,3
+11506,Jose,Aldo,Scarface,1986-09-09,67,145,Nova Uniao,Brazil,Manaus,Amazonas,Malaysian,12,12,6,0
+38393,Chad,Mendes,Money,1985-05-01,66,145,Team Alpha Male,United States,Hanford,California,Delaware,29,6,5,3
+50529,Dustin,Poirier,The Diamond,1989-01-19,69,155,American Top Team,United States,Carencro,Louisiana,Central American,10,3,7,1
+21618,Marcus,Brimage,The Bama Beast,1985-04-06,64,135,American Top Team,United States,Birmingham,Alabama,Pueblo,2,23,10,2
+25097,Diego,Brandao,DB,1987-05-27,67,145,Jackson-Wink MMA,Brazil,Fortaleza,Ceara,American Indian and Alaska Native (AIAN),13,7,3,1
+38671,Max,Holloway,Blessed,1991-12-04,71,145,Gracie Technics,United States,Waianae,Hawaii,Venezuelan,23,22,7,4
+17052,Joseph,Duffy,Irish Joe,1988-02-18,70,155,The MMA Clinic,Ireland,Donegal,,Blackfeet,11,5,10,2
+162,Kevin,Randleman,The Monster,1971-08-10,70,205,Tapout Training Center,United States,Columbus,Ohio,Yaqui,31,20,4,0
+156,Vitor,Belfort,The Phenom,1977-04-01,72,185,Blackzilians,Brazil,Rio de Janeiro,,Ottawa,10,9,3,3
+10200,Rashad,Evans,Suga,1979-09-25,71,205,Blackzilians,United States,Niagara Falls,New York,Laotian,25,21,1,1
+22858,Ryan,Bader,Darth,1983-06-07,74,205,Power MMA Team,United States,Tempe,Arizona,Uruguayan,2,24,4,4
+10196,Michael,Bisping,The Count,1979-02-28,74,185,HB Ultimate,England,Manchester,,Salvadoran,8,15,2,4
+26162,Alexander,Gustafsson,The Mauler,1987-01-15,76,205,Allstars Training Center,Sweden,Stockholm,Stockholm County,Laotian,23,8,8,4
+435,Vladimir,Matyushenko,The Janitor,1971-01-04,73,205,VMAT,Belarus,Retchisa,,Creek,9,16,2,2
+7513,Lyoto,Machida,The Dragon,1978-05-30,73,185,APAM,Brazil,Belem,Para,Vietnamese,9,14,8,4
+348,Quinton,Jackson,Rampage,1978-06-20,73,206,Wolfslair Academy,United States,Memphis,Tennessee,Mexican,23,1,3,2
+4886,Brandon,Vera,The Truth,1977-10-10,74,205,Alliance MMA,United States,San Diego,California,Pueblo,34,22,9,0
+5707,Mauricio,Rua,Shogun,1981-11-25,73,205,Universidade da Luta,Brazil,Curitiba,Parana,Filipino,24,15,6,4
+3014,Stephan,Bonnar,The American Psycho,1977-04-04,75,205,One Kicks Gym,United States,Hammond,Indiana,Laotian,7,18,6,3
+71,Mark,Kerr,The Smashing Machine,1968-12-21,75,255,Team Kerr,United States,Phoenix,Arizona,Bolivian,21,1,1,1
+60940,James,Toney,Lights Out,1968-08-24,70,237,M-1 Global Training Center,United States,Grand Rapids,Michigan,Tlingit-Haida,16,17,7,4
+166,Randy,Couture,The Natural,1963-06-22,73,203,Xtreme Couture,United States,Corvallis,Oregon,White,28,19,3,3
+61266,Marion,Reneau,The Bruiser,1977-06-20,66,135,Elite Team,United States,Visalia,California,Blackfeet,20,6,7,0
+26627,Anthony,Pettis,Showtime,1987-01-27,69,155,Roufusport,United States,Milwaukee,Wisconsin,Native Hawaiian,7,15,8,4
+26252,Miesha,Tate,Cupcake,1986-08-18,66,135,Xtreme Couture,United States,Tacoma,Washington,Yuman,21,12,2,4
+15105,Donald,Cerrone,Cowboy,1983-03-29,71,155,Jackson-Wink MMA,United States,Broomfield,Colorado,Micronesian,23,5,1,4
+75564,Raquel,Pennington,Rocky,1988-09-05,67,135,Altitude MMA,United States,Colorado Springs,Colorado,Asian Indian,32,12,8,0
+110143,Alex,Oliveira,Cowboy,1988-02-21,71,155,Tata Fight Team,Brazil,Tres Rios,Rio de Janeiro,Houma,24,17,2,4
+8847,Urijah,Faber,The California Kid,1979-05-14,66,135,Team Alpha Male,United States,Sacramento,California,Delaware,1,22,3,1
+16852,Scott,Jorgensen,Young Guns,1982-09-17,65,135,Twisted Genetiks,United States,Boise,Idaho,Salvadoran,4,3,4,2
+5001,Ian,McCall,Uncle Creepy,1984-07-05,65,125,Team Oyama,United States,Dana Point,California,Alaskan Athabascan,15,3,8,3
+42804,Chris,Weidman,All-American,1984-06-17,74,185,Serra-Longo Fight Team,United States,Baldwin,New York,Lumbee,28,7,1,4
+19726,Paul,Bradley,The Gentleman,1983-05-17,69,170,Alliance MMA,United States,San Diego,California,Shoshone,25,16,2,3
+19544,Tim,Boetsch,The Barbarian,1981-01-28,71,205,Team Irish,United States,Lincolnville,Maine,Houma,30,13,8,1
+8394,Ronaldo,Souza,Jacare,1979-12-07,72,184,X-Gym,Brazil,Manaus,Amazonas,American Indian and Alaska Native (AIAN),4,4,4,0
+17272,Junior,dos Santos,Cigano,1984-01-30,76,239,Champion Team,Brazil,Cacadores,Santa Catarina,Iroquois,13,17,1,3
+17389,Jesse,Taylor,JT Money,1984-01-02,73,185,The Arena,United States,Poway,California,Houma,25,11,5,3
+59608,Stephen,Thompson,Wonderboy,1983-02-11,72,170,Team Upstate Karate,United States,Simpsonville,South Carolina,Tohono O'Odham,7,7,2,2
+2638,Keith,Jardine,The Dean of Mean,1975-10-31,74,185,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Polynesian,16,16,2,2
+195,Dan,Henderson,Hendo,1970-08-24,73,185,Team Quest,United States,Temecula,California,Menominee,6,5,3,3
+22388,Kevin,Ferguson,Kimbo Slice,1974-02-08,74,225,American Top Team,United States,Miami,Florida,Osage,27,25,7,0
+4,Ken,Shamrock,The Worlds Most Dangerous Man,1964-02-11,73,212,Lions Den,United States,San Diego,California,Colombian,9,23,9,4
+17662,Anthony,Johnson,Rumble,1984-03-06,74,205,Blackzilians,United States,Boca Raton,Florida,Bolivian,12,6,1,0
+1440,Antonio,Rodrigo Nogueira,Minotauro,1976-06-02,75,240,Team Nogueira,Brazil,Vitoria da Conquista,Bahia,Tlingit-Haida,32,22,9,2
+390,Joe,Doerksen,El Dirte,1977-09-10,72,186,Canadian Fighting Centre,Canada,Winnipeg,Manitoba,Navajo,2,2,6,1
+6765,Carlos,Condit,The Natural Born Killer,1984-04-26,73,170,Jackson-Wink MMA,United States,Albuquerque,New Mexico,American Indian and Alaska Native (AIAN),33,3,7,2
+19599,Tim,Hague,The Thrashing Machine,1983-09-05,76,264,Black Sheep MMA,Canada,Boyle,Alberta,Bolivian,1,6,9,1
+2352,Houston,Alexander,The Assassin,1972-03-22,72,203,Grudge Training Center,United States,Omaha,Nebraska,Pakistani,8,25,9,1
+78628,Jared,Cannonier,The Killa Gorilla,1900-01-00,75,244,Gracie Barra Alaska,United States,Anchorage,Alaska,Creek,33,25,9,1
+26808,Shamil,Abdurakhimov,Abrek,1981-09-02,75,255,Peresvet FT,Russia,Makhachkala,Dagestan,Cree,8,6,7,2
+202,Jeremy,Horn,Gumby,1975-08-25,73,186,Elite Performance,United States,Cedar Rapids,Iowa,Pima,8,2,5,3
+40207,Ilir,Latifi,The Sledgehammer,1983-07-28,68,205,Pancrase Gym Sweden,Sweden,Malmo,,Blackfeet,11,2,3,1
+2027,Alexey,Oleinik,The Boa Constrictor,1977-06-25,73,240,K Dojo Warrior Tribe,Russia,Moscow,,Ute,29,3,6,3
+33084,Darrill,Schoonover,The Boss,1985-06-18,74,257,Red Spider MMA,United States,El Paso,Texas,Shoshone,27,8,7,3
+495,Jason,Lambert,The Punisher,1977-09-23,70,205,Alliance MMA,United States,San Diego,California,Bolivian,27,7,6,1
+262,Jeff,Monson,The Snowman,1971-01-18,69,238,American Top Team,United States,Miami,Florida,Black or African American,8,17,9,2
+3619,Mike,Kyle,MAK,1980-03-31,75,205,American Kickboxing Academy,United States,San Jose,California,Ute,6,10,2,3
+21219,Joey,Beltran,Mexicutioner,1981-12-09,73,185,Blackline,United States,San Diego,California,Samoan,21,5,6,1
+4371,Wes,Combs,Soldier,1973-06-18,74,230,Millennia MMA,United States,Rancho Cucamonga,California,Chilean,5,5,2,0
+16558,Kyle,Kingsbury,Kingsbu,1982-03-22,76,205,American Kickboxing Academy,United States,San Jose,California,Comanche,22,21,8,3
+10226,Justin,Levens,The Executioner,1980-04-18,70,185,CSW,United States,Newport Beach,California,Spaniard,19,1,3,4
+20548,Benson,Henderson,Smooth,1983-11-16,69,155,MMA Lab,United States,Glendale,Arizona,Puget Sound Salish,9,10,9,2
+31151,Kamal,Shalorus,Prince of Persia,1977-08-27,68,155,Kaizen MMA,"Iran, Islamic Republic of",Ahmadabad,Ardabil,Colville,15,10,7,2
+58947,Anthony,Hamilton,Freight Train,1980-04-14,77,253,Jackson-Wink MMA,United States,Seattle,Washington,Paraguayan,16,17,3,1
+8184,Clay,Guida,The Carpenter,1981-12-08,67,145,Jackson-Wink MMA,United States,Round Lake,Illinois,Creek,23,12,8,2
+14185,Jason,High,The Kansas City Bandit,1981-10-12,69,155,American Top Team HD,United States,Kansas City,Missouri,Ottawa,15,3,8,3
+56035,Khabib,Nurmagomedov,The Eagle,1988-09-20,70,155,Fightspirit Team,Russia,Makhachkala,,Laotian,5,9,4,3
+12179,Jeremy,Stephens,Lil Heathen,1986-05-26,69,145,Alliance MMA,United States,Des Moines,Iowa,Yakama,28,6,8,1
+7540,Anthony,Njokuani,The Assassin,1980-03-01,72,155,Janjira Muay Thai,United States,Garland,Texas,Ecuadorian,20,4,8,3
+5286,Robert,Emerson,The Saint,1981-07-30,70,135,Team Oyama,United States,Newport Beach,California,Puerto Rican,21,15,9,2
+125297,Henry,Cejudo,The Messenger,1987-02-09,64,125,Fight Ready,United States,Phoenix,Arizona,Iroquois,19,16,6,2
+11660,John,Dodson,The Magician,1984-09-26,63,125,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Native Hawaiian,5,6,4,2
+16467,Chris,Cariaso,Kamikaze,1981-05-27,63,125,Fight and Fitness,United States,San Francisco,California,White,32,9,2,1
+81198,Ali,Bagautinov,Puncher,1985-06-12,64,125,Fight Nights Team,Russia,Dagestan,,Tongan,10,1,2,0
+1354,Norifumi,Yamamoto,Kid,1977-03-15,64,135,Krazy Bee,Japan,Tokyo,Kato,Kiowa,10,11,3,4
+12158,Damacio,Page,The Angel of Death,1982-09-30,66,125,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Melanesian,13,10,6,4
+11743,Brad,Pickett,One Punch,1978-09-24,66,125,American Top Team,England,London,,Chamorro,9,21,9,2
+33932,Cat,Zingano,Alpha,1982-07-01,66,135,Zingano Brazilian Jiu-Jitsu,United States,Broomfield,Colorado,Chilean,18,20,9,3
+22071,Alexis,Davis,Ally-Gator,1984-10-04,65,136,Cesar Gracie Fight Team,Canada,Port Colborne,Ontario,Dominican (Dominican Republic),35,1,1,4
+67007,Liz,Carmouche,Girl-Rilla,1984-02-19,66,135,Team Hurricane Awesome,United States,San Diego,California,Costa Rican,3,22,5,3
+10249,Roy,Nelson,Big Country,1976-06-20,72,249,Country Club,United States,Las Vegas,Nevada,Nicaraguan,3,25,2,3
+461,Alistair,Overeem,The Demolition Man,1980-05-17,77,257,Jackson-Wink MMA,Netherlands,Amsterdam,,Dominican (Dominican Republic),18,24,10,3
+7306,Gabriel,Gonzaga,Napao,1979-05-18,74,258,Team Link,Brazil,Rio de Janeiro,,Pima,13,15,7,4
+270,Andrei,Arlovski,The Pit Bull,1979-02-04,76,241,Jackson-Wink MMA,Belarus,Minsk,,Chilean,30,25,5,4
+16785,Travis,Browne,Hapa,1982-07-17,79,236,Glendale Fighting Club,United States,Oahu,Hawaii,Eskimo,31,11,3,1
+1767,James,Zikic,The Messenger,1977-03-31,74,185,London Shootfighters,England,Watford,Hertfordshire,Lumbee,19,17,6,1
+10668,Mark,Hunt,The Super Samoan,1974-03-23,70,262,American Top Team,New Zealand,South Auckland,Auckland,Laotian,15,16,2,0
+2873,John,Olav Einemo,The Viking,1975-12-10,78,251,Golden Glory,Norway,Oslo,Oslo,Peruvian,7,13,8,4
+3363,Kristof,Midoux,The French Hurricane,1900-01-00,73,220,Boxing Squad,France,Nice,,Pueblo,27,9,4,4
+12354,Antonio,Silva,Bigfoot,1979-09-14,76,264,American Top Team,Brazil,Brasilia,Distrito Federal,Costa Rican,23,23,9,3
+207,Ebenezer,Fontes Braga,Pitbull,1969-04-14,72,199,Gracie Barra Combat Team,Brazil,Rio de Janeiro,,Paiute,20,10,7,1
+21851,Valerie,Letourneau,Trouble,1983-04-29,67,116,American Top Team,Canada,Montreal,Quebec,Sri Lankan,28,12,1,4
+5358,Rosi,Sexton,The Surgeon,1977-07-16,63,135,Next Generation,England,Manchester,,Argentinian,13,9,6,2
+73710,Juliana,Lima,Ju Thai,1982-03-15,65,115,Gracie Barra BH,Brazil,Belo Horizonte,Minas Gerais,Guatemalan,9,4,3,0
+48404,Claudia,Gadelha,Claudinha,1988-12-07,63,115,Nova Uniao,Brazil,Mossoro,Rio Grande do Norte,Taiwanese,13,14,6,2
+63410,Carla,Esparza,Cookie Monster,1987-10-10,61,115,Team Oyama,United States,Redondo Beach,California,Navajo,13,15,3,4
+24539,Johny,Hendricks,Bigg Rigg,1983-09-12,69,170,Team Takedown,United States,Ada,Oklahoma,Micronesian,27,16,10,4
+13068,Jake,Ellenberger,The Juggernaut,1985-03-28,69,170,Reign MMA,United States,Omaha,Nebraska,Filipino,23,9,7,3
+14310,Matt,Brown,The Immortal,1981-01-10,72,170,Team Jorge Gurgel,United States,Xenia,Ohio,Chippewa,28,14,2,1
+15174,Jessica,Aguilar,Jag,1982-05-08,64,115,American Top Team,United States,Houston,Texas,Ecuadorian,29,14,10,0
+274,Renato,Sobral,Babalu,1975-07-09,72,205,Babalus Iron Gym,Brazil,Rio de Janeiro,,Pueblo,34,23,6,3
+51345,Lorenz,Larkin,The Monsoon,1986-09-03,71,170,Millennia MMA,United States,Riverside,California,Seminole,23,12,7,2
+14018,Rory,MacDonald,Red King,1989-07-22,71,170,Tristar Gym,Canada,Kelowna,British Columbia,Chamorro,12,21,4,3
+41523,Adlan,Amagov,Borz,1986-10-30,71,170,Jackson-Wink MMA,Russia,Grozny,,Korean,12,3,5,4
+15156,Bobby,Voelker,Vicious,1979-04-26,72,171,Finneys MMA,United States,Kansas City,Kansas,Cherokee,12,8,8,2
+7798,Jason,Miller,Mayhem,1980-12-24,72,185,Team Mayhem,United States,Mission Viejo,California,Indonesian,16,7,9,4
+9418,Josh,Koscheck,Kos,1977-11-30,70,170,Dethrone Base Camp,United States,Buffalo,New York,Uruguayan,8,16,6,1
+2578,Scott,Smith,Hands of Steel,1979-05-21,72,185,Capital City Fighting Alliance,United States,Elk Grove,California,Tongan,14,16,6,2
+276,Matt,Lindland,The Law,1970-05-17,72,185,Team Quest,United States,Eagle Creek,Oregon,Micronesian,1,11,3,3
+311,Frank,Trigg,Twinkle Toes,1972-05-07,68,181,Xtreme Couture,United States,Rochester,New York,Japanese,14,5,1,3
+370,Falaniko,Vitale,Niko,1974-07-14,70,185,808 Top Team,United States,Honolulu,Hawaii,Polynesian,29,18,10,1
+3195,Pete,Spratt,The Secret Weapon,1971-01-09,69,170,Team Spratt,United States,San Antonio,Texas,Eskimo,14,23,6,0
+267,Chris,Lytle,Lights Out,1974-08-18,71,170,Integrated Fighting Academy,United States,Indianapolis,Indiana,Pima,29,19,5,0
+1303,Steve,Berger,The Red Nose Pitbull,1973-05-20,70,170,Berger MMA,United States,St. Louis,Missouri,Sri Lankan,11,10,10,1
+6258,Chris,Leben,The Crippler,1980-07-21,71,185,Alliance MMA,United States,Portland,Oregon,Tohono O'Odham,18,7,2,4
+338,Dean,Lister,The Boogeyman,1976-02-13,73,185,Victory MMA,United States,San Diego,California,Choctaw,20,19,7,0
+13093,Danillo,Villefort,Indio,1983-05-08,73,186,Blackzilians,United States,Coconut Creek,Florida,Aleut,5,5,10,2
+524,Ronald,Jhun,Machine Gun,1900-01-00,71,170,808 Top Team,United States,Honolulu,Hawaii,Micronesian,7,19,3,3
+278,Phil,Baroni,New York Bad Ass,1976-04-16,69,170,American Kickboxing Academy,United States,Long Island,New York,Yuman,17,3,4,1
+903,David,Loiseau,The Crow,1979-12-17,72,192,Tristar Gym,Canada,Montreal,Quebec,Ottawa,10,18,2,2
+5735,Jorge,Santiago,The Sandman,1980-10-09,73,170,Blackzilians,Brazil,Rio de Janeiro,,Mexican,17,22,7,2
+1804,Tim,Credeur,Crazy,1977-07-09,75,185,Gladiators Academy,United States,Lafayette,Louisiana,White,14,8,9,2
+536,David,Terrell,The Soul Assassin,1978-01-09,72,185,Cesar Gracie Jiu-Jitsu,USA,California,,American Indian,18,15,9,4
+10093,Julie,Kedzie,Fireball,1981-03-18,65,135,Jackson-Wink MMA,United States,Bloomington,Indiana,Apache,27,19,7,2
+2738,Seth,Petruzelli,The Silverback,1979-12-03,72,205,The Jungle MMA,United States,Fort Myers,Florida,Chilean,21,15,5,4
+61,Todd,Medina,El Tiburon,1970-04-30,70,205,Carlson Gracie Jiu-Jitsu,United States,Santa Ana,California,Pakistani,5,5,5,0
+2712,Jorge,Rivera,El Conquistador,1972-02-28,73,185,Rivera Athletic Center,United States,Milford,Massachusetts,Cuban,19,5,9,0
+59838,Steven,Ray,Braveheart,1990-03-25,70,155,Higher Level MMA,Scotland,Kirkcaldy,Fife,Mexican,23,11,2,2
+33161,Mairbek,Taisumov,Beckan,1988-08-08,69,155,Team Taisumov,Russia,Grozny,Chechnya,Honduran,34,4,2,0
+36155,Chan,Sung Jung,The Korean Zombie,1987-03-17,69,145,Korean Zombie MMA,South Korea,Gyeongju,North Gyeongsang,Lumbee,8,15,3,2
+32051,Ricardo,Lamas,The Bully,1982-05-21,68,145,MMA Masters,United States,Chicago,Illinois,Alaska Native,20,3,1,4
+8021,Kenny,Florian,KenFlo,1976-05-26,70,145,Florian Martial Arts Center,United States,Westwood,Massachusetts,Central American,24,8,5,2
+14204,Frankie,Edgar,The Answer,1981-10-16,66,145,Ricardo Almeida Jiu-Jitsu,United States,Toms River,New Jersey,Bangladeshi,10,16,1,0
+5185,Manny,Gamburyan,The Anvil,1981-05-08,65,135,Team Hayastan,United States,Los Angeles,California,Argentinian,11,1,6,2
+4728,Mark,Hominick,The Machine,1982-07-22,68,145,Team Tompkins,Canada,London,Ontario,Ute,26,20,10,3
+8753,Phil,Harris,Billy,1983-04-09,65,125,Gym01,England,Portsmouth,Hampshire,Tohono O'Odham,19,1,7,4
+13005,Michihiro,Omigawa,Michi,1975-12-19,66,145,Neo Judo Academy,Japan,Ibaraki,,Chilean,24,12,4,3
+22173,Cody,McKenzie,The AK Kid,1987-12-16,72,170,Warrior Camp,United States,Cordova,Alaska,South American,30,15,7,2
+22094,Darren,Elkins,The Damage,1984-05-16,70,145,Duneland Vale Tudo,United States,Hobart,Indiana,Alaskan Athabascan,35,17,8,4
+15058,Nik,Lentz,The Carny,1984-08-13,68,145,American Top Team,United States,St. Paul,Minnesota,Creek,32,23,7,0
+511,Javier,Vazquez,Showtime,1977-07-16,67,145,Gracie Jiu-Jitsu,United States,Pomona,California,Alaskan Athabascan,30,19,5,1
+23390,Erik,Koch,New Breed,1988-10-04,70,145,Roufusport,United States,Cedar Rapids,Iowa,Malaysian,10,8,3,3
+22537,Steven,Siler,Super,1987-02-15,71,164,The Pit Elevated Fight Team,United States,Provo,Utah,Fijian,33,7,7,3
+35448,Pablo,Garza,The Scarecrow,1983-09-16,73,145,Academy of Combat Arts,United States,Fargo,North Dakota,Alaska Native,22,13,2,4
+27738,Yancy,Medeiros,The Kid,1987-09-07,70,155,Team Hakuilua,United States,Makaha,Hawaii,Guamanian,19,16,1,4
+17758,Jason,Young,Shotgun,1986-06-28,69,145,American Top Team,England,London,,Apache,31,3,5,1
+26070,Danny,Castillo,Last Call,1979-08-25,69,155,Team Alpha Male,United States,Sacaramento,California,Crow,7,5,7,0
+20416,Josh,Grispi,The Fluke,1988-10-14,71,146,South Shore Sport Fighting,United States,Rockland,Massachusetts,Yakama,6,12,2,2
+68205,Paul,Felder,The Irish Dragon,1985-04-25,70,155,Renzo Gracie Philly,United States,Philadelphia,Pennsylvania,Alaska Native,25,17,9,3
+7632,Kyle,Noke,KO,1980-03-18,73,170,Jackson-Wink MMA,Australia,Dubbo,New South Wales,Yaqui,24,14,8,0
+1326,Tatsuya,Kawajiri,Crusher,1978-05-08,67,145,T-Blood,Japan,Inashiki,Ibaraki,Chinese,1,11,10,0
+19789,Hacran,Dias,Barnabe,1984-05-16,68,145,Nova Uniao,Brazil,Rio de Janeiro,,Indonesian,11,17,1,0
+71116,Charles,Rosa,Boston Strong,1986-08-24,70,145,American Top Team,United States,Peabody,Massachusetts,Vietnamese,19,15,2,4
+11884,Ross,Pearson,The Real Deal,1984-09-26,68,155,Alliance MMA,England,Sunderland,Tyne and Wear,Fijian,29,9,8,2
+53717,Daron,Cruickshank,The Detroit Superstar,1985-06-11,68,155,Michigan Top Team,United States,Wayne,Michigan,Salvadoran,28,8,1,4
+25981,Diego,Nunes,The Gun,1982-11-30,66,145,X-Gym,Brazil,Caxias do Sul,Rio Grande do Sul,Houma,16,13,2,1
+12236,Matt,Wiman,Handsome,1983-09-19,70,155,Skrap Pack,United States,Tulsa,Oklahoma,Samoan,6,17,9,1
+14028,Paul,Kelly,Tellys,1984-09-12,69,169,Team Kaobon,England,Liverpool,,Asian Indian,6,7,5,4
+15835,Gray,Maynard,The Bully,1979-09-05,68,155,American Kickboxing Academy,United States,Santa Cruz,California,Sioux,7,24,1,2
+1307,B.J.,Penn,The Prodigy,1978-12-13,69,145,BJ Penns MMA,United States,Hilo,Hawaii,Blackfeet,34,12,5,4
+73700,Artem,Lobov,The Russian Hammer,1900-01-00,69,146,SBG Ireland,Ireland,Dublin,,Thai,31,23,8,4
+5639,Tom,Niinimaki,Stoneface,1982-07-25,69,145,Finnfighters Gym,Finland,Turku,,Asian,11,14,7,0
+40954,Jimmie,Rivera,El Terror,1989-06-29,64,135,Team Tiger Schulmann,United States,Ramsey,New Jersey,Malaysian,29,7,1,3
+50381,Cody,Garbrandt,No Love,1991-07-07,67,135,Strong Style Fight Team,United States,Uhrichsville,Ohio,South American,34,6,3,3
+36618,Maximo,Blanco,Maxi,1983-10-16,68,145,Yoshida Dojo,Venezuela,Caracas,,Korean,3,2,8,1
+83505,Jumabieke,Tuerxun,The Wild Wolf,1986-04-17,66,135,Xian Sports University,China,Xian,Shaanxi,Cherokee,33,18,1,1
+48046,Jim,Hettes,The Kid,1987-06-09,69,145,Northeast Jiu-Jitsu,United States,Swoyersville,Pennsylvania,Potawatomi,11,11,3,0
+28788,Stephen,Bass,Bigfish,1982-11-14,69,145,Mad House Gym,United States,Shreveport,Louisiana,Apache,29,6,5,0
+69083,Rose,Namajunas,Thug,1992-06-29,65,115,The Academy,United States,Milwaukee,Wisconsin,Yaqui,33,16,7,4
+94103,Joanne,Calderwood,JoJo,1986-12-23,66,116,Dinky Ninjas,Scotland,Glasgow,,Aleut,15,10,7,4
+99019,Paige,VanZant,12 Gauge,1994-03-26,64,115,Team Alpha Male,United States,Sparks,Nevada,Panamanian,32,5,8,0
+21564,Daniel,Pineda,The Pit,1985-08-06,67,155,4oz. Fight Club,United States,Houston,Texas,Kiowa,4,10,1,3
+160663,Augusto,Mendes,Tanquinho,1983-03-03,66,135,Soul Fighters BJJ,Brazil,Rio de Janeiro,Rio de Janeiro,Colombian,4,15,5,2
+58065,Dennis,Bermudez,The Menace,1986-12-13,66,145,Long Island MMA,United States,Saugerties,New York,Asian Indian,14,14,7,2
+16129,Iuri,Alcantara,Marajo,1980-08-04,69,136,Marajo Brothers Team,Brazil,Marajo,Para,Puget Sound Salish,21,8,4,4
+126881,Levan,Makashvili,The Hornet,1989-01-07,68,146,Mutant MMA,United States,Oceanside,New York,Navajo,10,7,5,0
+55503,Joey,Gambino,The Raging Warrior,1988-10-26,67,145,Team Raging Warriors,United States,Saugerties,New York,Laotian,30,9,4,0
+65310,Brian,Ortega,T-City,1991-02-21,69,145,Black House,United States,Torrance,California,Paiute,1,21,3,4
+47227,Chas,Skelly,The Scrapper,1985-05-11,71,145,Team Takedown,United States,Keller,Texas,Malaysian,5,24,9,2
+58385,Andre,Fili,Touchy,1990-06-25,70,145,Team Alpha Male,United States,Sacramento,California,Choctaw,26,24,4,1
+78465,Clay,Collard,Cassius,1993-03-10,71,145,The Pit Elevated Fight Team,United States,Price,Utah,Thai,33,21,5,3
+73756,Justin,Lawrence,The American Kid,1990-05-15,68,145,Power MMA,United States,Pacific,Missouri,Colville,9,7,5,0
+30300,Charles,Oliveira,do Bronx,1989-10-17,71,145,Macaco Gold Team,Brazil,Guaruja,Sao Paulo,Ecuadorian,23,8,3,0
+54054,Pat,Schilling,Thrilling,1988-08-28,68,145,Ambition Training Academy,United States,St. Paul,Minnesota,Chamorro,18,19,5,0
+2815,Leonard,Garcia,Bad Boy,1979-07-14,69,145,Jackson-Wink MMA,United States,Plainview,Texas,Melanesian,10,1,5,3
+69087,Will,Chope,The Kill,1990-09-08,76,155,Juggernaut Fight Club,United States,Sacramento,California,Indonesian,6,25,1,0
+13133,Cole,Miller,Magrinho,1984-04-26,73,145,American Top Team,United States,Augusta,Georgia,Ute,23,3,4,0
+47549,Norman,Parke,Stormin,1986-12-22,71,155,Next Generation NI,Northern Ireland,Bushmills,Antrim,Hmong,32,1,7,1
+57214,Jake,Lindsey,The Librarian,1986-06-21,71,154,Combative Sports Center,United States,Manhattan,Kansas,Hmong,35,21,3,4
+4270,Paul,Daley,Semtex,1983-02-21,69,171,Spirit Dojo,England,Nottingham,,Vietnamese,6,2,10,1
+5432,Ivan,Jorge,Batman,1980-11-07,70,155,Team Tavares,Brazil,Florianopolis,Santa Catarina,Uruguayan,23,2,10,4
+17129,Abel,Trujillo,Killa,1983-09-18,68,155,Blackzilians,United States,Des Moines,Iowa,Laotian,8,10,2,4
+30021,Tony,Sims,2,1985-10-14,71,155,Elevation Fight Team,United States,Davenport,Iowa,Laotian,28,16,1,2
+3071,Leigh,Remedios,Bulldog,1976-01-13,67,145,Team Quannum,England,Hudderfield,,Puget Sound Salish,25,3,2,4
+34623,Curt,Warburton,The War,1900-01-00,72,155,NEVT,England,Bishop Auckland,County Durham,Blackfeet,15,14,4,2
+27440,Maciej,Jewtuszko,Irokez,1981-01-31,72,155,Berserkers Team,Poland,Szczecin,,Samoan,8,18,1,0
+2765,Joe,Riggs,Diesel,1982-09-23,72,170,MMA Lab,United States,Phoenix,Arizona,Guamanian,21,3,9,1
+158,Tito,Ortiz,The Huntington Beach Bad Boy,1975-01-23,74,205,Team Punishment,United States,Huntington Beach,California,Pueblo,23,24,8,3
+3500,Georges,St. Pierre,Rush,1981-05-19,70,170,Tristar Gym,Canada,St. Isidore,Quebec,Thai,6,20,7,2
+16830,David,Mitchell,Bulletproof,1979-10-24,72,185,Team Alpha Male,United States,Windsor,California,Honduran,32,7,6,2
+14062,Neil,Seery,2 Tap,1979-08-30,66,125,Team Ryano MMA,Ireland,Dublin,Leinster,Iroquois,10,3,10,1
+63616,Patrick,Holohan,The Hooligan,1988-05-03,69,125,SBG Ireland,Ireland,Dublin,,Houma,32,18,6,1
+192,Chuck,Liddell,The Iceman,1969-12-17,74,205,The Pit,United States,San Luis Obispo,California,Cuban,22,23,2,0
+217,Ron,Waterman,H2O,1965-11-23,74,260,Colorado Stars,United States,Greeley,Colorado,Alaskan Athabascan,6,21,10,0
+4397,Mike,Whitehead,Iron,1981-06-29,73,261,Xtreme Couture,United States,Salt Lake City,Utah,Cuban,23,18,10,4
+6943,Kazuhiro,Nakamura,King Kaz,1979-07-16,71,185,Yoshida Dojo,Japan,Fukuyama,Hiroshima,Apache,13,24,3,3
+2326,Mirko,Filipovic,Cro Cop,1974-09-10,74,227,Cro Cop Squad Gym,Croatia,Zagreb,,Alaska Native,32,14,7,4
+208,Pedro,Rizzo,The Rock,1974-05-03,73,244,Ruas Vale Tudo,Brazil,Rio de Janeiro,Rio de Janeiro,Chippewa,30,11,6,2
+175,Maurice,Smith,Mo,1961-12-13,74,206,The Alliance,United States,Seattle,Washington,Tongan,32,12,9,1
+272,Josh,Barnett,The Warmaster,1977-11-10,75,248,CSW,United States,Seattle,Washington,White,21,5,10,1
+1950,Mario,Neto,Sukata,1900-01-00,72,229,Mario Sukata Team,Brazil,Joao Pessoa,Paraiba,Mexican,29,16,9,4
+201,Pete,Williams,El Duro,1975-07-10,75,225,Lions Den,USA,San Lorenzo,California,Colombian,7,1,6,1
+174,Dan,Bobish,The Bull,1970-01-26,73,332,Strong Style Fight Team,United States,Cleveland,Ohio,Crow,31,1,8,2
+72981,Patrick,Cummins,Durkin,1980-11-16,74,205,Reign MMA,United States,Reinholds,Pennsylvania,Korean,19,17,5,2
+9680,Soa,Palelei,The Hulk,1977-12-07,76,265,AKA Thailand,Australia,Perth,Western Australia,Cheyenne,6,14,8,4
+81956,James,Vick,The Texecutioner,1987-02-23,75,155,Team Lloyd Irvin,United States,Mineral Wells,Texas,Uruguayan,28,5,1,4
+27802,Phil,Davis,Mr. Wonderful,1984-09-25,74,205,Alliance MMA,United States,Harrisburg,Pennsylvania,Shoshone,20,16,10,3
+117927,Glaico,Franca,Nego,1991-02-28,72,155,Astra Fight Team,Brazil,Curitibanos,Santa Catarina,Chickasaw,17,8,6,2
+339,Marvin,Eastman,The Beastman,1971-06-08,69,207,J-Sect MMA,United States,Las Vegas,Nevada,Eskimo,5,10,6,4
+7110,Antonio,Mendes,Samuray,1981-04-19,75,205,Dragon Fight,Brazil,Fortaleza,Ceara,American Indian and Alaska Native (AIAN),26,5,8,3
+38842,Ovince,St. Preux,OSP,1983-04-08,75,205,Knoxville MMA,United States,Knoxville,Tennessee,Houma,23,13,1,3
+13976,Marcio,Cruz,Pe de Pano,1978-04-24,76,205,Gracie Fusion,Brazil,Rio de Janeiro,,Samoan,35,9,2,1
+16426,Fabio,Maldonado,Caipira de Aco,1980-03-17,73,205,American Top Team,Brazil,Sorocaba,Sao Paulo,Yaqui,26,16,10,3
+17010,Rameau,Thierry Sokoudjou,The African Assassin,1984-04-18,70,205,Team Quest,United States,San Diego,California,Iroquois,29,1,4,4
+8,Ricco,Rodriguez,Suave,1977-08-19,76,214,American Fight Club,United States,Staten Island,New York,Ecuadorian,26,20,8,0
+6561,Ed,Herman,Short Fuse,1980-10-02,74,205,Trials MMA and Fitness,United States,Portland,Oregon,Blackfeet,18,17,2,4
+51471,Bryan,Barberena,Bam Bam,1989-05-03,72,155,MMA Lab,United States,Minneapolis,Minnesota,Venezuelan,13,16,5,3
+2270,Antonio,Rogerio Nogueira,Minotouro,1976-06-02,74,205,Team Nogueira,Brazil,Vitoria da Conquista,Bahia,Alaskan Athabascan,11,7,6,1
+8654,Matt,Horwich,Suave,1978-02-10,71,186,Legends MMA,United States,Hollywood,California,Puerto Rican,29,11,7,4
+15932,Chad,Griggs,The Grave Digger,1978-05-15,75,205,Apex MMA,United States,Tucson,Arizona,Yakama,33,4,6,2
+130911,Sage,Northcutt,Super,1996-03-01,72,156,Gracie Barra Katy,United States,Katy,Texas,Panamanian,32,14,8,4
+40356,Masio,Fullen,Lobo,1987-10-06,70,145,Alliance MMA,Mexico,Gudalajara,Jalisco,Vietnamese,31,9,2,1
+41586,Alex,Caceres,Bruce Leeroy,1988-06-20,69,135,MMA Lab,United States,Miami,Florida,White,35,6,4,1
+10846,Alexander,Yakovlev,The Thunder of the North,1984-07-18,73,170,K Dojo Warrior Tribe,Russia,St. Petersburg,,Kiowa,10,7,3,2
+24121,Kevin,Casey,King,1981-06-15,71,185,Black House,United States,Los Angeles,California,Bolivian,14,6,5,1
+86241,Olivier,Aubin-Mercier,The Quebec Kid,1989-02-23,69,155,H2O MMA,Canada,Boucherville,Quebec,Navajo,8,24,3,4
+13968,Rafael,Natal,Sapo,1982-12-25,72,185,Renzo Gracie Jiu-Jitsu,Brazil,Belo Horizonte,Minas Gerais,Guamanian,22,4,2,4
+34236,Myles,Jury,Fury,1988-10-31,71,155,Power MMA,United States,Hazel Park,Michigan,Sri Lankan,2,2,10,4
+1305,Matt,Serra,The Terror,1974-06-02,66,170,Serra-Longo Fight Team,United States,Long Island,New York,Taiwanese,6,5,6,2
+1356,Anderson,Silva,The Spider,1975-04-14,74,185,Team Nogueira,Brazil,Curitiba,Parana,Cree,28,23,6,2
+60762,Yoel,Romero,Soldier of God,1977-04-30,70,185,American Top Team,United States,Miami,Florida,Hmong,35,20,9,3
+74975,Luke,Sanders,Cool Hand,1985-12-12,67,135,The MMA Lab,United States,Clarksville,Tennessee,Potawatomi,9,7,9,1
+7466,Gegard,Mousasi,The Dreamcatcher,1985-08-01,73,186,Red Devil International,Netherlands,Leiden,South Holland,Dominican (Dominican Republic),32,5,4,1
+10339,Ben,Saunders,Killa B,1983-04-13,75,170,American Top Team Orlando,United States,Orlando,Florida,Crow,3,25,8,2
+6612,Patrick,Cote,The Predator,1980-02-29,71,170,BTT Canada,Canada,Quebec City,Quebec,Panamanian,24,17,1,1
+49519,Matt,Mitrione,Meathead,1978-07-15,75,255,Blackzilians,United States,Indianapolis,Indiana,Colombian,22,22,5,2
+31103,Francisco,Trinaldo,Massaranduba,1978-08-24,68,155,Evolucao Thai,Brazil,Brasilia,Federal District,Polynesian,25,4,10,2
+392,Rich,Franklin,Ace,1974-10-05,73,185,Team Extreme,United States,Cincinnati,Ohio,Eskimo,20,1,2,3
+14829,Brian,Stann,All-American,1980-09-24,73,185,Jackson-Wink MMA,United States,Jacksonville,North Carolina,Chickasaw,33,23,10,1
+269,Alex,Stiebling,The Brazilian Killa,1976-12-26,74,195,Integrated Fighting Academy,United States,Indianapolis,Indiana,Korean,31,2,8,4
+1712,Nate,Marquardt,The Great,1979-04-20,72,185,High Altitude Martial Arts,United States,Aurora,Colorado,White,8,14,7,4
+5569,Yushin,Okami,Thunder,1981-07-21,74,185,Wajutsu Keishukai Tokyo,Japan,Kawasaki,Kanagawa,Thai,9,21,2,2
+7202,Terry,Martin,Dangerous,1980-10-10,67,185,Iron Academy,United States,Chicago,Illinois,Ecuadorian,11,22,7,4
+13,Heath,Herring,The Texas Crazy Horse,1978-03-02,76,250,Las Vegas Combat Club,United States,Waco,Texas,American Indian and Alaska Native (AIAN),2,24,4,0
+11895,Yoshihiro,Akiyama,Sexyama,1975-07-29,70,170,Jackson-Wink MMA,Japan,Osaka,,Chippewa,18,15,5,3
+153,Kazuo,Takahashi,Yoshiki,1969-03-13,70,203,D-One Gym,Japan,Chiba,,Ute,27,14,3,2
+209,Wanderlei,Silva,The Axe Murderer,1976-07-03,70,185,Wand Fight Team,Brazil,Curitiba,Parana,Tlingit-Haida,13,11,7,1
+157,Tra,Telligman,Trauma,1965-02-07,74,233,Lions Den,United States,Dallas,Texas,Shoshone,15,19,8,4
+59,Jon,Hess,The Giant With Attitude,1900-01-00,79,295,Team Quest,United States,Encinitas,California,American Indian and Alaska Native (AIAN),28,23,6,3
+323,Gilbert,Yvel,The Hurricane,1976-06-30,74,206,Throwdown,Netherlands,Amsterdam,,South American,30,13,5,3
+6445,Sam,Hoger,Alaskan Assassin,1980-06-28,74,205,Miletich Martial Arts,United States,Eagle River,Alaska,Chippewa,18,20,8,3
+11453,Brad,Imes,The Hillbilly Heartthrob,1977-03-16,79,260,Sacramaneto BJJ,United States,Sacramento,California,American Indian,35,21,6,2
+78898,Teruto,Ishihara,Yashabo,1991-07-23,67,145,Chokushinkai,Japan,Osaka,,Pakistani,27,13,1,3
+12855,Carmelo,Marrero,The Fury,1981-01-26,74,255,American Top Team,United States,Douglasville,Pennsylvania,American Indian,33,21,8,4
+22298,Brandon,Thatch,Rukus,1985-07-11,74,170,Elevation Fight Team,United States,Denver,Colorado,Laotian,4,2,7,0
+5453,Siyar,Bahadurzada,The Great,1984-04-17,71,170,Blackzilians,Afghanistan,Kabul,,Chilean,17,22,3,4
+71442,Julian,Erosa,Juicy J,1989-07-31,72,145,Yakima MMA,United States,Yakima,Washington,Japanese,9,14,5,2
+10709,Vinny,Magalhaes,Pezao,1984-07-02,75,205,Syndicate MMA,Brazil,Rio de Janeiro,,Delaware,12,21,3,4
+16161,Rafael,Cavalcante,Feijao,1980-04-04,72,205,Team Nogueira,Brazil,Ilha Solteira,Sao Paulo,Argentinian,21,10,10,0
+1927,Jason,Brilz,The Hitman,1975-07-07,71,205,Elite Performance,United States,Omaha,Nebraska,Asian,13,9,5,0
+9491,Anthony,Perosh,The Hippo,1972-05-10,75,205,Sinosic,Australia,Sydney,New South Wales,Puerto Rican,31,20,2,4
+13275,Eric,Schafer,Red,1977-09-20,75,185,Red Schafer MMA,United States,Milwaukee,Wisconsin,Bangladeshi,7,18,10,4
+5366,Alessio,Sakara,Legionarius,1981-09-02,73,185,American Top Team,Italy,Rome,Lazio,Cree,1,23,5,0
+3660,Travis,Wiuff,Diesel,1978-03-15,75,259,Elite Performance,United States,Rochester,Minnesota,Peruvian,25,11,10,3
+84342,Kevin,Lee,The Motown Phenom,1992-09-04,69,155,Xtreme Couture,United States,Grand Rapids,Michigan,Apache,21,17,1,4
+296,Vernon,White,Tiger,1971-12-03,72,205,Lions Den,United States,Palo Alto,California,Polynesian,27,6,3,1
+15574,John,Maguire,The One,1983-05-19,69,165,Tsunami Gym,England,Wisbech,Cambridgeshire,Houma,22,9,10,1
+17460,Josh,Samman,Anqa,1988-03-14,75,186,MMA Masters,United States,Tallahassee,Florida,Alaska Native,35,4,9,2
+18921,Reza,Madadi,Mad Dog,1978-06-20,71,155,Allstars Training Center,"Iran, Islamic Republic of",Tehran,,Cheyenne,25,8,2,3
+18253,Mark,Scanlon,Scanno,1900-01-00,69,170,Team Kaobon,England,Liverpool,Merseyside,White,3,8,3,3
+9179,Josh,Neer,The Dentist,1983-03-24,71,170,Cesar Gracie Fight Team,United States,Des Moines,Iowa,Chippewa,8,4,5,0
+347,Paul,Buentello,The Headhunter,1974-01-16,75,205,Grudge Training Center,United States,Amarillo,Texas,Native Hawaiian,22,16,5,1
+65,Joe,Stevenson,Daddy,1982-06-15,67,155,Joe Stevensons Cobra Kai,United States,Victorville,California,Bangladeshi,2,20,9,0
+45230,Louis,Gaudinot,Goodnight,1984-08-28,63,125,Team Tiger Schulmann,United States,Yonkers,New York,Taiwanese,22,6,9,1
+3599,Mark,Weir,The Wizard,1967-09-19,74,185,Range,England,Gloucester,Gloucestershire,Lumbee,24,2,7,1
+33,Remco,Pardoel,Grizzly,1900-01-00,74,250,Pardoel Sports,Holland,Oss,,Native Hawaiian,20,10,9,4
+7431,Melvin,Guillard,The Young Assassin,1983-03-30,69,155,American Top Team,United States,New Orleans,Louisiana,Pima,10,11,9,3
+1301,Din,Thomas,Dinyero,1976-09-28,69,143,American Top Team,United States,Orlando,Florida,Venezuelan,25,9,10,4
+52,Dan,Severn,The Beast,1958-06-08,74,253,The Beast Academy,United States,Coldwater,Michigan,Dominican (Dominican Republic),17,4,4,1
+72046,Walt,Harris,The Big Ticket,1983-06-10,76,241,American Top Team,United States,Homewood,Alabama,Tlingit-Haida,15,25,9,0
+18168,Hector,Urbina,El Toro,1987-09-17,72,170,American Top Team,United States,Chicago,Illinois,Shoshone,10,11,4,4
+2383,Nate,Quarry,Rock,1972-03-18,72,185,Team Quest,United States,Gresham,Oregon,Tohono O'Odham,5,6,3,3
+41247,Dustin,Kimura,The Diamond,1989-05-21,66,136,Gracie Technics,United States,Honolulu,Hawaii,Chamorro,28,1,8,0
+64,Chris,Brennan,The Westside Strangler,1971-10-12,68,155,Next Generation,United States,Mission Viejo,California,Nicaraguan,12,5,5,0
+2394,Josh,Thomson,The Punk,1978-09-21,70,153,American Kickboxing Academy,United States,San Jose,California,Delaware,27,16,8,0
+68788,Michael,Johnson,The Menace,1986-06-04,70,155,Blackzilians,United States,Springfield,Missouri,Costa Rican,13,7,8,2
+4153,Kurt,Pellegrino,Batman,1979-05-07,68,155,Pellegrino MMA,United States,Point Pleasant,New Jersey,American Indian,8,13,5,0
+425,Takanori,Gomi,The Fireball Kid,1978-09-22,68,155,Kugayama Rascal,Japan,Tokyo,Kato,South American,28,13,10,0
+12212,Alvin,Robinson,Kid,1982-07-16,69,145,Grudge Training Center,United States,Denver,Colorado,Asian Indian,6,15,3,2
+16374,Dong,Hyun Kim,Stun Gun,1981-11-17,73,170,Busan Team M.A.D.,South Korea,Busan,Yeongnam,Creek,14,18,7,3
+4923,Joe,Lauzon,J-Lau,1984-05-22,69,155,Lauzon MMA,United States,Bridgewater,Massachusetts,Indonesian,22,22,4,1
+277,Sean,Sherk,The Muscle Shark,1973-08-05,66,155,Minnesota Martial Arts Academy,United States,Minneapolis,Minnesota,Panamanian,9,20,8,2
+20744,Shamar,Bailey,The Watchman,1982-09-22,68,170,Sparta Indy,United States,Indianapolis,Indiana,Samoan,14,10,7,4
+4833,Marcus,Aurelio,Maximus,1973-08-18,70,170,Elite Mixed Fighters,Brazil,Fortaleza,Ceara,Chinese,7,18,3,3
+11481,Dustin,Hazelett,McLovin,1986-04-29,73,155,Team Jorge Gurgel,United States,Cincinnati,Ohio,Pakistani,8,7,4,0
+17016,Joe,Brammer,The Southside Strangler,1983-08-30,68,156,Victory MMA,United States,Des Moines,Iowa,Peruvian,26,12,3,0
+17915,Mike,de la Torre,El Cucuy,1986-09-22,72,135,MMA Lab,United States,San Diego,California,Pakistani,11,9,9,3
+42432,Felice,Herrig,Lil Bulldog,1984-09-18,64,115,Team Curran,United States,Buffalo Grove,Illinois,Crow,27,25,1,4
+100715,Jessica,Andrade,Bate Estaca,1991-09-25,62,115,Parana Vale Tudo,Brazil,Umuarama,Parana,Cree,6,4,7,2
+31239,Tony,Ferguson,El Cucuy,1984-02-12,72,155,Team Death Clutch,United States,Oxnard,California,Osage,8,10,3,2
+7168,Jamie,Varner,C-4,1984-12-10,68,155,Arizona Combat Sports,United States,Phoenix,Arizona,Yakama,16,12,2,4
+1046,Rich,Clementi,No Love,1976-03-31,69,155,Team Voodoo,United States,Slidell,Lousiana,South American,28,18,9,1
+53375,Piotr,Hallmann,Pletwal,1987-08-25,69,155,Mighty Bulls Gdynia,Poland,Gdynia,,Fijian,20,10,2,3
+6246,Pat,Healy,Bam Bam,1983-07-20,69,155,Sports Lab,United States,St. Louis,Missouri,Mexican,22,1,8,3
+37260,Rafaello,Oliveira,Tractor,1982-01-26,68,155,AMA Fight Club,United States,Whippany,New Jersey,Yakama,1,7,4,2
+8321,Jason,Dent,Dynamite,1980-06-12,70,158,GriffonRawl Thaiboxing & MMA Academy,United States,Cincinnati,Ohio,Chamorro,18,13,2,4
+2427,Fabricio,Camoes,Morango,1978-12-23,69,155,Gracie Humaita,Brazil,Rio de Janeiro,,Sri Lankan,18,2,6,4
+2235,Eiji,Mitsuoka,The Heaven-Sent Child of the Cage,1976-01-01,67,145,Wajyutsu Keisyukai RJW,Japan,Handa,Aichi,Cheyenne,5,16,3,0
+5998,Thiago,Alves,Pitbull,1983-10-03,70,170,American Top Team,Brazil,Fortaleza,Ceara,Guatemalan,34,13,4,3
+33532,Mike,Ricci,The Martian,1986-03-18,72,155,Tristar Gym,Canada,Montreal,Quebec,Bangladeshi,7,12,3,2
+6727,K.J.,Noons,King,1982-12-07,71,168,The Arena,United States,San Diego,California,Menominee,28,13,7,3
+7415,Phillipe,Nover,Super,1984-02-03,69,145,Team Renzo Gracie,United States,Brooklyn,New York,Kiowa,31,11,9,1
+81634,Jonavin,Webb,Spyder,1989-04-28,69,170,Renzo Gracie Philly,United States,Marlton,New Jersey,Peruvian,8,13,5,0
+87865,Thomas,Almeida,Thominhas,1991-07-31,67,135,Chute Boxe,Brazil,Sao Paulo,Sao Paulo,Native Hawaiian and Other Pacific Islander (NHPI),25,13,10,0
+9901,Sam,Stout,Hands of Stone,1984-04-23,69,155,Team Tompkins,Canada,London,Ontario,Taiwanese,30,19,8,0
+29111,Bubba,Bush,The Fightin Texas Aggie,1985-07-24,72,185,Brazos Valley MMA,United States,College Station,Texas,Argentinian,34,13,6,4
+55070,Edward,Faaloloto,Falo,1985-07-15,69,170,Mori Dojo,United States,Honolulu,Hawaii,Mexican,3,8,1,3
+14539,Matt,Grice,The Real One,1981-07-29,68,145,R-1 MMA,United States,Harrah,Oklahoma,Paraguayan,14,10,10,3
+5739,Brian,Cobb,The Bandit,1980-09-03,71,155,Team Pain and Suffering,United States,Bakersfield,California,Hmong,28,16,2,1
+12073,Yoshiyuki,Yoshida,Zenko,1974-05-10,71,155,Haleo Top Team,Japan,Tokyo,,Melanesian,6,11,5,0
+19521,Leandro,Issa,Brodinho,1983-09-19,66,136,Evolve MMA,Brazil,Ubatuba,Sao Paulo,Alaskan Athabascan,13,16,7,4
+3496,Bart,Palaszewski,Bartimus,1983-05-30,69,145,Team Curran,United States,Crystal Lake,Illinois,Chilean,29,4,2,3
+101,Duane,Ludwig,Bang,1978-08-04,70,170,Grudge Training Center,United States,Denver,Colorado,Chilean,18,15,6,3
+45430,Caros,Fodor,The Future,1984-01-07,69,156,AMC Pankration,United States,Kirkland,Washington,Black or African American,13,6,8,0
+12078,Mizuto,Hirota,Pugnus,1981-05-05,67,145,Cave,Japan,Isahaya,Nagasaki,Salvadoran,12,23,9,2
+3217,Luis,Ramos,Beicao,1981-01-18,68,170,Nova Uniao,Brazil,Rio de Janeiro,Rio de Janeiro,Malaysian,27,12,10,0
+1424,Alexandre,Barros,Baixinho,1900-01-00,68,170,Carlson Gracie Team,Brazil,Rio de Janeiro,Rio de Janeiro,Vietnamese,35,8,7,1
+4481,Milton,Vieira,Miltinho,1978-10-04,72,145,Rio Fighters,Brazil,Rio de Janeiro,Rio de Janeiro,Polynesian,17,2,5,0
+115911,Wagner,Silva Gomes,Wagnao,1987-02-07,72,185,Tata Fight Team,Brazil,Vicosa,Minas Gerais,Thai,16,5,6,4
+23156,Renan,Barao,The Baron,1987-01-31,67,135,Nova Uniao,Brazil,Natal,Rio Grande do Norte,Hmong,33,21,8,4
+22400,Cezar,Ferreira,Mutante,1985-02-15,73,185,Blackzilians,Brazil,Ibitinga,Sao Paulo,Salvadoran,15,4,5,4
+17004,Joe,Soto,One Bad Mofo,1987-03-22,66,135,Central Valley Combat Academy,United States,Porterville,California,Spaniard,17,17,1,1
+63284,Andrew,Craig,Highlight,1986-01-15,73,170,Team Tooke,United States,Houston,Texas,Creek,9,11,10,3
+43866,Clint,Hester,Headbussa,1986-11-21,74,185,X3 Sports,United States,Atlanta,Georgia,Costa Rican,30,18,9,0
+14173,Joe,Ellenberger,Excalibur,1985-03-28,68,155,Premier Combat Center,United States,Omaha,Nebraska,Pima,21,25,4,4
+36889,James,Moontasri,Moonwalker,1988-04-10,70,155,Black House,United States,Los Angeles,California,Polynesian,11,7,3,4
+21798,Richie,Vaculik,Vas,1983-06-19,66,125,TP Fight Team,Australia,Maroubra,New South Wales,Colville,6,4,1,1
+122139,Jake,Matthews,The Celtic Kid,1994-08-19,69,156,Nexus,Australia,Epping,Victoria,Guamanian,30,23,5,1
+6120,Akbarh,Arreola,El Caballero,1983-01-14,70,155,Entram Gym,Mexico,Tijuana,Baja California,Apache,3,8,4,0
+16777,Danny,Martinez,The Gremlin,1985-06-14,65,135,Alliance MMA,United States,Tempe,Arizona,Potawatomi,15,13,7,3
+66313,Aljamain,Sterling,Funk Master,1989-07-31,67,135,Serra-Longo Fight Team,United States,Cortland,New York,Indonesian,28,5,3,3
+64792,Louis,Smolka,Da Last Samurai,1991-07-16,69,125,Hawaii Elite MMA,United States,Waipahu,Hawaii,Malaysian,12,14,6,4
+75842,Ruan,Potts,Fangzz,1978-02-23,74,251,Mark Robinson MMA,South Africa,Cape Town,Western Cape,Eskimo,31,14,1,2
+11281,Tim,Means,The Dirty Bird,1984-02-20,74,170,Fit NHB,United States,Albuquerque,New Mexico,Chilean,27,23,7,1
+15009,Erick,Silva,The Tiger,1984-06-21,71,170,Team Nogueira,Brazil,Vila Velha,Espirito Santo,Taiwanese,7,5,4,0
+188,Pat,Miletich,The Croation Sensation,1968-03-09,70,169,Miletich Martial Arts,United States,Bettendorf,Iowa,Chickasaw,5,25,4,4
+23091,Michelle,Waterson,The Karate Hottie,1986-01-06,63,105,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Colombian,30,22,6,2
+46224,Michael,Chiesa,Maverick,1987-12-07,73,155,Sikjitsu,United States,Spokane,Washington,Ute,5,7,3,4
+51225,Chris,Holdsworth,Holds It Down,1987-10-14,71,135,Team Alpha Male,United States,Las Vegas,Nevada,Alaska Native,21,17,4,2
+21339,Robbie,Peralta,Problems,1986-03-14,68,145,Team Xplode MMA,United States,Escondido,California,Guatemalan,15,15,3,1
+50883,Julianna,Pena,The Venezuelan Vixen,1989-08-19,67,134,SikJitsu,United States,Spokane,Washington,Osage,15,1,9,4
+22556,Mitch,Clarke,Danger Zone,1985-11-24,70,154,MMA Lab,Canada,Saskatoon,Saskatchewan,Guamanian,23,6,6,2
+7688,Jorge,Masvidal,Gamebred,1984-11-12,71,155,American Top Team,United States,Miami,Florida,Cherokee,11,5,6,1
+24067,Kyung,Ho Kang,Mr. Perfect,1987-09-09,69,135,Busan Team M.A.D.,South Korea,Busan,Yeongnam,Tohono O'Odham,26,18,9,2
+27953,Bobby,Green,King,1986-09-09,70,155,Pinnacle Fighting Systems,United States,Redlands,California,Asian Indian,26,11,9,2
+100031,Lucas,Martins,Mineiro,1988-11-11,72,145,Chute Boxe,Brazil,Montes Claros,Minas Gerais,Puget Sound Salish,22,12,5,3
+21446,Sirwan,Kakai,Zohan,1989-10-03,66,135,GBG MMA,Sweden,Gothenburg,,Chinese,4,14,9,2
+42309,Jamie,Yager,The Chosyn 1,1983-11-29,74,170,Kings MMA,United States,Huntington Beach,California,Guatemalan,27,3,10,3
+281,Elvis,Sinosic,The King of Rock n Rumble,1971-02-13,75,199,Sinosic Perosh Martial Arts,Australia,Sydney,,Paiute,7,8,5,4
+4388,Bill,Mahood,The Butcher,1967-02-01,75,205,Revolution Fight Team,Canada,Prince George,British Columbia,Ecuadorian,10,13,8,3
+4399,Kevin,Jordan,The Shaman,1970-12-31,75,245,USCAA,United States,Columbus,Georgia,Ottawa,28,2,7,0
+3525,Rory,Singer,Outburst,1976-05-28,74,185,Hardcore Gym,United States,Athens,Georgia,Costa Rican,23,24,2,4
+22732,Steve,Bosse,The Boss,1981-07-29,71,202,Tristar Gym,Canada,Montreal,Quebec,Sioux,12,20,5,3
+11292,Hector,Lombard,Showeather,1978-02-02,69,170,American Top Team,Cuba,Matanzas,,Cree,26,7,2,3
+21044,Ryan,Jimmo,The Big Deal,1981-11-27,74,205,Power MMA Team,Canada,Halifax,Nova Scotia,Argentinian,3,17,5,2
+7621,Igor,Pokrajac,The Duke,1979-02-01,72,205,American Top Team,Croatia,Zagreb,,Hmong,13,2,1,4
+80,Travis,Fulton,The Ironman,1977-05-29,72,230,Team Peak Performance,United States,Cedar Falls,Iowa,Sioux,33,22,7,3
+22350,C.B.,Dollaway,The Doberman,1983-08-10,74,185,Power MMA Team,United States,Tempe,Arizona,Choctaw,20,10,9,0
+16470,Tamdan,McCrory,The Barn Cat,1986-11-05,76,170,CNY MMA,United States,Cortland,New York,Central American,1,20,4,2
+14210,Uriah,Hall,Primetime,1984-07-31,72,186,Team Tiger Schulmann,United States,New York City,New York,Chilean,8,19,6,1
+14121,Chris,Price,Exorcist,1900-01-00,74,203,Team IBJJA,United States,Beach Grove,Indiana,Ottawa,27,22,10,4
+26160,Nicholas,Musoke,Nico,1986-04-05,72,170,Allstars Training Center,Sweden,Botkyrka,Stockholm,Creek,27,24,5,4
+7780,James,Irvin,The Sandman,1978-09-12,,205,AKS Chorzow,Poland,Chorzow,,Laotian,16,10,7,4
+2386,Drew,McFedries,The Massacre,1978-07-27,72,185,Champions Gym,United States,Bettendorf,Iowa,Aleut,17,22,8,3
+4391,Victor,Valimaki,The Finnisher,1981-12-17,72,233,Complete Fitness and Martial Arts,Canada,Edmonton,Alberta,Comanche,14,23,9,1
+28017,Johnny,Case,Hollywood,1989-06-28,73,155,Power MMA,United States,Jefferson,Iowa,Argentinian,12,8,6,0
+19478,Logan,Clark,The Pink Pounder,1985-02-16,74,185,Minnesota Martial Arts Academy,United States,Eyota,Minnesota,Panamanian,5,19,4,2
+4582,Joe,Jordan,Porkchop,1978-07-28,66,170,Miletich Fighting Systems,United States,Pikeville,Kentucky,Comanche,29,5,8,0
+239,Shonie,Carter,Mr. International,1972-05-03,69,176,Iron Academy,United States,Chicago,Illinois,White,25,9,5,0
+9863,Rob,Kimmons,The Rosedale Reaper,1981-01-30,70,170,K2L Grindhouse,United States,Liberty,Missouri,White,19,11,6,0
+10669,Chris,Tuchscherer,The Crowbar,1975-09-08,74,260,Academy of Combat Arts,United States,Fargo,North Dakota,Sri Lankan,32,18,2,0
+15949,Jared,Hamman,The Messenger,1982-03-07,75,205,Dynamix MMA,United States,Atascadero,California,Thai,23,14,10,2
+7652,Josh,Hendricks,Heavy,1976-08-28,74,259,Superior Health Club,United States,Mansfield,Ohio,Taiwanese,9,12,2,0
+2829,Wesley,Correira,Cabbage,1900-01-00,75,260,Cabbage MMA,United States,Hilo,Hawaii,Laotian,5,22,1,3
+54543,Oli,Thompson,The Spartan,1980-01-02,73,205,ZT Fight Skool,England,Hove,East Sussex,Cambodian,18,9,1,2
+46033,Hayder,Hassan,Hulk,1982-10-20,70,170,American Top Team,United States,Coconut Creek,Florida,Eskimo,18,12,10,1
+25412,Nathan,Coy,Soulforce,1978-07-24,70,170,American Top Team,United States,Portland,Oregon,Choctaw,32,12,4,3
+15907,Roger,Hollett,The Hulk,1978-10-08,70,205,Titans MMA,Canada,Halifax,Nova Scotia,American Indian and Alaska Native (AIAN),27,11,10,3
+66474,Vicente,Luque,The Silent Assassin,1991-11-27,71,170,Blackzilians,United States,Westwood,New Jersey,Tohono O'Odham,2,22,4,1
+120691,Kamaru,Usman,Marty / The Nigerian Nightmare,1988-05-11,72,170,Blackzilians,United States,Delray Beach,Florida,Honduran,26,14,7,4
+4114,Claude,Patrick,The Prince,1980-06-14,70,170,Elite Mixed Fighters,Canada,Mississauga,Ontario,Yaqui,2,11,8,0
+136,Mark,Coleman,The Hammer,1964-12-20,73,205,Hammer House,United States,Columbus,Ohio,Indonesian,15,24,2,0
+4389,Jason,MacDonald,The Athlete,1975-06-03,74,185,Pure Fitness,Canada,Edmonton,Alberta,Uruguayan,31,22,5,0
+2304,Wade,Shipp,Nightmare,1900-01-00,75,240,Alliance MMA,United States,San Diego,California,Peruvian,34,13,2,3
+223,Tim,Lajcik,The Bohemian,1965-06-21,73,225,Gladiators Training Academy,United States,Redwood,California,Seminole,8,17,10,1
+210,John,Lober,The Machine,1968-02-26,71,182,Team Machine,United States,Huntington Beach,California,Navajo,16,25,3,0
+37402,John,Makdessi,The Bull,1985-05-03,68,155,Tristar Gym,Canada,Laval,Quebec,Bolivian,15,20,7,1
+22218,Michel,Richard Cunha dos Prazeres,Trator,1983-07-25,66,155,Coalizao Fight Team,Brazil,Belem,Para,Cheyenne,13,12,6,2
+45108,Jon,Tuck,Super Saiyan,1984-08-28,70,155,MMA Lab,Guam,Chalan Pago,,Sri Lankan,3,16,1,4
+56579,Jesse,Ronson,The Body Snatcher,1985-12-24,69,156,Adrenaline Training Center,Canada,London,Ontario,Paraguayan,32,5,2,3
+1061,Tim,Sylvia,The Maine-iac,1974-03-05,80,265,Team Extreme,United States,Bettendorf,Iowa,Samoan,11,20,10,2
+142,Roberto,Traven,Spider,1968-09-16,75,227,Alliance Team,Brazil,Rio de Janeiro,,American Indian and Alaska Native (AIAN),19,19,7,4
+2646,Dan,Christison,The Sandman,1972-04-26,80,270,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Asian,12,1,1,3
+242,Ian,Freeman,The Machine,1970-12-31,71,205,Machine MMA,England,Sunderland,Tyne and Wear,Salvadoran,25,18,7,0
+46542,Leslie,Smith,The Peacemaker,1982-08-17,69,135,Cesar Gracie Fight Team,United States,Pleasant Hill,California,Polynesian,14,23,9,4
+2713,Wes,Sims,A Whole Show,1979-10-12,81,258,Hammer House,United States,Lancaster,Ohio,Cherokee,18,17,6,0
+8183,Ben,Nguyen,10,1988-08-03,64,125,Integrated MMA,United States,Sioux Falls,South Dakota,White,35,4,10,4
+21971,Josh,Bryant,The Beast,1980-04-23,72,185,Absolute Combat Alliance,United States,Broken Arrow,Oklahoma,Nicaraguan,16,25,1,0
+42605,Tyron,Woodley,The Chosen One,1982-04-17,69,170,American Top Team Evolution,United States,St. Louis,Missouri,Crow,14,20,5,3
+34072,Matt,Riddle,Deep Waters,1986-01-14,73,170,Throwdown,United States,Lehighton,Pennsylvania,Sioux,23,3,9,2
+9511,Lavar,Johnson,Big,1977-06-11,75,253,Pro Buhawe,United States,Madera,California,Cree,32,18,1,1
+16704,John,Hathaway,The Hitman,1987-07-01,74,170,London Shootfighters,England,Brighton,Sussex,Paraguayan,34,7,9,0
+12913,DaMarques,Johnson,Darkness,1982-06-28,72,170,Elite Performance,United States,Salt Lake City,Utah,Pima,5,25,5,0
+37452,Justin,Edwards,Fast Eddy,1983-01-26,70,155,Team Jorge Gurgel,United States,Cincinnati,Ohio,Taiwanese,5,15,8,1
+19977,Simeon,Thoresen,The Grin,1984-03-14,73,170,Frontline Academy,Norway,Oslo,,Blackfeet,7,8,8,4
+15179,Tom,Watson,Kong,1982-07-13,73,185,Jackson-Wink MMA,England,Southampton,,Tlingit-Haida,7,21,3,3
+51163,Caio,Magalhaes,Hellboy,1987-12-14,73,185,Dragon Fight,Brazil,Fortaleza,Ceara,Delaware,23,24,10,0
+42310,Dan,Cramer,Cosmo,1985-10-31,73,185,American Top Team,United States,Bethel,Connecticut,Alaskan Athabascan,21,1,2,3
+25246,Gunnar,Nelson,Gunni,1988-07-28,71,170,Mjolnir,Iceland,Reykjavik,,Apache,6,5,9,1
+66410,Eddie,Gordon,Truck,1983-07-22,72,185,Serra-Longo Fight Team,United States,Freeport,New York,Seminole,15,23,1,2
+25784,Chris,Cope,C-Murder,1983-03-05,72,170,The Arena,United States,San Diego,California,Malaysian,20,3,2,4
+1884,Anthony,Torres,The Crush,1900-01-00,70,171,MMA Development,United States,Kailua,Hawaii,Kiowa,26,21,10,3
+6326,Paul,Taylor,Relentless,1979-12-15,72,155,Team Supreme,England,Walsall,,Shoshone,19,21,3,2
+31,Orlando,Wiet,The Gladiator,1965-10-24,70,170,Team Wiet,France,Nancy,,Argentinian,17,10,1,0
+25830,Claudio,Henrique da Silva,Hannibal,1982-09-06,71,185,London Shootfighters,Brazil,Rondonopolis,Mato Grosso,American Indian and Alaska Native (AIAN),32,21,3,2
+4038,Samy,Schiavo,The Dog,1975-12-24,,135,Bushido Academie,France,Avignon,,Apache,9,15,4,1
+10629,Dan,Hardy,The Outlaw,1982-05-17,72,170,Team Rough House,England,Nottingham,East Midlands,Bangladeshi,25,12,7,2
+1542,Rich,Crunkilton,Cleat,1979-11-25,67,155,American Kickboxing Academy,United States,Fort Lauderdale,Florida,Uruguayan,8,16,7,4
+2886,Roan,Carneiro,Jucao,1978-06-02,71,170,American Top Team Atlanta,Brazil,Rio de Janeiro,,Vietnamese,20,4,8,2
+10126,Kendall,Grove,Da Spyder,1982-12-11,78,185,Straight Rootless Fight Team,United States,Maui,Hawaii,Navajo,1,24,3,4
+65128,Gilbert,Smith,Midnight Magic,1900-01-00,69,170,Team Victory,United States,Colorado Springs,Colorado,Paiute,32,21,3,2
+11729,Abner,Lloveras,Skullman,1982-09-04,71,155,Gracie Barcelona,Spain,Barcelona,,Spaniard,20,9,1,4
+10543,Lucio,Linhares,Spartan,1973-12-08,74,185,Alliance Jiu-Jitsu,Brazil,Ipatinga,Minas Gerais,Asian Indian,24,3,4,4
+10047,Tomasz,Drwal,Gorilla,1982-01-22,73,185,Alliance MMA,Poland,Krakow,,Yaqui,20,10,10,4
+63608,Nicolas,Dalby,Sharpshooter,1984-11-16,71,170,Rumble Sports,Denmark,Copenhagen,,Eskimo,12,8,6,0
+62665,Leon,Edwards,Rocky,1991-08-25,70,170,UTC Birmingham,England,Erdington,West Midlands,Houma,24,22,2,3
+28041,Junie,Allen Browning,Lunatik,1985-05-12,70,180,Legends MMA,United States,Lexington,Kentucky,Peruvian,21,14,8,3
+64716,Yoislandy,Izquierdo,Cuba,1984-01-09,70,154,Young Tigers,Cuba,Havana,,Guamanian,12,25,1,2
+6767,Carlo,Prater,Neo,1981-06-25,72,155,Prater MMA,Brazil,Brasilia,Federal District,Bangladeshi,15,1,7,1
+40523,Danny,Mitchell,The Cheesecake Assassin,1986-08-08,74,170,AVT Fight Team,England,Doncaster,Yorkshire,Paraguayan,19,18,2,1
+37528,Jimi,Manuwa,Poster Boy,1980-02-18,72,205,Keddles Gym,England,Morden,,Native Hawaiian and Other Pacific Islander (NHPI),21,20,2,0
+4025,Jorge,Gurgel,J.G.,1977-01-25,69,154,Team Jorge Gurgel,United States,Cincinnati,Ohio,Comanche,22,20,2,3
+42901,Michael,Kuiper,Judo,1989-06-07,72,192,Team Topfighter,Netherlands,Tilburg,,Peruvian,28,7,4,4
+64373,Cathal,Pendred,The Punisher,1987-09-02,73,170,SBG Ireland,Ireland,Dublin,Leinster,Mexican,4,18,4,4
+36924,Chris,Gruetzemacher,Gritz,1986-06-16,67,145,MMA Lab,United States,Glendale,Arizona,Taiwanese,14,11,5,3
+15063,Stefan,Struve,Skyscraper,1988-02-18,84,265,Team Schrijber,Netherlands,Beverwijk,North Holland,Navajo,7,3,7,3
+43439,Pascal,Krauss,Panzer,1987-04-19,73,170,Peak MMA,Germany,Freiburg,,Yakama,11,21,1,0
+228,Jens,Pulver,Little Evil,1974-12-06,67,135,Team Extreme,United States,Crystal Lake,Illinois,Central American,8,10,10,4
+6748,Nick,Ring,The Promise,1979-02-10,72,185,Champions Creed MMA,Canada,Calgary,Alberta,Chamorro,14,15,10,4
+20812,Papy,Abedi,Makambo,1978-06-30,71,170,Allstars Training Center,Sweden,Stockholm,,Dominican (Dominican Republic),33,8,2,2
+4577,Mike,Pyle,Quicksand,1975-09-18,73,170,Syndicate MMA,United States,Las Vegas,Nevada,Alaska Native,24,7,10,0
+17903,Gerald,Harris,Hurricane,1979-11-19,71,170,Ghost Dog,United States,Tulsa,Oklahoma,Comanche,16,21,6,3
+13453,Jesse,Forbes,Kid Hercules,1984-10-24,74,184,Power MMA Team,United States,Tempe,Arizona,Hmong,14,11,10,1
+3015,Brian,Ebersole,Bad Boy,1980-11-27,72,170,Tiger Muay Thai,United States,Bradley,Illinois,Chamorro,32,17,1,3
+31496,Amanda,Nunes,Lioness,1988-05-30,65,136,American Top Team,Brazil,Salvador,Bahia,Tohono O'Odham,26,19,1,0
+43445,Sheila,Gaff,The German Tank,1989-12-29,65,115,Pyranha MMA Offenbach,Germany,Offenbach,,Creek,17,18,1,1
+12116,Shayna,Baszler,The Queen of Spades,1980-08-08,67,135,CSW,United States,Sioux Falls,South Dakota,Ute,21,14,3,2
+29470,Anthony,Smith,Lionheart,1988-07-26,76,185,Disorderly Conduct,United States,Omaha,Nebraska,Costa Rican,3,25,3,3
+34124,Court,McGee,The Crusher,1984-12-12,71,170,The Pit Elevated Fight Team,United States,Layton,Utah,Paiute,17,1,3,0
+2095,Keith,Wisniewski,The Polish Connection,1981-10-25,71,170,Duneland Vale Tudo,United States,Portage,Indiana,Osage,18,6,5,0
+10003,Joshua,Burkman,The Peoples Warrior,1980-10-04,70,155,The Pit Elevated Fight Team,United States,Salt Lake City,Utah,Hmong,1,2,2,4
+4411,Forrest,Petz,The Meat Cleaver,1975-09-22,69,185,Strong Style Fight Team,United States,Cleveland,Ohio,Native Hawaiian,18,16,8,1
+7124,Nick,Thompson,The Goat,1981-06-23,73,170,Minnesota Martial Arts Academy,United States,Minneapolis,Minnesota,Costa Rican,21,1,1,2
+4556,Derrick,Noble,The Eraser,1978-08-14,69,169,Minnesota Martial Arts Academy,United States,Cuba,Illinois,Osage,6,3,3,2
+725,Drew,Fickett,Night Rider,1979-12-24,70,151,Team Scrub,United States,Tucson,Arizona,Sioux,26,21,1,4
+53,Anthony,Macias,Mad Dog,1969-07-16,70,170,USA Stars,United States,Oklahoma City,Oklahoma,Laotian,15,25,2,0
+20512,Kevin,Burns,The Fire,1980-03-03,72,170,Grudge Training Center,United States,Des Moines,Iowa,Apache,32,21,4,3
+22111,James,McSweeney,The Hammer,1980-10-24,76,206,Tiger Muay Thai,England,London,Greater London,Argentinian,17,12,4,1
+28038,Elvis,Mutapcic,The King,1986-07-19,72,185,Roundkick Gym,United States,Des Moines,Iowa,Apache,7,14,10,4
+10334,Gilbert,Aldana,El Peligro,1900-01-00,73,250,Brausa Academy,USA,Chandler,Arizona,Menominee,14,16,1,2
+397,Kerry,Schall,Meat Truck,1971-08-09,74,265,Meat Truck Inc.,United States,Cincinnati,Ohio,American Indian and Alaska Native (AIAN),23,5,4,3
+129,Gary,Goodridge,Big Daddy,1966-01-17,75,240,Big Daddy Fight Team,Canada,Barrie,Ontario,Guatemalan,18,5,7,4
+265,Bobby,Hoffman,The Truth,1966-10-28,74,245,Universal Grappling Academy,United States,Bettendorf,Iowa,Hmong,6,10,10,4
+273,Gan,McGee,The Giant,1976-11-20,82,260,S.K.S. Fight Team,United States,San Luis Obispo,California,Comanche,21,8,4,2
+34408,Jay,Silva,Da Spyda Killa,1981-05-25,74,185,MPF Training Systems,United States,Huntington Beach,California,Osage,21,18,3,3
+11798,John,Howard,Doomsday,1983-03-01,67,171,Wai Kru MMA,United States,Boston,Massachusetts,Tongan,7,5,5,2
+467,Semmy,Schilt,Hightower,1973-10-27,83,256,Golden Glory,Holland,Zuidlaren,Drenthe,American Indian,35,9,3,3
+11,Ricardo,Almeida,Big Dog,1976-11-29,71,170,Renzo Gracie Jiu-Jitsu,United States,Bordentown,New Jersey,Ottawa,20,13,9,2
+14,Guy,Mezger,The Sandman,1968-01-01,73,200,Lions Den Dallas,United States,Houston,Texas,Black or African American,16,25,3,3
+9626,Mike,Easton,The Hulk,1984-01-25,66,135,Alliance MMA,United States,Temple Hills,Maryland,Pakistani,25,12,6,3
+65456,Hugo,Viana,Wolverine,1982-09-26,66,135,Champion Team,Brazil,Salvador,Bahia,Tongan,22,5,3,3
+36403,Walel,Watson,The Gazelle,1984-07-16,71,134,Team Hurricane Awesome,United States,San Diego,California,Lumbee,12,6,7,0
+10003,Joshua,Burkman,The Peoples Warrior,1980-10-04,70,155,The Pit Elevated Fight Team,United States,Salt Lake City,Utah,Indonesian,10,9,2,0
+4824,Diego,Sanchez,The Dream,1981-12-31,70,155,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Black or African American,23,21,4,3
+344,Yves,Edwards,Thugjitsu Master,1976-09-30,70,155,American Top Team,United States,Woodlands,Texas,Ecuadorian,11,3,10,0
+2651,Jeremy,Jackson,The Scorpion,1982-09-19,70,170,Team Freedom,United States,Port Hueneme,California,Nicaraguan,6,10,5,4
+720,Edwin,Dewees,Babyface,1982-08-07,73,205,Lions Den Scottsdale,United States,Scottsdale,Arizona,Comanche,1,10,10,3
+41906,John,Lineker,Hands of Stone,1990-06-12,62,126,OCS Jiu-Jitsu,Brazil,Paranagua,Parana,Menominee,22,7,2,4
+69406,Makwan,Amirkhani,Mr. Finland,1988-11-08,71,145,Allstars Training Center,Finland,Turku,,Shoshone,16,20,10,1
+19717,Johnny,Bedford,Brutal,1983-01-06,69,135,Fitness Fight Factory,United States,Fort Worth,Texas,Eskimo,18,21,6,3
+6850,Tor,Troeng,The Hammer,1983-01-25,74,184,Renyi Fight Camp,Sweden,Umea,,Shoshone,33,24,8,0
+222,Eugene,Jackson,The Wolf,1970-12-31,68,185,Gladiators Training Academy,United States,East Palo Alto,California,Blackfeet,11,19,4,0
+1015,Jorge,Patino,Macaco,1973-05-08,68,155,Macaco Gold Team,United States,Houston,Texas,Bolivian,20,20,1,4
+87865,Thomas,Almeida,Thominhas,1991-07-31,67,135,Chute Boxe,Brazil,Sao Paulo,Sao Paulo,Choctaw,32,3,8,0
+7780,James,Irvin,The Sandman,1978-09-12,74,185,Reign MMA,United States,Citrus Heights,California,Iroquois,3,4,1,4
+16286,Rousimar,Palhares,Toquinho,1980-02-20,68,170,Team Nogueira,Brazil,Dores do Indaia,Minas Gerais,Crow,27,12,4,2
+4095,Renato,Verissimo,Charuto,1900-01-00,73,170,BJ Penns MMA,United States,Hilo,Hawaii,Comanche,6,18,8,0
+245,Dave,Menne,The Warrior,1974-07-29,70,185,Menne Combat Academy,United States,Minneapolis,Minnesota,Sioux,6,25,8,4
+5344,Martin,Kampmann,Hitman,1982-04-17,72,170,Xtreme Couture,Denmark,Aarhus,,Uruguayan,8,22,3,1
+432,Hayato,Sakurai,Mach,1975-08-24,67,168,Mach Dojo,Japan,Ibaraki,,Ute,15,9,5,2
+9281,Chris,Wilson,The Professor,1977-06-07,73,155,CW Combat Sports,Brazil,Ribeirao Preto,Sao Paulo,Samoan,6,16,3,4
+184,LaVerne,Clark,Fists of Fury,1973-12-02,71,185,Miletich Martial Arts,United States,Davenport,Iowa,Panamanian,17,6,1,1
+25733,Gabriel,Benitez,Moggly,1988-06-15,68,145,Entram Gym,Mexico,Tijuana,Baja California,Potawatomi,18,20,6,3
+13599,Dustin,Neace,The Beast,1986-09-12,69,146,Damage Incorporated,United States,Indianapolis,Indiana,Cherokee,30,8,7,4
+7018,John,Gunderson,Guns,1979-01-05,69,145,Syndicate MMA,United States,Houston,Texas,Peruvian,21,25,4,2
+7,Carlos,Newton,The Ronin,1976-08-17,69,174,Warrior MMA Fight Team,Canada,Newmarket,Ontario,Ute,27,22,4,2
+275,Dennis,Hallman,Superman,1975-12-02,69,181,Victory Athletics,United States,Yelm,Washington,White,18,25,10,3
+216,Valeri,Ignatov,The X Factor,1900-01-00,69,191,Shamrock 2000,Bulgaria,Sofia,,Costa Rican,35,7,5,3
+75537,Josh,Copeland,Cuddly Bear,1900-01-00,73,245,Grudge Training Center,United States,Denver,Colorado,Yakama,14,21,10,1
+10515,Brandon,Melendez,The Murderer,1983-03-24,70,170,Elite Performance,United States,Bountiful,Utah,Argentinian,7,1,2,3
+12199,Luigi,Fioravanti,The Italian Tank,1981-01-22,69,183,Flawless MMA,United States,St. Louis,Missouri,Colombian,30,24,8,3
+14016,Chad,Reiner,The Grinder,1900-01-00,72,170,Premier Combat Center,United States,Omaha,Nebraska,Argentinian,12,23,2,1
+120,Marco,Ruas,The King of the Streets,1961-01-23,73,210,Ruas Vale Tudo,Brazil,Rio De Janeiro,,Paraguayan,31,24,1,3
+39,Emmanuel,Yarborough,Manny,1964-09-05,80,600,Freelance,United States,Rahway,New Jersey,Chamorro,14,8,3,3
+66883,Josh,Sampo,The Gremlin,1984-07-24,64,125,Team Oyama,United States,Lindenwood,Missouri,Cheyenne,27,10,6,2
+23326,Razak,Al-Hassan,Razor,1982-05-14,75,205,Roufusport,United States,Milwaukee,Wisconsin,Venezuelan,1,12,2,4
+124,Don,Frye,The Predator,1965-11-23,73,210,Team Frye,United States,Sierra Vista,Arizona,Nicaraguan,13,7,6,3
+137,Brian,Johnston,Fury,1968-07-28,76,222,American Kickboxing Academy,United States,San Jose,California,Costa Rican,19,21,1,1
+190,Tsuyoshi,Kosaka,TK,1970-03-06,71,225,Alliance-Square,Japan,Kusatsu,Shiga,American Indian,16,1,1,2
+10089,Roger,Huerta,El Matador,1983-05-20,69,155,Tiger Muay Thai,United States,Austin,Texas,Choctaw,19,15,2,1
+250,Ikuhisa,Minowa,Minowaman,1976-01-12,69,185,Kuma Gym,Japan,Nagoya,Aichi,Indonesian,6,21,9,4
+5542,Gabe,Ruediger,Godzilla,1977-08-29,70,155,PKG,United States,Rancho Cucamonga,California,Yaqui,6,5,6,0
+9534,Diego,Saraiva,The Octopus,1982-04-23,66,149,Team Octopus,United States,Atlanta,Georgia,Ecuadorian,30,25,2,2
+4679,Darren,Uyenoyama,BC,1979-10-15,66,125,Faito Tamashii Combat Club,United States,San Francisco,California,Menominee,10,8,1,4
+993,Ivan,Menjivar,Pride of El Salvador,1982-05-30,66,135,Tristar Gym,El Salvador,La Paz,,Melanesian,4,6,2,2
+59284,Derrick,Lewis,The Black Beast,1985-02-07,75,264,Silverback Fight Club,United States,Houston,Texas,Yakama,16,8,6,3
+139,Moti,Horenstein,The Hammer,1964-03-23,73,205,Moti Horenstein MMA,United States,Spring Valley,New York,Tohono O'Odham,13,5,10,3
+39781,Dustin,Pague,The Disciple,1987-08-05,69,152,Disciple MMA,United States,Harrisburg,Pennsylvania,Hmong,16,25,10,1
+25245,Aisling,Daly,Ais the Bash,1987-12-24,63,116,SBG Ireland,Ireland,Dublin,Leinster,Mexican,12,12,10,3
+70795,Tina,Lahdemaki,Jelly Bean,1988-05-28,62,115,RNC Sport Club,Finland,Hyvinkaa,Uusimaa,Potawatomi,30,19,1,4
+9267,Jay,Hieron,The Thoroughbred,1976-07-29,71,170,Xtreme Couture,United States,Long Island,New York,Choctaw,17,16,10,3
+21343,Sergio,Moraes,The Panther,1982-07-23,72,170,Evolucao Thai,Brazil,Sao Paulo,Sao Paulo,Spaniard,6,24,3,2
+25989,Rick,Story,The Horror,1984-08-28,70,170,MMA Lab,United States,Tacoma,Washington,Cheyenne,2,4,3,1
+23864,Corey,Hill,The Real Deal,1978-10-03,76,168,KO Evolution,United States,Brookfield,Florida,Blackfeet,3,9,5,3
+50586,Mike,Wilkinson,The Warrior,1987-09-15,68,145,Atherton Submission Wrestling,England,Leigh,Wigan,Chilean,17,2,8,4
+6749,Jordan,Mein,Young Gun,1989-10-10,71,170,Canadian Martial Arts Centre,Canada,Lethbridge,Alberta,Puget Sound Salish,16,2,7,0
+17577,Joao,Zeferino,The Brazilian Samurai,1986-01-15,71,155,Rangel Farias Team,Brazil,Florianopolis,Santa Catarina,American Indian and Alaska Native (AIAN),13,23,3,4
+45132,Robert,Whittaker,The Reaper,1990-12-20,71,185,PMA Super Martial Arts Centre,Australia,Sydney,New South Wales,Seminole,10,10,9,0
+5346,Antonio,Carvalho,Pato,1979-05-30,68,145,Bruckmann Martial Arts,Canada,Toronto,Ontario,Cambodian,23,25,8,4
+84752,Ray,Borg,The Tazmexican Devil,1993-08-04,64,125,Fit NHB,United States,Albuquerque,New Mexico,Seminole,32,15,10,2
+5199,Mike,Swick,Quick,1979-06-19,73,170,AKA Thailand,United States,San Jose,California,Seminole,27,3,2,3
+34621,Colin,Fletcher,Freakshow,1983-01-08,74,170,Unity Gym,England,Sunderland,Tyne and Wear,Chinese,33,13,9,2
+22411,Mark,Munoz,The Filipino Wrecking Machine,1978-02-09,72,185,Reign MMA,United States,Mission Viejo,California,Latin American Indian,21,21,6,0
+9178,Krzysztof,Soszynski,The Polish Experiment,1977-08-02,73,205,Reign MMA,Canada,Winnipeg,Manitoba,Argentinian,25,11,1,4
+263,Yuki,Kondo,Sora,1975-07-17,71,170,PANCRASEism,Japan,Nagaoka,Niigata,Puerto Rican,17,3,2,4
+35509,Erik,Perez,El Goyito,1989-11-19,68,135,Jackson-Wink MMA,Mexico,Monterrey,,Fijian,5,18,2,0
+22490,Edwin,Figueroa,El Feroz,1984-07-31,67,135,Mohler MMA,United States,McKinney,Texas,Kiowa,19,22,8,4
+64593,Santiago,Ponzinibbio,Gente Boa,1986-09-26,72,170,Team Nogueira,Argentina,La Plata,,Aleut,5,22,10,1
+33531,Jared,Papazian,The Jackhammer,1988-02-01,68,135,Team Hayastan,United States,West Hills,California,Black or African American,11,3,7,0
+76763,Jared,Rosholt,The Big Show,1986-08-04,74,240,Team Takedown,United States,Arlington,Texas,Kiowa,23,21,2,0
+39575,Jessica,Eye,Evil,1986-07-27,66,135,Strong Style Fight Team,United States,Cleveland,Ohio,White,2,11,9,1
+42850,Chico,Camus,King,1985-01-26,66,125,Roufusport,United States,Milwaukee,Wisconsin,Tohono O'Odham,25,23,10,2
+2688,Jonathan,Wiezorek,Lock and Load,1900-01-00,75,250,Valdosta Martial Arts Academy,United States,Valdosta,Georgia,Ottawa,34,20,3,4
+246,Lance,Gibson,Fearless,1970-11-20,69,185,Gibson Kickboxing & Pankration,Canada,Port Moody,British Columbia,Asian,30,5,8,1
+47,Oleg,Taktarov,The Russian Bear,1967-08-26,72,210,Freelance,Russia,Nizhny Novgorod,,Chinese,17,15,9,0
+75417,Randa,Markos,Quiet Storm,1985-08-10,65,115,TriStar Gym,Canada,Windsor,Ontario,Fijian,15,19,6,4
+21720,Angela,Magana,Your Majesty,1983-08-02,64,115,Team Four Corners,United States,Farmington,New Mexico,Melanesian,23,6,4,2
+5545,Gilbert,Melendez,El Nino,1982-04-12,69,153,Skrap Pack,United States,Santa Ana,California,Taiwanese,28,15,7,0
+14207,Lyman,Good,Cyborg,1985-05-26,72,170,Team Tiger Schulmann,United States,New York City,New York,Vietnamese,23,17,10,0
+74434,Ruslan,Magomedov,Leopard,1986-11-26,75,249,Fight Club Berkut,Russia,Dagestan,,Pima,5,4,8,4
+23271,Jorge,Lopez,Lil Monster,1988-11-21,70,170,Wand Fight Team,United States,Las Vegas,Nevada,Samoan,9,3,3,3
+7795,Pete,Sell,Drago,1982-08-25,71,179,Serra-Longo Fight Team,United States,Bay Shore,New York,Potawatomi,14,23,7,1
+15855,Chuck,ONeil,Cold Steel,1985-09-22,74,185,Mass BJJ,United States,Bourne,Massachusetts,Salvadoran,6,4,5,3
+23219,Neil,Grove,Goliath,1971-01-18,78,264,Daigaku Karate Kai London,England,London,,Creek,20,3,5,3
+437,Branden,Lee Hinkle,The Iron Lion,1973-07-29,74,230,Hammer House,United States,Jefferson,Ohio,Tongan,34,20,9,2
+48631,Vinicius,Kappke de Queiroz,Spartan,1983-08-29,79,237,Team Nogueira,Brazil,Curitiba,Parana,Chamorro,35,14,10,0
+33342,Pat,Barry,HD,1979-07-07,71,237,Team Death Clutch,United States,New Orleans,Louisiana,American Indian and Alaska Native (AIAN),30,11,1,3
+23403,Charlie,Brenneman,The Spaniard,1981-02-09,70,155,AMA Fight Club,United States,Hollidaysburg,Pennsylvania,Chilean,25,6,6,2
+58594,Jon,de los Reyes,The Heat,1987-08-19,65,125,Countershot MMA,United States,Tamuning,Guam,Costa Rican,28,10,6,1
+84278,Lewis,Gonzalez,Lethal,1987-09-19,70,174,MMAGOLD Fight Team,United States,Turlock,California,Bolivian,18,4,3,2
+515,Antonio,McKee,Mandingo,1970-03-12,68,155,Bodyshop Fitness Team,United States,Lakewood,California,Paiute,12,19,5,0
+3669,Roli,Delgado,The Crazy Cuban,1981-11-22,75,145,Westside Fight Team,United States,San Diego,California,Peruvian,26,23,6,1
+51113,Trevor,Smith,Hot Sauce,1981-01-05,75,185,Ring Demon Jiu-Jitsu,United States,Tukwila,Washington,Spaniard,7,24,1,3
+9798,Francis,Carmont,Limitless,1981-11-10,72,170,Renzo Gracie Jiu-Jitsu,United States,Jackson,New Jersey,Guatemalan,1,14,7,4
+23006,Nick,Catone,The Jersey Devil,1981-09-01,72,173,Nick Catone MMA Academy,United States,Englewood,New Jersey,Alaskan Athabascan,33,9,7,2
+10967,Alan,Belcher,The Talent,1984-04-24,74,185,Roufusport,United States,Biloxi,Mississippi,Ottawa,14,19,8,1
+56567,Luke,Barnatt,Bigslow,1988-04-13,78,185,Tsunami Gym,England,Barking,Essex,Black or African American,6,20,4,3
+21040,Hyun,Gyu Lim,The Ace,1985-01-16,74,170,Korean Top Team,South Korea,Seoul,,Cree,20,17,8,1
+2327,Gerald,Strebendt,The Finishing Machine,1979-03-01,69,155,10th Planet Jiu-Jitsu,United States,Los Angeles,California,Fijian,10,23,2,3
+5615,Kajan,Johnson,Ragin,1984-04-21,71,155,Tristar Gym,Canada,Burns Lake,British Columbia,Potawatomi,1,18,2,1
+168,Tony,Fryklund,The Freak,1971-03-26,72,155,Militech Fighting Systems,United States,Boston,Massachusetts,Polynesian,20,11,1,4
+11941,Alex,Karalexis,T-Rex,1977-09-20,68,170,Team Sityodtong,United States,Boston,Massachusetts,Costa Rican,25,18,4,2
+2920,Brad,Blackburn,Bad,1977-05-25,70,169,Victory Athletics,United States,Seattle,Washington,American Indian,20,9,2,1
+23531,Paul,Sass,Sassangle,1988-08-04,73,155,Team Kaobon,England,Liverpool,,Bangladeshi,30,12,7,4
+31766,James,Krause,The James Krause,1986-06-04,74,155,Glory MMA and Fitness,United States,Lees Summit,Missouri,Guamanian,23,13,4,3
+26934,Ramiro,Hernandez,Junior,1986-07-22,69,145,Miletich Fighting Systems,United States,Muscatine,Iowa,Dominican (Dominican Republic),22,22,3,1
+2860,David,Baron,K-Rod,1900-01-00,71,145,Pellegrino MMA,United States,Bricktown,New Jersey,Comanche,6,7,10,1
+25320,Eric,Wisely,Little Lee,1984-07-25,68,160,Team Conquest,United States,Clinton,Iowa,Tohono O'Odham,24,24,5,4
+282,Phil,Johns,Little Giant,1970-12-31,62,160,Silverbacks Vale Tudo,United States,Canton,Illinois,Sri Lankan,14,22,10,2
+23167,Tae,Hyun Bang,The Supernatural,1983-04-15,69,156,Korean Top Team,South Korea,Seoul,,American Indian and Alaska Native (AIAN),1,3,9,0
+426,Johnny,Eduardo,Pretinho,1980-08-03,67,135,Nova Uniao,Brazil,Duque de Caxias,Rio de Janeiro,Potawatomi,11,12,5,1
+2825,Eddie,Yagin,The Filipino Phenom,1979-03-23,66,145,Kong Submission Academy,United States,Honolulu,Hawaii,Cree,9,21,4,4
+25531,Cameron,Dollar,The Money Man,1987-05-12,71,145,Colorado Fight Factory,United States,Colorado Springs,Colorado,Colombian,14,24,10,0
+13469,Chris,Clements,The Menace,1976-02-09,70,170,Adrenaline Training Center,Canada,Chatam,Ontario,Tlingit-Haida,21,2,8,1
+7406,Luke,Caudillo,Lil Hulk,1980-11-30,67,155,Grudge Training Center,United States,North Platte,Nebraska,American Indian and Alaska Native (AIAN),14,8,10,2
+68971,Dominic,Waters,Sho Nuff,1900-01-00,73,170,Jackson-Wink MMA,United States,Santa Rosa,California,Taiwanese,26,3,7,4
+573,Sean,Pierson,The Punisher,1976-03-10,73,170,Tap Star,Canada,Toronto,Ontario,Native Hawaiian,29,23,10,3
+13793,Ian,Loveland,The Barn Owl,1983-09-07,68,135,Sports Lab,United States,Portland,Oregon,Osage,3,9,8,4
+19761,Ryan,Roberts,Are You Ready?,1978-07-16,66,139,Disorderly Conduct,United States,Omaha,Nebraska,White,34,7,1,3
+69624,William,Macario,Patolino,1991-07-01,71,170,Pejor,Brazil,Rio de Janeiro,Rio de Janeiro,Central American,18,5,3,4
+14862,Mark,Holst,Boots,1985-08-14,72,169,OAMA,Canada,Ottawa,Ontario,Polynesian,28,13,10,4
+11908,Francisco,Rivera,Cisco,1981-10-08,68,135,All In MMA,United States,Buena Park,California,Tlingit-Haida,32,22,3,0
+42659,Andy,Ogle,The Little Axe,1989-02-16,69,144,Team Kaobon,England,Sunderland,,Nicaraguan,13,3,9,2
+171723,Corey,Anderson,Beastin 25/8,1989-09-22,75,205,The Kennel Fight Club,United States,Rockton,Illinois,Colombian,25,10,4,4
+93683,Justin,Jones,Lazy Bones,1900-01-00,71,209,Victory MMA,United States,San Diego,California,Navajo,21,22,2,1
+24790,Roman,Salazar,El Gallito,1988-02-21,67,135,Fight Ready,United States,Scottsdale,Arizona,Alaska Native,7,15,5,3
+2294,Benji,Radach,The Razor,1979-04-05,70,185,Reign MMA,United States,Castlerock,Washington,Paraguayan,19,3,1,4
+31897,Rodolfo,Rubio Perez,Fito,1987-01-29,65,145,Entram Gym,Mexico,Mexico City,Federal District,Indonesian,23,14,8,4
+41524,Rashid,Magomedov,Highlander,1984-05-14,69,155,Gorec,Russia,Makhachkala,Dagestan,Alaska Native,4,12,1,1
+21962,Anistavio,Medeiros de Figueiredo,Gasparzinho,1988-05-01,67,145,Pitbull Brothers,Brazil,Natal,Rio Grande do Norte,American Indian and Alaska Native (AIAN),10,23,1,3
+6809,Jesse,Bongfeldt,Water,1980-08-28,72,185,Canadian Martial Arts Centre,Canada,Kenora,Ontario,Chickasaw,15,9,9,0
+18533,Ryan,McGillivray,The Kid,1986-09-27,71,170,Jackson-Wink MMA,Canada,Edmonton,Alberta,Cherokee,7,9,5,3
+23052,Roger,Bowling,Relentless,1982-12-05,68,155,Team Vision,United States,Cincinnati,Ohio,Pueblo,20,18,10,1
+33343,Rodney,Wallace,Sho Nuff the Master,1981-11-21,69,205,Team R.O.C. Charlotte,United States,Bamberg,South Carolina,Paraguayan,12,20,8,0
+11483,David,Heath,The Headhunter,1976-10-02,71,203,Absolute Combat Alliance,United States,Tulsa,Oklahoma,Colville,6,17,4,4
+7358,Chris,Saunders,The So Cal Kid,1986-03-11,68,155,All In MMA,United States,Buena Park,California,Pueblo,1,20,6,4
+15855,Chuck,ONeil,Cold Steel,1985-09-22,74,185,Mass BJJ,United States,Bourne,Massachusetts,Colombian,20,9,7,3
+36581,Jim,Alers,The Beast,1986-10-14,69,145,Tough as Nails MMA,United States,Orlando,Florida,Creek,3,3,4,3
+47066,Yosdenis,Cedeno,Pink Panther,1985-02-12,68,155,Blackzillians,Cuba,Havana,,Filipino,26,21,10,0
+19640,Sean,McCorkle,Big Sexy,1976-07-17,79,312,Team James Clingerman,United States,Indianapolis,Indiana,Delaware,13,17,6,0
+48156,Jerrod,Sanders,J-Reazie,1980-10-01,68,135,American Top Team OKC,United States,Oklahoma City,Oklahoma,Samoan,1,19,10,1
+45624,Shawn,Jordan,The Savage,1984-10-21,72,251,American Top Team,United States,Baton Rouge,Louisiana,Cree,28,12,3,3
+71307,Jessamyn,Duke,The Gun,1986-06-24,71,136,CSW,United States,Richmond,Kentucky,Bolivian,10,17,3,4
+55954,Alex,White,The Spartan,1988-10-22,72,146,Team Destruction,United States,Fredericktown,Missouri,Lumbee,8,1,3,4
+113767,Damon,Jackson,The Leech,1988-08-08,71,145,Octagon MMA,United States,Dallas,Texas,Colombian,19,20,10,3
+73826,Alptekin,Ozkilic,The Turkish Delight,1986-03-27,65,125,Bellmore Kickboxing Academy,United States,Long Island,New York,Pueblo,33,9,2,1
+16180,Justin,Salas,J-Bomb,1982-03-13,68,155,Grudge Training Center,United States,Wheat Ridge,Colorado,Melanesian,29,1,2,0
+487,Tony,DeSouza,The Peruvian Savage,1974-07-26,72,169,Millennia MMA,Peru,Cuzco,,Cuban,35,22,10,2
+4120,Jonathan,Goulet,The Road Warrior,1979-07-13,72,169,Team Legion,Canada,Victoriaville,Quebec,Guamanian,13,19,4,3
+78479,Tiago,dos Santos de Silva,Trator,1987-04-12,70,155,Team Nogueira,Brazil,Almeirim,Para,Sioux,17,11,7,1
+67132,Heather,Clark,Hurricane,1980-09-19,66,115,Syndicate MMA,United States,Albuquerque,New Mexico,Seminole,24,5,4,2
+20939,Enrique,Briones,Henry Bure,1900-01-00,67,135,Entram Gym,Mexico,Tijuana,Baja California,Latin American Indian,29,16,2,3
+85096,Tecia,Torres,The Tiny Tornado,1989-08-16,61,115,American Top Team,United States,Fort Lauderdale,Florida,Malaysian,26,2,9,0
+7987,Charles,McCarthy,Chainsaw,1980-08-06,70,185,American Top Team,United States,Miami,Florida,Cheyenne,30,19,8,0
+78210,Scott,Holtzman,Hot Sauce,1983-09-30,69,155,Shield Systems,United States,Knoxville,Tennessee,Paraguayan,4,18,4,1
+770,Jeff,Curran,Big Frog,1977-09-02,66,135,Team Curran,United States,Crystal Lake,Illinois,Pakistani,23,12,2,4
+61600,Sarah,Moras,Cheesecake,1988-04-30,67,135,Toshido Mixed Martial Arts,Canada,Kelowna,British Columbia,Black or African American,30,20,2,2
+12234,Derek,Downey,The Gentleman,1980-04-27,74,185,Victory MMA,United States,Orem,Utah,Chilean,4,1,7,1
+4586,Travis,Lutter,The Serial Killer,1973-12-05,74,185,Lions Den Dallas,United States,Dallas,Texas,Argentinian,16,18,9,2
+54833,Mike,Rio,The Wolverine,1981-07-06,70,155,Zen Jiu-Jitsu,United States,Miami,Florida,Black or African American,26,25,4,0
+36630,Brock,Jardine,The Machine,1985-07-10,71,170,The Pit Elevated Fight Team,United States,Orem,Utah,Cherokee,34,3,7,0
+6811,Jason,Day,Dooms,1979-03-18,72,185,Champions Creed MMA,Canada,Lethbridge,Alberta,Colville,22,2,8,2
+4015,Michael,Guymon,The Joker,1974-09-17,72,155,Jokers MMA,United States,Lake Forest,California,Asian Indian,11,5,4,0
+45417,Rustam,Khabilov,Tiger,1986-11-04,70,155,Jackson-Wink MMA,Russia,Makhachkala,Republic of Dagestan,South American,19,18,5,2
+10165,Goran,Reljic,Ghost,1984-03-20,75,205,University of Fighting,Croatia,Zadar,Dalmatia,Comanche,3,1,9,4
+30943,Tommy,Hayden,Wild Card,1986-03-11,69,145,Team Jorge Gurgel,United States,Cincinnati,Ohio,Micronesian,5,4,10,2
+3139,Sam,Morgan,The Squeeze,1981-09-28,70,165,Team Bison,USA,Minneapolis,Minnesota,Korean,26,1,8,3
+15393,Wendell,de Oliveira Marques,The Machine / Negao,1983-06-01,71,170,War Machine,Brazil,Rio de Janeiro,Rio de Janeiro,Seminole,15,13,5,2
+63825,Elizeu,Zaleski dos Santos,Capoeira,1900-01-00,71,170,CM System,Brazil,Francisco Beltrao,Parana,Argentinian,8,13,1,4
+44638,Juan,Manuel Puig,Fenix,1989-04-23,69,145,American Kickboxing Academy,Mexico,Mexico City,Federal District,Black or African American,31,17,2,1
+9572,Keita,Nakamura,K-Taro,1984-05-22,71,170,K-Taro Dojo,Japan,Tokyo,,Ottawa,7,14,9,1
+13827,Seth,Baczynski,The Polish Pistola,1981-10-26,75,170,Power MMA Team,United States,Apache Junction,Arizona,Dominican (Dominican Republic),14,4,6,3
+54124,Alex,Garcia,The Dominican Nightmare,1987-07-14,69,171,Tristar Gym,Canada,Montreal,Quebec,Aleut,1,22,10,0
+11950,Ron,Stallings,The Choir Boy,1983-02-25,72,185,Team Lloyd Irvin,United States,Temple Hills,Maryland,Chamorro,9,12,6,4
+90021,Thiago,Santos,Marreta,1984-01-07,72,183,Tata Fight Team,Brazil,Rio de Janeiro,Rio de Janeiro,Yuman,23,19,7,2
+60908,Sean,Spencer,Black Magic,1987-06-25,70,170,Octagon MMA,United States,Bluefield,Virginia,Filipino,21,25,7,3
+21673,Dong,Hyun Kim,Maestro,1900-01-00,71,170,Busan Team M.A.D.,South Korea,Busan,,Guamanian,14,18,4,4
+26602,Reuben,Duran,Hurricane,1983-07-02,67,136,Pinnacle Fighting Systems,United States,Redlands,California,Comanche,28,14,1,3
+13848,David,Kaplan,Diamond,1900-01-00,66,159,Team Tompkins,United States,Las Vegas,Nevada,Mexican,5,17,4,3
+11262,Shane,Nelson,Sugar,1984-11-30,69,146,BJ Penns MMA,United States,Honolulu,Hawaii,Bangladeshi,30,24,2,3
+10569,James,Wilks,Lightning,1978-04-05,73,170,Lightning MMA,England,Leicestershire,East Midlands,Tohono O'Odham,31,25,2,0
+1042,Jason,Black,The Black Legion,1972-08-15,70,169,Miletich Martial Arts,United States,Davenport,Illinois,American Indian,12,24,6,3
+14972,Ednaldo,Oliveira,Lula Molusco,1984-02-19,77,205,Champion Team,Brazil,Salvador,Bahia,Alaska Native,28,8,1,0
+53369,Chris,Beal,The Real Deal,1985-08-06,67,126,KnuckleHeadz Boxing,United States,Ventura,California,Vietnamese,29,8,4,3
+38841,Mackens,Semerzier,Mack da Menace,1980-11-03,69,145,Team Curran,United States,Virginia Beach,Virginia,Malaysian,18,7,6,4
+8800,Che,Mills,Beautiful,1982-09-29,69,155,Champions Creed MMA,Canada,Calgary,Alberta,Yaqui,19,1,2,1
+63813,Zubaira,Tukhugov,Warrior,1991-01-15,68,146,Tiger Muay Thai,Russia,Grozny,Chechnya,Panamanian,5,25,8,2
+22955,Chris,Tickle,Bad Boy,1982-02-01,69,160,Adrenaline MMA,United States,Bloomington,Illinois,Pakistani,20,12,4,1
+48566,Ryan,Benoit,Baby Face,1989-08-25,65,125,Janjira Muay Thai,United States,Dallas,Texas,Bangladeshi,4,1,5,3
+25476,Pat,Audinwood,Awesomely Awesome,1986-04-16,72,155,Team Bombsquad,United States,Cortland,New York,Vietnamese,25,2,8,3
+42258,Daniel,Stittgen,The Anvil,1980-11-17,73,179,Midwest Training Center,United States,Schaumburg,Illinois,Eskimo,26,8,3,1
+53300,Anthony,Birchak,El Toro,1986-05-16,68,135,Luta Elite MMA,United States,Tucson,Arizona,South American,35,11,8,3
+17717,Tim,Gorman,The Psycho,1983-04-29,64,135,Des Moines MMA Academy,United States,Des Moines,Iowa,Kiowa,32,21,1,3
+1693,Yves,Jabouin,Tiger,1979-05-30,66,135,Tristar Gym,Canada,Montreal,Quebec,Alaskan Athabascan,18,10,1,1
+71237,Garreth,McLellan,Soldier Boy,1982-01-09,73,185,FightFit Militia,South Africa,Johannesburg,Gauteng,Cree,21,7,8,4
+21039,Kiichi,Kunimoto,Strasser,1981-05-01,70,169,Cobra Kai MMA Dojo,Japan,Osaka,,Bangladeshi,26,6,8,1
+38029,Francisco,Trevino,Sitkayan,1981-12-17,70,155,Macaco Gold Team,United States,Edinburg,Texas,Chinese,29,22,3,0
+83462,Omari,Akhmedov,Wolverine,1987-10-12,72,170,Jackson-Wink MMA,Russia,Makhachkala,Dagestan,Chinese,9,18,10,3
+80837,Ernest,Chavez,The Mad Titan,1983-06-27,68,146,Total MMA Studios,United States,Tustin,California,Creek,10,3,2,4
+23538,Marcus,LeVesseur,The Prospect,1983-07-17,70,155,Minnesota Fight Factory,United States,Minneapolis,Minnesota,Latin American Indian,22,3,1,0
+50367,Alex,Soto,Extremo,1984-02-15,67,135,KHK MMA Team,United States,San Diego,California,Colville,16,21,5,4
+20522,Zach,Makovsky,Fun Size,1982-06-30,64,125,Philadelphia Fight Factory,United States,Bethlehem,Pennsylvania,Yaqui,31,21,2,1
+22677,Shunichi,Shimizu,Rolling Star,1985-01-31,66,125,Uruno Dojo,Japan,Tokyo,,White,27,17,8,1
+56689,Doo,Ho Choi,The Korean Superboy,1991-04-06,69,143,Gumi MMA,South Korea,Gumi,Gyeongsangbuk-do,Asian Indian,25,18,2,0
+2291,Cole,Escovedo,Apache Kid,1981-08-30,67,135,Pacific Martial Arts,United States,Fresno,California,Paraguayan,2,14,7,4
+1227,Genki,Sudo,Neo-Samurai,1978-03-08,69,155,Beverly Hills Jiu-Jitsu Club,Japan,Tokyo,,Comanche,17,19,2,4
+30297,Michael,McDonald,Mayday,1991-01-15,68,136,Last Stand Fight Team,United States,Modesto,California,Sri Lankan,7,24,3,3
+63070,Yuta,Sasaki,Ulka,1989-10-07,70,135,Wajutsu Keishukai Suruga,Japan,Numazu,Shizuoka,Ecuadorian,13,18,5,0
+36939,Jussier,da Silva,Formiga,1985-04-14,65,125,Kimura Nova Uniao,Brazil,Natal,Rio Grande do Norte,Guamanian,5,2,1,0
+12553,Willamy,Freire,Chiquerim,1987-07-28,68,155,Dragon Fight,Brazil,Fortaleza,Ceara,Mexican,3,10,10,2
+5434,Delson,Heleno,Pe de Chumbo,1977-11-16,71,170,CM System,Brazil,Teresopolis,Rio de Janeiro,Cree,23,3,10,2
+19128,Nick,Denis,The Ninja of Love,1983-10-11,66,135,Ronin MMA,Canada,Ottawa,Ontario,Bolivian,34,3,5,2
+33115,Nazareno,Malegarie,El Tigre,1986-05-16,68,155,Team Tavares,Argentina,Arrecifes,Buenos Aires,Alaskan Athabascan,10,9,10,1
+22127,T.J.,OBrien,The Spider,1987-01-01,74,155,Des Moines Jiu-Jitsu,United States,Prole,Iowa,Cuban,23,5,1,2
+34625,Shane,Campbell,Shaolin,1988-01-21,72,155,Toshido Mixed Martial Arts,Canada,Kelowna,British Columbia,Costa Rican,10,13,4,2
+35410,Sam,Alvey,Smilen,1986-05-06,74,185,Team Quest,United States,Waterford,Wisconsin,Indonesian,31,15,7,0
+30304,Maiquel,Falcao,Big Rig,1981-03-08,71,185,Independent,Brazil,Pelotas,Rio Grande do Sul,Crow,34,21,3,2
+66883,Josh,Sampo,The Gremlin,1984-07-24,64,125,Team Oyama,United States,Lindenwood,Missouri,Native Hawaiian,5,18,1,2
+4367,Steve,Bruno,Hollywood,1981-11-03,70,174,American Top Team,United States,Pompano Beach,Florida,Samoan,17,13,6,3
+30033,Nick,Osipczak,Slick,1984-12-30,73,170,Team Rough House,England,Nottingham,Nottinghamshire,American Indian,18,1,4,2
+33926,Brendan,Schaub,Big Brown,1983-03-18,76,238,Reign MMA,United States,Aurora,Colorado,Asian,33,15,7,2
+34214,Darrell,Montague,The Mongoose,1987-11-03,66,125,Millennia MMA,United States,Chino,California,Cambodian,6,20,4,1
+39485,Dan,Spohn,Dragon,1984-10-12,76,204,Cambridge Martial Arts,United States,Zanesville,Ohio,Hmong,18,21,9,3
+21940,Tom,Lawlor,Filthy,1983-05-15,72,205,The Jungle MMA,United States,Fall River,Massachusetts,Blackfeet,16,7,10,3
+22304,Cody,Donovan,Donnybrook,1981-02-20,75,205,Grudge Training Center,United States,Denver,Colorado,Asian,22,1,1,0
+25491,Fernando,Bruno,Acougueiro,1982-02-24,66,145,Nova Uniao,Brazil,Rio de Janeiro,Rio de Janeiro,Alaskan Athabascan,4,21,10,3
+61700,Renato,Carneiro,Moicano,1900-01-00,71,145,Constrictor Team,Brazil,Brasilia,Federal District,Thai,35,25,3,2
+24057,Ricardo,Funch,Golden Boy,1980-08-14,70,170,Team Link,United States,Ludlow,Massachusetts,Alaskan Athabascan,4,2,1,4
+15380,Jorge,Antonio Cezario de Oliveira,Blade,1980-01-22,70,155,Renovacao Fight Team,Brazil,Nilopolis,Rio de Janeiro,Tongan,23,7,9,2
+50987,Sergio,Pettis,The Phenom,1993-08-18,66,125,Roufusport,United States,Milwaukee,Wisconsin,Potawatomi,17,25,6,2
+24765,Jacob,Volkmann,Christmas,1980-09-05,69,170,Minnesota Martial Arts Academy,United States,White Bear Lake,Minnesota,South American,5,16,9,2
+24952,Estevan,Payan,El Terrible,1982-04-03,70,148,Arizona Combat Sports,United States,Tempe,Arizona,Latin American Indian,17,21,2,4
+40623,Godofredo,Castro,Pepey,1987-07-02,67,145,Evolucao Thai,Brazil,Fortaleza,Ceara,Chilean,4,12,2,3
+31372,Felipe,Arantes,Sertanejo,1988-02-09,68,135,Chute Boxe,Brazil,Sao Paulo,Sao Paulo,Colville,23,10,1,3
+20224,Ryan,Thomas,The Tank Engine,1984-11-05,72,170,American Top Team,United States,Danville,Illinois,Chinese,25,13,5,1
+76653,Leonardo,Mafra Texeira,Macarrao,1989-04-25,70,155,American Kickboxing Academy,Brazil,Santo Andre,Sao Paulo,Latin American Indian,21,14,10,3
+11907,Edilberto,de Oliveira,Crocota,1982-11-22,72,170,Champion Team,Brazil,Campo Formoso,Bahia,Polynesian,20,13,9,1
+82392,Ricardo,Abreu,Demente,1984-04-27,71,185,Wand Fight Team,Brazil,Ribeirao Preto,Sao Paulo,Argentinian,8,11,7,1
+57269,Colby,Covington,Chaos,1988-02-22,71,169,American Top Team,United States,Springfield,Oregon,Samoan,9,17,6,2
+38190,Rony,Mariano Bezerra,Jason,1984-03-21,67,145,Evolucao Thai,Brazil,Mossoro,Rio Grande do Norte,Chilean,1,10,3,4
+11486,Donny,Walker,Eagle Eye,1980-01-04,69,145,GriffonRawl Thaiboxing & MMA Academy,United States,Cleveland,Ohio,Chamorro,24,3,4,2
+30304,Maiquel,Falcao,Big Rig,1981-03-08,71,185,Independent,Brazil,Pelotas,Rio Grande do Sul,Puget Sound Salish,5,8,2,1
+61422,Andy,Enz,Tank Mode,1991-08-15,75,185,Gracie Barra Alaska,United States,Anchorage,Alaska,Cheyenne,19,2,4,1
+51955,Marcos,Rogerio de Lima,Pezao,1985-06-25,73,205,011 MMA Team,Brazil,Ribeirao Pires,Sao Paulo,Latin American Indian,9,4,7,3
+13004,Vitor,Miranda,Lex Luthor,1979-03-10,73,185,Team Nogueira,Brazil,Joinville,Santa Catarina,Nicaraguan,5,19,7,1
+20277,Marcelo,Guimaraes,Magrao,1983-06-25,72,185,Caveira Team,Brazil,Itapemirim,Espirito Santo,Cambodian,13,7,1,2
+48481,Cody,Pfister,The Pfist,1990-07-12,70,155,Nicks Fight Club,United States,Amarillo,Texas,Uruguayan,20,4,9,1
+86294,Anton,Zafir,The Professor,1900-01-00,,170,Whitsunday Martial Arts,Australia,Airlie Beach,Queensland,Thai,26,22,9,2
+103497,Roldan,Sangcha-an,The Executioner,1990-12-04,64,125,Lakay MMA,Philippines,Baguio,Cordillera Administrative Region,Indonesian,35,22,6,2
+120663,Dashon,Johnson,Fly Boy,1988-01-25,69,155,Team Xplode MMA,United States,Escondido,California,Tlingit-Haida,14,25,5,4
+65543,Pawel,Pawlak,Plastinho,1989-02-08,72,170,Gracie Barra Lodz,Poland,Lodz,,Pueblo,32,16,6,0
+31092,Steve,Kennedy,The Steamrolla,1983-03-07,72,170,Kickass MMA,Australia,Perth,Western Australia,Uruguayan,31,11,1,0
+38903,Cody,Gibson,The Renegade,1987-09-11,70,135,Elite Team,United States,Visalia,California,American Indian,20,14,3,1
+95457,Marcio,Alexandre Jr.,Lyoto,1989-05-03,73,170,Team Tavares,Brazil,Florianopolis,Santa Catarina,Cheyenne,13,25,1,4
+26495,Bernardo,Magalhaes,Trekko,1981-08-04,69,155,TP Fight Team,Brazil,Rio de Janeiro,,Fijian,30,5,1,0
+65878,Alan,Jouban,Brahma,1982-11-25,72,171,Black House,United States,Lafayette,Louisiana,Filipino,4,5,10,0
+53109,Gasan,Umalatov,Cobra,1982-11-03,71,181,Fight Nights Team,Russia,Zinzeli,Astrakhan Oblast,Peruvian,6,7,6,1
+87296,Mike,Rhodes,Biggie,1989-12-04,73,170,Roufusport,United States,Waterloo,Iowa,Crow,16,23,2,4
+186,Mikey,Burnett,The Eastside Assassin,1974-07-16,66,170,Lions Den,USA,Tulsa,Oklahoma,Fijian,8,8,1,1
+12854,Sherman,Pendergarst,The Tank,1900-01-00,73,205,Miletich Fighting Systems,United States,Baltimore,Maryland,Pakistani,30,15,9,3
+57343,Edimilson,Souza,Kevin,1984-10-17,72,145,DS Team,Brazil,Salvador,Bahia,Seminole,9,7,7,0
+30564,Davey,Grant,Dangerous,1985-12-18,68,135,North East Top Team,England,Bishop Auckland,,Sioux,32,5,6,2
+91727,Gilbert,Burns,Durinho,1986-07-20,70,155,Blackzilians,Brazil,Niteroi,Rio de Janeiro,Pima,21,19,3,0
+44211,Pedro,Nobre,The Rock,1986-02-13,65,125,Rio Fighters,Brazil,Rio de Janeiro,Rio de Janeiro,Bolivian,35,25,5,3
+26389,Guangyou,Ning,Smasher,1981-12-15,65,135,Tiger Muay Thai,China,Cangzhou,Hebei,Lumbee,35,16,10,0
+97337,Taylor,Lapilus,Double Impact,1992-04-08,66,135,MMA Factory,France,Paris,,Native Hawaiian,25,1,6,4
+69607,Patrick,Williams,The Animal,1981-09-07,68,135,Freestyle Fighting Academy,United States,Homestead,Florida,Costa Rican,9,13,3,3
+16556,Dan,Lauzon,The Upgrade,1988-03-30,70,170,Lauzon MMA,United States,Bridgewater,Massachusetts,Taiwanese,7,4,7,0
+47845,Dominique,Steele,Non-Stop Action Packed,1988-01-25,70,170,Team Vision,United States,Cincinnati,Ohio,Chickasaw,28,7,2,4
+66410,Eddie,Gordon,Truck,1983-07-22,72,185,Serra-Longo Fight Team,United States,Freeport,New York,Alaska Native,25,7,4,1
+65649,Alex,Chambers,Astro Girl,1978-10-28,63,115,VT-1 Gym,Australia,St. Ives,New South Wales,Latin American Indian,16,20,10,3
+50774,Nick,Hein,Sergeant,1984-04-24,68,155,G.I. Sports,Germany,Cologne,,Micronesian,34,11,6,3
+13791,Bryan,Caraway,Kid Lightning,1984-08-04,69,135,Xtreme Couture,United States,Seattle,Washington,South American,22,2,9,2
+148517,Angela,Hill,Overkill,1988-01-12,63,115,Evolution Muay Thai,United States,Brooklyn,New York,White,28,8,8,2
+60454,Roger,Narvaez,The Silverback,1983-09-09,75,185,Full Contact Fight Academy,United States,Corpus Christi,Texas,Chickasaw,28,10,1,4
+11955,Rich,Attonito,The Raging Bull,1977-06-16,70,170,American Top Team,United States,Deerfield Beach,Florida,Navajo,1,18,1,4
+21627,Steve,Steinbeiss,The Hooligan,1981-05-05,75,186,Power MMA Team,United States,Phoenix,Arizona,Eskimo,6,5,1,0
+7690,Fabiano,Scherner,Pega-Leve,1972-06-30,76,257,Team Quest,Brazil,Florianopolis,Santa Catarina,Vietnamese,2,9,8,0
+40238,Karlos,Vemola,The Terminator,1985-07-01,72,205,London Shootfighters,Czech Republic,Olomouc,,Polynesian,5,13,2,1
+69858,Vik,Grujic,The Spartan,1977-02-06,71,170,Alliance MMA,Australia,Melbourne,Victoria,Bolivian,1,14,5,3
+12785,Steve,Cantwell,The Robot,1986-12-08,74,185,One Kicks Gym,United States,Pahrump,Nevada,Cherokee,4,21,6,3
+12955,Denis,Stojnic,The Menace,1980-02-02,72,247,Golden Glory,Bosnia and Herzegovina,Sarajevo,,Central American,26,1,8,2
+6254,Josh,Haynes,Bring the Pain,1977-07-30,69,205,Syndicate MMA,United States,Medford,Oregon,Yakama,10,12,8,2
+18915,Matt,Lucas,Luke Duke,1900-01-00,73,205,Arizona Combat Sports,United States,Mesa,Arizona,Bolivian,16,21,7,2
+14702,Francimar,Barroso,Bodao,1980-02-29,73,205,Nova Uniao,Brazil,Xapuri,Acre,Asian,32,12,9,4
+46484,Manuel,Rodriguez,Chalate,1985-04-25,69,185,TP Fight Team,El Salvador,Sydney,Australia,Cheyenne,35,12,1,1
+21887,Todd,Brown,Bulldog,1976-12-13,71,185,Bulldog Fight Team,United States,Mishawaka,Indiana,Pima,10,11,3,2
+9,John,Marsh,The Bull,1970-09-15,72,222,Team Neutral Grounds,United States,Torrance,California,Cherokee,19,9,1,0
+2191,Cyrille,Diabate,Snake,1973-06-10,78,205,Snake Team,France,Le Celle St. Clous,Haut de Seine,Crow,1,15,1,4
+41494,Augusto,Montano,Dodger,1984-10-25,73,170,Bonebreakers Team,Mexico,Mexico City,,Aleut,3,13,10,4
+24986,Aaron,Simpson,A-Train,1974-07-20,72,170,Power MMA Team,United States,Phoenix,Arizona,Cheyenne,23,8,9,4
+48052,Bruno,Santos,Carioca,1987-07-17,68,185,Ze Mario Team,Brazil,Macae,Rio de Janeiro,Polynesian,23,7,5,1
+16551,Ryan,Madigan,The Lion,1900-01-00,72,170,Jungle Fight Team,United States,Cuyahoga Falls,Ohio,Apache,11,13,5,3
+8761,Xavier,Foupa-Pokam,Professor X,1982-03-07,73,185,Snake Team,France,Paris,,Iroquois,34,10,4,0
+13270,Josh,Schockman,The Warhammer,1981-12-29,76,205,Dirty South Fight Team,United States,Nashville,Tennessee,South American,33,25,1,1
+30320,Damian,Grabowski,The Polish Pitbull,1980-05-12,73,241,Lutadores Opole,Poland,Opole,,Vietnamese,13,3,6,2
+25524,Mike,Wessel,The Juggernaut,1977-12-02,72,263,Westside Fight Team,United States,Little Rock,Arkansas,Samoan,35,15,1,2
+258,Alex,Andrade,El Toro,1974-05-14,71,200,Lions Den,United States,Laredo,Texas,Spaniard,10,18,6,0
+53596,Nah-Shon,Burrell,The Rock-N-Rolla,1990-02-05,73,179,Fight Firm,United States,Philadelphia,Pennsylvania,Fijian,27,10,7,4
+68130,Christos,Giagos,The Spartan,1990-01-23,70,155,Systems Training Center,United States,Hawthorne,California,Pima,18,25,7,2
+103153,Oluwale,Bamgbose,The Holy War Angel,1987-08-04,71,185,Chute Boxe USA,United States,New York,New York,Shoshone,11,6,7,3
+23852,Mario,Miranda,Super Mario,1978-09-21,75,185,Black House,Brazil,Rio de Janeiro,,Panamanian,29,22,6,3
+17139,Jesse,Lennox,The Ox,1982-03-10,69,170,Miletich Martial Arts,United States,Cedar Rapids,Iowa,Sri Lankan,1,23,2,0
+60198,Albert,Tumenov,Einstein,1991-12-26,71,169,K Dojo Warrior Tribe,Russia,Nalchik,,American Indian,7,22,9,4
+81143,Mickael,Lebout,Ragnar,1987-08-16,71,155,MMA Factory,France,Paris,,Native Hawaiian,12,7,9,3
+17559,Luiz,Cane,Banha,1981-04-02,74,205,Demian Maia Jiu-Jitsu,Brazil,Sao Paulo,Sao Paulo,Alaskan Athabascan,28,8,6,1
+81585,Roger,Zapata,Viva,1900-01-00,71,170,Bruno Tostes BJJ,United States,New York,New York,Yakama,31,4,7,0
+67971,Patrick,Walsh,The Beast of the East,1988-11-28,71,205,Wai Kru MMA,United States,West Bridgewater,Massachusetts,Indonesian,31,19,3,0
+69681,Chad,Laprise,The Disciple,1986-07-23,70,156,Adrenaline Training Center,Canada,London,Ontario,Guamanian,5,3,8,0
+81765,Elias,Theodorou,The Spartan,1988-05-31,73,185,Kros Gym,Canada,Mississauga,Ontario,American Indian and Alaska Native (AIAN),35,19,3,4
+44602,Leo,Kuntz,The Lion,1983-10-03,70,155,American Top Team,United States,Linton,North Dakota,Samoan,2,7,5,2
+53778,David,Michaud,Bulldawg,1988-11-10,69,155,MMA Lab,United States,Brookings,South Dakota,Kiowa,19,15,4,3
+12098,Eddie,Sanchez,The Manic Hispanic,1982-04-11,75,214,Kings MMA,United States,San Diego,California,Guamanian,23,3,10,1
+69956,Adam,Cella,El Natural,1900-01-00,74,170,Finneys HIT Squad,United States,St. Louis,Missouri,Comanche,29,1,6,0
+3919,Zach,Light,The Lisbon Outlaw,1974-02-06,68,170,Wolfslair,United States,Huntington Beach,California,Venezuelan,16,2,7,4
+101117,Chris,Heatherly,Stump,1900-01-00,68,160,Fit or Fight,United States,Cahokia,Illinois,Samoan,23,18,10,2
+23501,Dongi,Yang,The Ox,1984-12-07,71,185,Korean Top Team,South Korea,Seoul,,Chamorro,13,9,8,1
+64754,Matt,Van Buren,Gutter,1986-06-12,77,205,American Top Team,United States,Norfolk,Virginia,Cuban,1,18,7,3
+23326,Razak,Al-Hassan,Razor,1982-05-14,75,205,Roufusport,United States,Milwaukee,Wisconsin,Colville,6,19,2,3
+21401,Justin,Wren,The Big Pygmy,1987-04-27,75,265,Grudge Training Center,United States,Ames,Iowa,Latin American Indian,8,16,10,3
+22137,Magnus,Cedenblad,Jycken,1982-04-10,75,185,Allstars Training Center,Sweden,Stockholm,,Guamanian,31,18,5,1
+48,Jason,Fairn,Bonecracker,1973-07-16,73,230,Fairn Jiu-Jitsu,Canada,Vancouver,British Columbia,Yuman,16,10,6,2
+1398,Alexandre,Ferreira,Cacareco,1979-04-25,67,204,Chute Boxe,Brazil,Rio de Janeiro,,Tohono O'Odham,18,11,2,0
+930,Justin,McCully,The Insane One,1976-02-18,74,235,Team Punishment,United States,Orange,California,Houma,25,4,1,1
+30396,Ulysses,Gomez,Useless,1983-05-25,65,125,Marc Laimons Cobra Kai,United States,Las Vegas,Nevada,Uruguayan,1,5,10,4
+10924,Rob,Broughton,The Bear,1983-03-03,74,258,Atherton Submission Wrestling,England,Liverpool,,Guatemalan,34,2,3,2
+64677,Danny,Roberts,Hot Chocolate,1900-01-00,72,170,Next Generation UK,England,Liverpool,Merseyside,Guatemalan,16,19,9,1
+23736,Nick,Penner,The Quiet Assassin,1980-03-26,72,205,Frank Lees Muay Thai,Canada,Blumenort,Manitoba,Sri Lankan,15,5,8,2
+23999,Daniel,Roberts,Ninja,1980-08-05,70,170,Cesar Gracie Fight Team,United States,Rockford,Illinois,Yaqui,11,14,3,3
+23156,Renan,Barao,The Baron,1987-01-31,67,135,Nova Uniao,Brazil,Natal,Rio Grande do Norte,Eskimo,19,13,6,1
+12692,Reese,Andy,Riptide,1973-03-31,72,205,West Coast Fight Team,United States,Auburn,Washington,Uruguayan,7,18,2,3
+42479,James,Hammortree,Sledge,1983-11-29,75,204,USA Martial Arts,United States,Ocala,Florida,Chinese,11,21,5,4
+56902,Clifford,Starks,Big Cat,1981-04-25,70,185,Arizona Combat Sports,United States,Tempe,Arizona,Guatemalan,9,22,2,0
+47183,Shinsho,Anzai,Animal,1985-12-01,69,170,Team Climb,Japan,Tokyo,,Alaskan Athabascan,16,11,5,4
+12,Enson,Inoue,Yamato Damashi,1967-04-15,70,204,Purebred Omiya,Japan,Omiya,Saitama,Lumbee,22,20,6,3
+31096,Alan,Patrick Silva Alves,Nuguette,1983-07-19,71,155,X-Gym,Brazil,Manaus,Amazonas,Ute,34,15,4,4
+22216,Valmir,Lazaro,Bidu,1985-08-15,72,154,Nova Uniao,Brazil,Salvador,Bahia,Dominican (Dominican Republic),13,13,1,4
+16984,Tiequan,Zhang,The Wolf,1978-07-25,69,145,China Top Team,China,Beijing,,Alaska Native,30,22,9,2
+51576,Chris,Kelades,The Greek Assassin,1981-02-21,67,125,Fit Plus,Canada,Cole Harbour,Nova Scotia,Paraguayan,27,25,4,1
+22223,Ildemar,Alcantara,Marajo,1982-11-17,74,185,Marajo Brothers Team,Brazil,Soure,Para,Iroquois,26,8,1,1
+182,Yoji,Anjo,Mr. 200&#37;,1970-12-31,71,198,Team Kingdom,Japan,Suginami,Tokyo,Houma,9,20,5,4
+41745,Germaine,de Randamie,The Iron Lady,1984-04-24,69,135,American Kickboxing Academy,Netherlands,Utrecht,Utrecht,Potawatomi,26,6,10,2
+45384,Valentina,Shevchenko,Bullet,1988-03-07,65,135,Tiger Muay Thai,Peru,Lima,,Apache,4,24,10,4
+45122,Daniel,Hooker,The Hangman,1990-02-13,72,145,Saigon Sports Club,New Zealand,Auckland,,Vietnamese,19,21,4,0
+30452,Sean,Strickland,Tarzan,1991-02-27,73,171,CQuence Jiu-Jitsu,United States,Riverside,California,Potawatomi,3,4,9,0
+108499,Guilherme,Vasconcelos,Bomba,1986-03-23,72,170,BH Rhinos,Brazil,Belo Horizonte,Minas Gerais,Dominican (Dominican Republic),23,7,2,2
+49092,Steve,Montgomery,The Creepy Weasel,1990-12-19,76,170,American Top Team,United States,Boca Raton,Florida,Native Hawaiian and Other Pacific Islander (NHPI),11,20,6,0
+85623,Marcin,Wrzosek,The Polish Zombie,1987-10-14,69,145,Gracie Barra Lodz,Poland,Bydgoszcz,,Malaysian,23,7,2,4
+57322,Andreas,Stahl,Real Steel,1988-05-20,71,169,Renyi Fight Camp,Sweden,Umea,Vasterbotten,Ottawa,15,13,5,1
+56615,Paul,Redmond,Redser,1986-10-20,70,145,Team Ryano MMA,Ireland,Dublin,Leinster,Taiwanese,4,23,8,4
+39432,Kris,McCray,Savage,1981-09-24,72,170,Iron Army,United States,Toms River,New Jersey,Filipino,29,23,8,4
+29690,Tom,Egan,The Tank,1900-01-00,71,181,SBG MMA,Ireland,Kildare,County Kildare,Ute,7,18,2,4
+16705,Alberto,Mina,Soldier of God,1982-05-02,72,170,Kings MMA,Brazil,Campina Grande,Paraiba,Dominican (Dominican Republic),19,19,6,0
+8785,Roxanne,Modafferi,The Happy Warrior,1982-09-24,66,125,Syndicate MMA,United States,Las Vegas,Nevada,Micronesian,27,4,4,1
+143157,Antonio,Carlos Jr.,Cara de Sapato,1990-03-16,73,185,American Top Team,Brazil,Salvador,Bahia,Yuman,29,25,3,3
+1659,Lee,Murray,Lightning,1977-11-12,72,185,London Shootfighters,England,London,,Thai,30,1,8,2
+15759,Jake,Hecht,Hitman,1984-02-09,72,170,Fiore MMA,United States,Moscow Mills,Missouri,Sri Lankan,23,6,9,2
+17559,Luiz,Cane,Banha,1981-04-02,74,205,Demian Maia Jiu-Jitsu,Brazil,Sao Paulo,Sao Paulo,Filipino,6,22,8,3
+55298,Aaron,Phillips,The Model,1989-08-05,69,135,Gladiators Academy,United States,Lafayette,Louisiana,Spaniard,25,5,10,0
+53596,Nah-Shon,Burrell,The Rock-N-Rolla,1990-02-05,73,179,Fight Firm,United States,Philadelphia,Pennsylvania,Cuban,7,6,8,2
+44442,Bradley,Scott,Bear,1989-06-22,73,185,Dragons Lair MMA,England,Melksham,Wiltshire,Pakistani,19,14,1,4
+55705,Marcin,Bandel,Bomba,1989-10-10,70,155,Drysdale Jiu-Jitsu,Poland,Lodz,,Yakama,13,18,7,1
+28286,Nandor,Guelmino,The Hun,1975-12-20,75,230,Gym 23,Austria,Vienna,,Tlingit-Haida,1,22,3,2
+47105,Robert,Whiteford,The Hammer,1983-04-12,69,145,Dinky Ninjas,Scotland,Armadale,West Lothian,Tohono O'Odham,28,12,6,2
+41993,Mehdi,Baghdad,The Sultan,1985-04-13,73,155,Black House,France,Six-Fours-les-Plages,,Navajo,2,13,2,0
+8761,Xavier,Foupa-Pokam,Professor X,1982-03-07,73,185,Snake Team,France,Paris,,Thai,13,15,1,0
+69513,Guido,Cannetti,Ninja,1900-01-00,66,135,Muay Thai Goa,Argentina,Buenos Aires,,Menominee,32,23,1,2
+41666,Daniel,Downes,Danny Boy,1986-04-08,72,155,Roufusport,United States,Milwaukee,Wisconsin,Korean,12,19,7,2
+39265,Aaron,Wilkinson,The Daywalker,1900-01-00,70,170,Straight Blast Gym,England,Manchester,,Guatemalan,3,22,9,1
+27077,Enrique,Marin,Wasabi,1900-01-00,,170,Crazy Seville,Spain,Seville,Andalusia,Asian,19,16,3,1
+31110,Lukasz,Sajewski,Wookie,1990-11-27,68,155,Mighty Bulls Team,Poland,Gdansk,,Melanesian,1,5,5,0
+47118,Sai,Wang,The Fire Kylin,1986-01-16,72,170,AKA Thailand,China,Beijing,,Colville,4,16,6,4
+16459,Allen,Berube,Monstah,1974-08-25,68,155,Gracie Tampa,United States,Biddeford,Maine,Nicaraguan,23,13,3,0
+9512,John,Polakowski,Buckets of Blood,1981-06-21,69,155,The Pit,United States,San Luis Obsipo,California,Melanesian,27,17,4,1
+13428,Alejandro,Perez,El Diablito,1900-01-00,66,136,KB-VT Gym,Mexico,Aguascalientes,,Bangladeshi,18,23,4,2
+900,Steve,Vigneault,Lion Heart,1900-01-00,70,169,Tristar Gym,Canada,Iles de la Madeleine,Quebec,Dominican (Dominican Republic),21,8,4,2
+37351,Roland,Delorme,Stunning,1983-12-18,69,135,Winnipeg Academy of MMA,Canada,Winnipeg,Manitoba,Cree,25,5,3,3
+5781,Jared,Rollins,J-Roc,1977-01-26,69,185,Team Oyama,United States,Stanton,California,Navajo,32,16,5,4
+12943,Scott,Junk,Punk Haole,1978-12-17,73,265,MMA Development,United States,Kailua,Hawaii,Chinese,16,24,3,2
+229,Alfonso,Alcarez,Alfie,1970-06-10,63,135,Nickwan Kick Gym,United States,Las Vegas,Nevada,Central American,21,2,2,1
+243,David,Velasquez,Little,1900-01-00,65,145,American Kickboxing Academy,United States,San Jose,California,Cherokee,21,12,9,4
+113687,Alexis,Dufresne,Sneaky Zebra,1990-08-31,69,143,Team Quest,United States,Temecula,California,White,15,22,10,0
+14971,Leonardo,Guimaraes,Leleco,1982-04-15,72,185,MMA Masters,Brazil,Salvador,Bahia,Central American,5,22,9,2
+79290,Geane,Herrera,La Pulga,1990-05-27,65,125,Banks MMA,United States,Tampa,Florida,Taiwanese,3,1,3,4
+86382,Leandro,Silva,Buscape,1985-11-11,70,170,Team Buscape,Brazil,Sao Paulo,Sao Paulo,Taiwanese,14,21,3,0
+91565,Peggy,Morgan,The Daywalker,1979-12-06,73,135,Triumph MMA,United States,Manchester,New Hampshire,Osage,21,22,2,3
+280,Mark,Robinson,White Rhino,1970-12-31,72,300,Cal Cooper,USA,Atlanta,Georgia,Eskimo,6,11,4,2
+264,Alexandre,Dantas,Cafe,1979-01-03,74,238,Gracie Barra Combat Team,Brazil,Rio de Janeiro,,Venezuelan,2,11,6,2
+26649,Josh,Ferguson,Taz,1900-01-00,65,125,All American MMA,United States,Louisville,Kentucky,Venezuelan,28,20,1,4
+44311,John,Teixeira da Conceicao,Macapa,1986-11-18,67,145,Nova Uniao,Brazil,Macapa,Amapa,Chilean,21,9,5,2
+52407,Pedro,Munhoz,The Young Punisher,1986-09-07,66,135,Black House,Brazil,Sao Paulo,Sao Paulo,Yuman,34,23,6,4
+37681,Jose,Maria Tome,No Chance,1982-01-04,65,125,Team Nogueira,Brazil,Limoeiro do Norte,Ceara,Pakistani,31,8,5,3
+71175,Azamat,Gashimov,Tough Guy,1990-04-07,69,135,Jackson-Wink MMA,Russia,Dagestan,,Paraguayan,11,21,2,0
+22197,Wagner,Campos,Galeto,1981-07-31,66,145,Fight Only,Brazil,Pinhais,Parana,Cuban,6,16,8,4
+51728,Marcos,Vinicius Borges Pancini,Vina,1979-12-05,69,145,Team Bronx,Brazil,Curitiba,Parana,Ute,12,2,10,0
+87981,Douglas,Silva de Andrade,DSilva,1985-06-22,67,135,Pitbull Brothers,Brazil,Castanhal,Para,Pakistani,14,7,3,3
+59769,Brian,Houston,B-Hue,1987-04-26,73,185,Disorderly Conduct,United States,Omaha,Nebraska,Malaysian,9,18,7,3
+83243,Daniel,Jolly,The Werewolf of Texas,1984-09-03,73,205,Rubicon Fightsport,United States,Austin,Texas,Micronesian,26,14,9,4
+6767,Carlo,Prater,Neo,1981-06-25,72,155,Prater MMA,Brazil,Brasilia,Federal District,Pima,30,3,3,2
+43796,John,Albert,Prince,1986-10-13,69,137,Victory Athletics,United States,Puyallup,Washington,Cambodian,8,15,7,1
+91121,Cortney,Casey,Cast Iron,1987-05-05,62,115,Freak Animal Fitness,United States,Phoenix,Arizona,Bangladeshi,33,18,5,3
+123973,Bentley,Syler,Dr. Bolivia,1982-12-22,64,125,American Top Team,Bolivia,Santa Cruz,,Creek,6,7,7,0
+17786,Carlos,Augusto Inocente Filho,Guto,1986-05-29,75,205,Blackzilians,Brazil,Brasilia,Federal District,Native Hawaiian,16,18,5,2
+244,Bob,Cook,Crazy Bob,1900-01-00,69,170,American Kickboxing Academy,United States,Fresno,California,Choctaw,25,24,6,4
+26381,Jingliang,Li,The Leech,1988-03-20,72,169,China Top Team,China,Beijing,,Houma,31,4,7,2
+83949,Jack,May,The Outlaw,1981-04-14,80,253,CSW,United States,Chino Hills,California,Tlingit-Haida,1,21,3,3
+6606,Jeff,Joslin,The Inferno,1975-04-30,72,170,Joslin MMA,Canada,Hamilton,Ontario,Tohono O'Odham,31,23,4,2
+151905,Maryna,Moroz,The Iron Woman,1991-09-08,67,115,YK Promotion,Ukraine,Dnipropetrovsk,,Menominee,9,1,10,3
+46759,Antonio,dos Santos Jr.,Junior Alpha,1988-07-21,70,185,Nordeste Jiu-Jitsu,Brazil,Salvador,Bahia,Alaska Native,1,18,5,4
+55587,Richard,Walsh,Filthy Rich,1988-12-01,72,170,VT1 Gym,Australia,Sydney,New South Wales,Ottawa,32,21,1,3
+60790,Ben,Alloway,Benny Blanco,1981-02-19,70,170,BBA Mixed Martial Arts,Australia,Gold Coast,Queensland,Paiute,12,16,1,1
+4870,Jeff,Hougland,Hellbound,1978-08-02,69,135,Combat Sport and Fitness,United States,Enumclaw,Washington,Houma,32,8,3,1
+6527,Sako,Chivitchyan,The Chainsaw,1984-03-11,,156,Team Hayastan,United States,Glendale,California,Hmong,17,1,9,0
+64894,Alex,Morono,The Great White,1990-08-16,71,170,Gracie Barra Woodlands,United States,Houston,Texas,Uruguayan,26,1,9,3
+13539,Tyler,Toner,Thunder,1900-01-00,69,145,Elevation Fight Team,United States,Aurora,Colorado,Tlingit-Haida,18,4,6,4
+50416,Lipeng,Zhang,The Warrior,1990-03-10,71,155,Fight Emperor,China,Hohhot,Inner Mongolia,Panamanian,22,17,5,1
+33523,John,Cofer,The Potter,1984-04-29,69,145,Hardcore Gym,United States,Athens,Georgia,Yakama,14,7,6,1
+3225,Nick,Serra,The Mad Monkey,1900-01-00,,,Serra-Longo Fight Team,USA,New York,,Latin American Indian,22,4,6,1
+23156,Renan,Barao,The Baron,1987-01-31,67,135,Nova Uniao,Brazil,Natal,Rio Grande do Norte,Houma,30,4,2,1
+22791,Frank,Lester,The Tank,1984-06-10,71,170,Jackson-Wink MMA,United States,Temecula,California,Thai,13,10,2,1
+97179,Marlon,Vera,Chito,1992-12-02,68,135,Team Frank Vidal 5050,Ecuador,Chone,,Native Hawaiian,24,10,1,1
+40285,Marco,Beltran,Psycho,1900-01-00,68,170,Top Brother Mexico,Mexico,Mexico City,,Laotian,13,3,3,4
+106305,Yair,Rodriguez,Pantera,1900-01-00,71,145,Ragnarok MMA,Mexico,Parral,Chihuahua,Guamanian,5,19,6,4
+87012,Cesar,Arzamendia,Goku,1991-01-31,71,145,Paraguay Combat Team,Paraguay,Asuncion,,Chamorro,18,5,10,2
+11278,Mike,Nickels,Big,1971-12-13,76,204,Colorado Brazilian Jiu-Jitsu,United States,Denver,Colorado,Dominican (Dominican Republic),15,25,1,4
+22105,Josh,Clopton,The Gentleman,1981-07-11,67,145,Skrap Pack,United States,San Francisco,California,Uruguayan,15,4,7,1
+84645,Cain,Carrizosa,The Insane,1986-07-22,68,155,Elite Team,United States,Woodlake,California,Laotian,26,7,2,1
+152627,Jose,Alberto Quinonez,El Teco,1900-01-00,68,135,Delincuentes MMA,Mexico,Tlaltenango de Sanchez Roman,Zacatecas,Venezuelan,5,14,2,1
+108571,Jonathan,Wilson,Johnny Bravo,1900-01-00,74,205,Millennia MMA,United States,San Bernardino,California,Yaqui,22,13,3,0
+84661,Jimmy,Quinlan,Crash,1900-01-00,,185,Mass BJJ,United States,Methuen,Massachusetts,Asian,22,9,2,3
+78164,Ben,Wall,Manimal,1989-03-25,70,154,Gamebred Submission Fighting,Australia,Brisbane,Queensland,Argentinian,5,4,3,2
+33342,Pat,Barry,HD,1979-07-07,71,237,Team Death Clutch,United States,New Orleans,Louisiana,Pima,6,13,10,3
+487,Tony,DeSouza,The Peruvian Savage,1974-07-26,72,169,Millennia MMA,Peru,Cuzco,,Aleut,14,15,9,1
+2886,Roan,Carneiro,Jucao,1978-06-02,71,170,American Top Team Atlanta,Brazil,Rio de Janeiro,,Native Hawaiian and Other Pacific Islander (NHPI),24,18,9,2
+69632,Nina,Ansaroff,The Strina,1985-12-03,65,116,American Top Team,United States,Fort Lauderdale,Florida,Iroquois,25,21,8,4
+72825,Richardson,Moreira,Rick Monstro,1984-03-31,74,205,Team Nogueira,Brazil,Campinas,Sao Paulo,Guamanian,8,5,9,4
+11675,Rafael,dos Anjos,,1984-10-26,69,155,Evolve MMA,Brazil,Rio de Janeiro,,Asian Indian,34,14,4,3
+101411,Joanna,Jedrzejczyk,,1987-08-18,66,115,Berkut Arrachion Olsztyn,Poland,Olsztyn,,Thai,15,12,7,2
+23345,Luke,Rockhold,,1984-10-17,75,185,American Kickboxing Academy,United States,San Jose,California,Melanesian,1,25,6,4
+19,Royce,Gracie,,1966-12-12,72,176,Gracie Humaita,Brazil,Rio de Janeiro,,American Indian and Alaska Native (AIAN),12,6,5,1
+5993,Gleison,Tibau,,1983-07-10,70,155,American Top Team,Brazil,Mossoro,Rio Grande do Norte,Malaysian,24,2,3,4
+11702,George,Sotiropoulos,,1977-07-09,70,155,American Top Team,Australia,Geelong,Victoria,Mexican,11,2,6,3
+11689,Tyson,Griffin,,1984-04-20,66,155,American Kickboxing Academy,United States,Santa Rosa,California,Nicaraguan,35,25,9,2
+9781,Mark,Bocek,,1981-10-24,69,155,Tristar Gym,Canada,Toronto,Ontario,Lumbee,9,18,8,4
+22038,Evan,Dunham,,1981-12-18,70,155,Xtreme Couture,United States,Eugene,Oregon,Seminole,10,9,4,1
+11451,Nate,Diaz,,1985-04-16,72,155,Cesar Gracie Fight Team,United States,Stockton,California,Aleut,25,2,10,0
+13332,Terry,Etim,,1986-01-11,73,155,Team Kaobon,England,Liverpool,,Iroquois,3,7,5,2
+7918,Kyle,Bradley,,1982-08-19,70,170,Team Voodoo,United States,Denham Springs,Louisiana,Thai,33,22,5,3
+21247,Jessica,Penne,,1983-01-30,65,115,Alliance MMA,United States,Huntington Beach,California,Pakistani,17,21,6,0
+46259,Edson,Barboza,,1986-01-21,71,155,Ricardo Almeida Jiu-Jitsu,Brazil,Nova Friburgo,Rio de Janeiro,Blackfeet,15,11,6,4
+32432,Costas,Philippou,,1979-11-29,71,185,Bellmore Kickboxing Academy,United States,Merrick,New York,Korean,10,15,3,4
+232,Matt,Hughes,,1973-10-13,69,170,HIT Squad,United States,Hillsboro,Illinois,Asian,20,8,7,4
+2830,Tim,Kennedy,,1979-09-01,71,185,Jackson-Wink MMA,United States,Fort Bragg,North Carolina,Sioux,35,19,8,2
+43,Kimo,Leopoldo,,1968-01-04,75,235,Freelance,United States,Huntington Beach,California,Malaysian,10,24,5,2
+179,Greg,Stott,The Ranger,1900-01-00,67,240,,USA,Sanford,North Carolina,Kiowa,5,7,1,0
+49,Ron,van Clief,Black Dragon,1900-01-00,70,190,,United States,Brooklyn,New York,Crow,17,25,3,1
+38,Keith,Hackney,The Giant Killer,1958-04-15,71,200,,United States,Addison,Illinois,Guatemalan,14,2,3,4
+35,Minoki,Ichihara,,1900-01-00,67,178,,Japan,Tokyo,,Cheyenne,18,1,1,2
+20,Art,Jimmerson,,1963-08-04,73,196,,United States,St. Louis,Missouri,Asian,22,7,6,3
+21,Patrick,Smith,,1963-07-16,74,225,,United States,Denver,Colorado,Yaqui,9,3,5,4
+15,Gerard,Gordeau,,1955-03-30,77,216,Kamakura,Netherlands,The Hague,,Polynesian,9,22,10,1
+22,Jason,DeLucia,,1969-07-24,71,190,,United States,Bellingham,Massachusets,Korean,33,19,1,1
+482,Phillip,Miller,,1900-01-00,71,182,Williams Combat Grappling,United States,Hesperia,California,Spaniard,18,13,8,2
+14463,Jim,Miller,,1983-08-30,68,155,Miller Brothers MMA,United States,Sparta,New Jersey,Houma,2,14,4,2
+2831,Nick,Diaz,,1983-08-02,73,170,Cesar Gracie Fight Team,United States,Stockton,California,Fijian,27,10,2,0
+35867,John,Cholish,,1983-12-17,71,155,Renzo Gracie Jiu-Jitsu,United States,Hackettstown,New Jersey,Japanese,24,12,3,1
+9785,Jeff,Cox,,1968-08-02,,155,Strong Style Fight Team,United States,Cleveland,Ohio,Comanche,25,3,9,2
+9907,Adriano,Martins,,1982-12-16,70,154,Top Life Amazonas,Brazil,Manaus,Amazonas,Melanesian,8,3,8,1
+283,Caol,Uno,,1975-05-08,67,145,Uno Dojo,Japan,Yokosuka,Kanagawa,Potawatomi,11,25,2,2
+6525,Roman,Mitichyan,,1978-04-09,70,155,,Armenia,,,Hmong,19,18,8,4
+9817,Dennis,Siver,,1979-01-13,67,145,Kiboju,Germany,Mannheim,,Mexican,27,21,2,0
+8845,Billy,Miles,,1900-01-00,70,185,Capital City Fighting Alliance,United States,Lincoln,California,Cuban,13,9,1,4
+16415,George,Roop,,1981-11-10,73,135,Apex MMA,United States,Tucson,Arizona,Nicaraguan,34,23,10,4
+27090,Yan,Cabral,,1983-05-13,72,170,Nova Uniao,Brazil,Visconde de Maua,Rio de Janeiro,Alaskan Athabascan,33,25,8,3
+220,Dave,Roberts,,1979-11-15,73,203,,United States,Jacksonville,Florida,Paiute,5,22,8,0
+4647,Thiago,Tavares,,1984-11-08,67,145,Team Tavares,Brazil,Florianopolis,Santa Catarina,Yuman,15,9,8,2
+3068,Hermes,Franca,,1974-08-27,66,155,Team Hermes Franca,Brazil,Fortaleza,Ceara,Yuman,22,23,2,4
+6945,David,Lee,,1900-01-00,71,145,Team Crossface,England,London,Greater London,Ute,19,15,4,1
+2224,James,Lee,,1973-09-22,71,205,Mash Fight Team,United States,Sylvan Lake,Michigan,Bangladeshi,32,11,4,0
+3863,David,Bielkheden,,1979-06-06,70,170,Brazilian Top Team,Sweden,Stockholm,,Paraguayan,32,25,4,3
+3396,Mac,Danzig,,1980-01-02,68,155,PKG,United States,Los Angeles,California,Ute,13,13,5,4
+18184,Douglas,Evans,,1980-10-10,69,144,AK Wolfpack,United States,Anchorage,Alaska,Dominican (Dominican Republic),33,22,3,1
+11507,Rodrigo,Damm,,1980-02-03,67,145,Alliance Jiu-Jitsu,Brazil,Sao Paulo,Sao Paulo,Tohono O'Odham,25,4,4,1
+4810,Leonardo,Santos,,1980-02-05,72,155,Nova Uniao,Brazil,Rio de Janeiro,,Indonesian,29,23,5,0
+3707,Per,Eklund,,1980-11-12,70,145,Hilti NHB,Sweden,Stockholm,,Pueblo,10,13,10,4
+15906,T.J.,Grant,,1984-02-26,70,155,Fit Plus,Canada,Cole Harbour,Nova Scotia,Cambodian,17,13,10,3
+10768,Rory,Markham,,1982-03-25,72,177,Miletich Martial Arts,United States,Bettendorf,Iowa,Crow,18,12,8,0
+249,Koji,Oishi,,1977-05-31,68,145,PANCRASEism,Japan,Tokyo,,Polynesian,27,3,2,3
+10380,Junior,Assuncao,,1981-06-24,69,145,Ascension MMA,Brazil,Athens,Georgia,South American,29,24,3,2
+37684,Renee,Forte,,1987-03-27,68,156,Team Renee Forte,Brazil,Fortaleza,Ceara,Argentinian,10,8,3,3
+42802,Gian,Villante,,1985-04-18,74,205,Bellmore Kickboxing Academy,United States,Bellmore,New York,Venezuelan,10,20,5,4
+11001,Shannon,Gugerty,,1981-12-30,70,145,Victory MMA,United States,San Diego,California,Ute,23,5,8,1
+18062,Justin,Buchholz,,1983-08-22,71,155,Team Alpha Male,United States,Sacramento,California,South American,16,11,4,4
+28181,Felipe,Olivieri,,1900-01-00,,155,Nova Uniao,Brazil,Rio de Janeiro,Rio de Janeiro,Apache,10,6,7,2
+3006,Miguel,Torres,,1981-01-18,69,145,Tristar Gym,United States,East Chicago,Indiana,Chickasaw,35,14,4,1
+1170,Dokonjonosuke,Mishima,,1972-04-19,67,154,Cobra Kai MMA Dojo,Japan,,,Cheyenne,15,1,10,2
+2329,Frank,Mir,,1979-05-24,75,262,Las Vegas Combat Club,United States,Las Vegas,Nevada,Cuban,13,22,8,1
+13767,Masanori,Kanehara,,1982-11-18,67,135,Alpha,Japan,Tachikawa,Tokyo,Cuban,35,11,3,2
+62507,T.J.,Dillashaw,,1986-02-07,66,135,Elevation Fight Team,United States,Angels Camp,California,Asian Indian,8,18,9,2
+15816,Peter,Sobotta,,1987-01-11,72,169,Planet Eater,Germany,Balingen,,American Indian and Alaska Native (AIAN),33,14,7,2
+11002,Cub,Swanson,,1983-11-02,67,145,Jackson-Wink MMA,United States,Palm Springs,California,Cuban,9,7,10,0
+214,Bas,Rutten,El Guapo,1965-02-24,73,205,,Netherlands,Eindhoven,,Costa Rican,28,3,3,1
+74700,Kelvin,Gastelum,,1991-10-24,69,170,Yuma United Mixed Martial Arts,United States,Yuma,Arizona,Cheyenne,19,2,4,1
+17522,Brock,Lesnar,,1977-07-12,75,264,Team Death Clutch,United States,Webster,South Dakota,Latin American Indian,9,4,7,3
+43885,Milana,Dudieva,,1989-04-08,65,136,Peresvet FT,Russia,Vladikavkaz,North Ossetia,Nicaraguan,5,19,7,1
+19530,Antonio,Braga Neto,,1987-10-29,75,185,Team Nogueira,Brazil,Rio de Janeiro,Rio de Janeiro,Cambodian,13,7,1,2
+69166,Neil,Magny,,1987-08-03,75,170,Grudge Training Center,United States,Dolton,Illinois,Uruguayan,20,4,9,1
+34071,Amir,Sadollah,,1980-08-27,71,170,Syndicate MMA,United States,Richmond,Virginia,Thai,26,22,9,2
+14013,Shane,Carwin,,1975-01-04,74,254,Grudge Training Center,United States,Greeley,Colorado,Indonesian,35,22,6,2
+42817,Al,Iaquinta,,1987-04-30,67,155,Serra-Longo Fight Team,United States,New York City,New York,Tlingit-Haida,14,25,5,4
+16806,Katsunori,Kikuno,,1981-10-30,68,145,Alliance-Square,Japan,Kagoshima,,Pueblo,32,16,6,0
+3526,Forrest,Griffin,,1979-07-01,75,205,Xtreme Couture,United States,Athens,Georgia,Uruguayan,31,11,1,0
+20447,Ronys,Torres,,1986-08-13,68,155,Nova Uniao,Brazil,Manacapuru,Amazonas,American Indian,20,14,3,1
+10071,Lisa,Ellis,,1982-11-15,64,110,United Training Center,United States,Olympia,Washington,Cheyenne,13,25,1,4
+36885,Mike,Lullo,,1979-07-24,68,145,,United States,Schaumburg,Illinois,Fijian,30,5,1,0
+8593,Thales,Leites,,1981-09-06,73,185,Nova Uniao,Brazil,Niteroi,Rio de Janeiro,Filipino,4,5,10,0
+17665,Daniel,Sarafian,,1982-08-21,69,185,Power MMA,Brazil,Sao Paulo,Sao Paulo,Peruvian,6,7,6,1
+34409,Ryan,LaFlare,,1983-10-01,73,170,Long Island MMA,United States,Lindenhurst,New York,Crow,16,23,2,4
+39537,Stipe,Miocic,,1982-08-19,76,245,Strong Style Fight Team,United States,Independence,Ohio,Fijian,8,8,1,1
+16524,Sarah,Kaufman,,1985-09-20,65,136,Zugec Ultimate Martial Arts,Canada,Victoria,British Columbia,Pakistani,30,15,9,3
+52311,Daniel,Cormier,,1979-03-20,71,205,American Kickboxing Academy,United States,San Jose,California,Seminole,9,7,7,0
+19102,Cain,Velasquez,,1982-07-28,73,241,American Kickboxing Academy,United States,Salinas,California,Sioux,32,5,6,2
+67094,Sara,McMann,,1980-09-24,65,135,Revolution MMA,United States,Gaffney,South Carolina,Pima,21,19,3,0
+4112,Chael,Sonnen,,1977-04-03,73,205,Team Quest,United States,West Linn,Oregon,Bolivian,35,25,5,3
+58097,Dustin,Ortiz,,1988-12-25,65,125,Roufusport,United States,Goshen,Indiana,Lumbee,35,16,10,0
+8180,Isaac,Vallie-Flagg,,1978-04-08,68,159,Jackson-Wink MMA,United States,Santa Fe,New Mexico,Native Hawaiian,25,1,6,4
+15008,Joseph,Benavidez,,1984-07-31,64,125,Team Alpha Male,United States,Sacramento,California,Costa Rican,9,13,3,3
+23978,Ricardo,Romero,,1978-04-15,72,205,AMA Fight Club,United States,North Brunswick,New Jersey,Taiwanese,7,4,7,0
+10229,Riki,Fukuda,,1981-01-06,72,185,Grabaka,Japan,Tokyo,Kanto,Chickasaw,28,7,2,4
+290,Renzo,Gracie,,1967-03-11,70,171,Renzo Gracie Jiu-Jitsu,Brazil,Rio de Janeiro,,Alaska Native,25,7,4,1
+553,Gil,Castillo,,1965-10-21,69,170,Cesar Gracie Fight Team,United States,Concord,California,Latin American Indian,16,20,10,3
+1449,Chris,Haseman,The Hammer,1969-06-02,71,198,Rings Australia,Australia,,,Micronesian,34,11,6,3
+257,Marcelo,Aguiar,,1900-01-00,68,168,,Brazil,,,South American,22,2,9,2
+1217,Akihiro,Gono,,1974-10-07,69,155,OxyGym Fight Team,Japan,Higashikurume,Tokyo,White,28,8,8,2
+35521,Will,Campuzano,,1986-05-27,69,125,Mohler MMA,United States,Mount Pleasant,Texas,Chickasaw,28,10,1,4
+2580,Antonio,Banuelos,,1979-09-23,63,125,The Pit,United States,San Luis Obispo,California,Navajo,1,18,1,4
+393,Naoyuki,Kotani,,1981-12-08,68,154,Rodeo Style,Japan,Yokohama,Kanagawa,Eskimo,6,5,1,0
+284,Frank,Shamrock,,1972-12-08,70,185,The Alliance,United States,Santa Monica,California,Vietnamese,2,9,8,0
+110,David,Abbott,Tank,1965-04-26,72,250,,United States,Huntington Beach,California,Polynesian,5,13,2,1
+19854,Roger,Gracie,,1981-09-26,76,186,Black House,Brazil,Rio de Janeiro,,Bolivian,1,14,5,3
+4000,Alex,Schoenauer,,1976-05-05,75,185,Xtreme Couture,United States,Las Vegas,Nevada,Cherokee,4,21,6,3
+4789,Trevor,Prangley,,1972-08-24,72,205,American Kickboxing Academy,South Africa,Cape Town,Western Cape,Central American,26,1,8,2
+1255,Yuki,Sasaki,,1976-09-12,72,180,Grabaka,Japan,Tokyo,,Yakama,10,12,8,2
+252,Sanae,Kikuta,,1971-09-10,69,200,Grabaka,Japan,Tokyo,,Bolivian,16,21,7,2
+31808,Zak,Cummings,,1984-08-02,72,170,Glory MMA and Fitness,United States,Springfield,Missouri,Asian,32,12,9,4
+5746,Dante,Rivera,,1974-12-08,72,170,Renzo Gracie Jiu-Jitsu,United States,Jackson,New Jersey,Cheyenne,35,12,1,1
+112,Paul,Varelans,The Polar Bear,1969-09-17,80,300,,United States,Fairbanks,Alaska,Pima,10,11,3,2
+25415,Mike,Pierce,,1980-09-01,68,170,Sports Lab,United States,Portland,Oregon,Cherokee,19,9,1,0
+75370,Mark,Eddiva,,1986-02-16,68,145,Lakay MMA,Philippines,,,Crow,1,15,1,4
+15987,Yui,Chul Nam,The Korean Bulldozer,1981-07-16,69,145,,South Korea,,,Aleut,3,13,10,4
+50,Joe,Son,,1970-11-20,64,236,,United States,Huntington Beach,California,Cheyenne,23,8,9,4
+36,Fred,Ettish,,1955-10-12,72,180,,United States,Bemiji,Minnesota,Polynesian,23,7,5,1
+4865,Jon,Fitch,,1978-02-24,72,183,American Kickboxing Academy,United States,Fort Wayne,Indiana,Apache,11,13,5,3
+81,David,Dodd,,1900-01-00,74,205,Arizona Combat Sports,United States,Mesa,Arizona,Iroquois,34,10,4,0
+146,Fabio,Gurgel,,1970-01-18,72,205,Alliance,Brazil,Rio de Janeiro,,South American,33,25,1,1
+27,Johnny,Rhodes,,1900-01-00,72,210,,United States,Las Vegas,Nevada,Vietnamese,13,3,6,2
+26,Ray,Wizard,,1900-01-00,,,,United States,Los Angeles,California,Samoan,35,15,1,2
+114,Rudyard,Moncayo,,1900-01-00,70,205,,United States,Santa Ana,California,Spaniard,10,18,6,0
+56,Dave,Beneteau,Dangerous,1968-07-16,74,250,,Canada,Windsor,Ontario,Fijian,27,10,7,4
+24,Scott,Morris,,1900-01-00,72,210,,United States,Arlington,Texas,Pima,18,25,7,2
+55159,John,Moraga,,1984-03-20,66,125,Arizona Combat Sports,United States,Phoenix,Arizona,Shoshone,11,6,7,3
+16,Teila,Tuli,,1969-06-14,74,415,,United States,Honolulu,Hawaii,Panamanian,29,22,6,3
+17,Kevin,Rosier,,1962-01-06,76,265,,United States,Tampa,Florida,Sri Lankan,1,23,2,0
+39391,Iliarde,Santos,,1980-09-25,63,123,American Top Team,Brazil,Escada,Pernambuco,American Indian,7,22,9,4
+9033,James,Te Huna,,1981-09-29,73,185,Pirtek Athletic Allstars,Australia,Penrith,New South Wales,Native Hawaiian,12,7,9,3
+18944,Brian,Bowles,,1980-06-22,67,135,Hardcore Gym,United States,Athens,Georgia,Alaskan Athabascan,28,8,6,1
+14396,Thiago,Silva,,1982-11-12,73,208,Blackzilians,Brazil,Sao Paulo,,Yakama,31,4,7,0
+5153,Karo,Parisyan,The Heat,1982-08-28,70,169,,United States,North Hollywood,California,Indonesian,31,19,3,0
+4655,Glover,Teixeira,,1979-10-28,74,205,Nova Uniao,Brazil,Sobralia,Minas Gerais,Guamanian,5,3,8,0
+24540,Shane,Roller,,1979-07-14,70,155,Team Takedown,United States,Bixby,Oklahoma,American Indian and Alaska Native (AIAN),35,19,3,4
+5778,Nam,Phan,,1983-03-13,66,141,Nam Phan MMA Academy,United States,Garden Grove,California,Samoan,2,7,5,2
+37421,Eddie,Mendez,,1900-01-00,69,185,House of Champions,United States,Sun Valley,California,Kiowa,19,15,4,3
+17224,Chris,Camozzi,,1986-11-20,75,185,factoryX Muay Thai,United States,Englewood,Colorado,Guamanian,23,3,10,1
+63163,Colton,Smith,,1987-08-14,72,170,Vanguard,United States,Manassas,Virginia,Comanche,29,1,6,0
+14464,Dan,Miller,,1981-06-30,73,185,Miller Brothers MMA,United States,Sparta,New Jersey,Venezuelan,16,2,7,4
+5269,Brian,Geraghty,,1980-11-04,67,155,Freestyle Academy,United States,Pleasant Prairie,Wisconsin,Samoan,23,18,10,2
+14883,Cung,Le,,1972-05-25,70,185,Cung Les Universal Strength Headquarters,United States,San Jose,California,Chamorro,13,9,8,1
+21912,Tarec,Saffiedine,Sponge,1986-09-06,69,169,Evolve MMA,Belgium,,,Cuban,1,18,7,3
+64989,Michael,Graves,,1991-01-08,70,170,American Top Team,United States,Coconut Creek,Florida,Colville,6,19,2,3
+238,Joe,Slick,,1977-10-17,72,199,,USA,Iowa City,Iowa,Latin American Indian,8,16,10,3
+23,Trent,Jenkins,,1900-01-00,74,185,,United States,Denver,Colorado,Guamanian,31,18,5,1
+34,Scott,Baker,,1900-01-00,72,210,,United States,Utah,,Yuman,16,10,6,2
+502,Jake,Shields,,1979-01-09,72,170,Cesar Gracie Fight Team,United States,San Francisco,California,Tohono O'Odham,18,11,2,0
+56583,Beneil,Dariush,,1989-05-06,70,155,Kings MMA,United States,Yorba Linda,California,Houma,25,4,1,1
+29129,Steve,Lopez,,1984-07-30,71,155,Syndicate MMA,United States,South Bend,Indiana,Uruguayan,1,5,10,4
+4102,Chris,Liguori,The Story,1900-01-00,70,155,Ricardo Almeida Jiu-Jitsu,United States,Toms River,New Jersey,Guatemalan,34,2,3,2
+43107,Vagner,Rocha,Ceara,1982-06-06,71,155,Team VRMA,Brazil,Rio de Janeiro,,Guatemalan,16,19,9,1
+2575,Kuniyoshi,Hironaka,,1976-06-17,70,153,Master Japan,Japan,Yamaguchi,,Sri Lankan,15,5,8,2
+75021,Ashlee,Evans-Smith,,1987-07-09,68,136,Reign MMA,United States,Lake Forest,California,Yaqui,11,14,3,3
+67894,Robert,Drysdale,,1981-01-01,75,205,Drysdale Jiu-Jitsu,United States,Las Vegas,Nevada,Eskimo,19,13,6,1
+61682,Sean,Soriano,,1989-10-06,69,145,Blackzilians,United States,Miami,Florida,Uruguayan,7,18,2,3
+79784,Frankie,Perez,,1989-05-11,71,155,Ricardo Almeida Jiu-Jitsu,United States,Howell,New Jersey,Chinese,11,21,5,4
+20906,Shane,Howell,,1983-11-28,68,125,R-1 MMA,United States,Norman,Oklahoma,Guatemalan,9,22,2,0
+79335,Chris,Wade,,1987-09-30,69,155,East Islip Kickboxing,United States,Long Island,New York,Alaskan Athabascan,16,11,5,4
+84964,Bec,Rawlings,Rowdy,1989-02-11,66,116,Gamebred Combat Club,Australia,Brisbane,Queensland,Lumbee,22,20,6,3
+12852,Mike,Massenzio,,1982-11-01,74,185,Team Bombsquad,United States,Paterson,New Jersey,Ute,34,15,4,4
+76836,Islam,Makhachev,,1991-09-27,70,155,Fightspirit Team,Russia,Makhachkala,Republic of Dagestan,Dominican (Dominican Republic),13,13,1,4
+5118,Spencer,Fisher,The King,1976-05-09,67,155,,United States,Davenport,Iowa,Alaska Native,30,22,9,2
+218,Fabiano,Iha,,1970-07-28,68,155,,United States,Huntington Beach,California,Paraguayan,27,25,4,1
+227,Andre,Pederneiras,Dede,1967-03-22,68,160,Nova Uniao,Brazil,,,Iroquois,26,8,1,1
+9786,Dorian,Price,,1977-08-20,75,155,Team Jorge Gurgel,United States,Columbus,Ohio,Houma,9,20,5,4
+17034,Andre,Winner,,1981-11-09,71,155,Team Rough House,England,Leicester,Leicestershire,Potawatomi,26,6,10,2
+8396,Nate,Mohr,,1983-03-03,69,155,Team Curran,United States,Cedar Falls,Iowa,Apache,4,24,10,4
+3368,Jess,Liaudin,Joker,1900-01-00,69,170,Pancrase London,France,,,Vietnamese,19,21,4,0
+76100,Rob,Font,,1987-06-25,68,135,Team Sityodtong,United States,Boston,Massachusetts,Potawatomi,3,4,9,0
+5466,Hatsu,Hioki,,1983-07-18,71,145,Alive,Japan,Nagoya,Aichi,Dominican (Dominican Republic),23,7,2,2
+4173,Eddie,Wineland,,1984-06-26,67,135,Duneland Vale Tudo,United States,Portage,Indiana,Native Hawaiian and Other Pacific Islander (NHPI),11,20,6,0
+12074,Takeya,Mizugaki,,1983-12-16,67,135,Hakkei Gym,Japan,Miura,Kanagawa,Malaysian,23,7,2,4
+438,Jutaro,Nakao,,1970-11-30,69,170,Jutaro Nakao MMA School,Japan,Osaka,,Ottawa,15,13,5,1
+9265,Eddie,Alvarez,,1984-01-11,70,155,Blackzilians,United States,Philadelphia,Pennsylvania,Taiwanese,4,23,8,4
+2262,Ben,Rothwell,,1981-10-17,76,263,Rothwell MMA,United States,Kenosha,Wisconsin,Filipino,29,23,8,4
+59607,Dhiego,Lima,,1989-01-31,74,170,American Top Team Atlanta,Brazil,Goiania,Goias,Ute,7,18,2,4
+19720,Dave,Herman,,1984-10-03,76,223,Team Quest,United States,Columbia City,Indiana,Dominican (Dominican Republic),19,19,6,0
+23253,James,Head,,1984-02-09,74,170,R-1 MMA,United States,Oklahoma City,Oklahoma,Micronesian,27,4,4,1
+219,Marcelo,Mello,,1900-01-00,,,,,,,Yuman,29,25,3,3
+3265,Eddie,Ruiz,,1900-01-00,67,155,,USA,,,Thai,30,1,8,2
+32431,David,Branch,,1981-09-26,73,185,Renzo Gracie Jiu-Jitsu,United States,Brooklyn,New York,Sri Lankan,23,6,9,2
+3069,Mike,Thomas Brown,,1975-09-08,66,145,American Top Team,United States,Portland,Maine,Filipino,6,22,8,3
+23982,Drew,Dober,,1988-10-19,68,155,MidAmerica Martial Arts,United States,Omaha,Nebraska,Spaniard,25,5,10,0
+37404,Mitch,Gagnon,,1984-10-10,66,135,Troop MMA,Canada,Sudbury,Ontario,Cuban,7,6,8,2
+23401,Wilson,Reis,,1985-01-06,64,125,Brazilian Jiu-Jitsu United,Brazil,Januaria,Minas Gerais,Pakistani,19,14,1,4
+6946,Vaughan,Lee,,1982-10-15,65,135,UTC Birmingham,England,Birmingham,West Midlands,Yakama,13,18,7,1
+22903,Todd,Duffee,,1985-12-06,75,241,American Top Team,United States,Evansville,Indiana,Tlingit-Haida,1,22,3,2
+266,Ben,Earwood,,1900-01-00,,169,Miletich Martial Arts,,,,Tohono O'Odham,28,12,6,2
+32445,Besam,Yousef,,1985-03-25,71,170,Gladius MMA,Sweden,Gothenburg,,Navajo,2,13,2,0
+886,Brian,Gassaway,Mandingo,1972-08-07,72,171,,United States,Chicago,Illinois,Thai,13,15,1,0
+16635,Tom,Speer,The Farm Boy,1984-08-20,71,170,,United States,Elgin,Minnesota,Menominee,32,23,1,2
+549,Jason,Von Flue,Livewire,1900-01-00,72,170,,United States,San Luis Obsipo,California,Korean,12,19,7,2
+4767,Alberto,Crane,,1976-07-14,69,155,Alberto Crane MMA,United States,Santa Fe,New Mexico,Guatemalan,3,22,9,1
+18590,Anthony,Lapsley,The Recipe,1980-02-13,69,170,,United States,Fort Wayne,Indiana,Asian,19,16,3,1
+80436,Tony,Martin,,1989-12-11,72,156,American Top Team,United States,St. Cloud,Minnesota,Melanesian,1,5,5,0
+10425,Rani,Yahya,,1984-12-09,66,135,Constrictor Team,Brazil,Brasilia,Federal District,Colville,4,16,6,4
+18106,Julio,Paulino,Dominican Demon,1900-01-00,72,170,,United States,Anchorage,Alaska,Nicaraguan,23,13,3,0
+2490,Joao,Marcos Pierini,,1971-12-11,73,170,Team JM,Mexico,Playa del Carmen,Quintana Roo,Melanesian,27,17,4,1
+103069,Bethe,Correia,Pitbull,1983-06-22,64,135,,Brazil,Campina Grande,Paraiba,Bangladeshi,18,23,4,2
+14637,Demian,Maia,,1977-11-06,72,170,Demian Maia Jiu-Jitsu,Brazil,Santana de Parnaiba,Sao Paulo,Dominican (Dominican Republic),21,8,4,2
+53205,Sam,Sicilia,,1986-02-01,68,145,Sikjitsu,United States,Spokane,Washington,Cree,25,5,3,3
+51228,Ryan,Couture,,1982-08-27,70,156,Xtreme Couture,United States,Las Vegas,Nevada,Navajo,32,16,5,4
+22641,Akira,Corassani,,1982-08-27,68,145,Renzo Gracie Jiu-Jitsu,Sweden,Gothenburg,,Chinese,16,24,3,2
+21803,Dylan,Andrews,The Villain,1979-11-15,73,185,Heartbreak Conditioning,New Zealand,,,Central American,21,2,2,1
+46307,Joe,Proctor,,1985-08-10,70,155,Team Aggression,United States,Pembroke,Massachusetts,Cherokee,21,12,9,4
+6123,Brodie,Farber,,1900-01-00,73,205,Tiger Muay Thai,United States,Grass Valley,California,White,15,22,10,0
+1332,Paul,Rodriguez,,1975-05-18,68,155,American Top Team Orlando,United States,Orlando,Florida,Central American,5,22,9,2
+34376,Christian,Morecraft,,1986-09-08,78,261,Team Bombsquad,United States,Plymouth,Massachusetts,Taiwanese,3,1,3,4
+30298,Viscardi,Andrade,,1984-03-08,72,170,Gracie Fusion,Brazil,Jales,Sao Paulo,Taiwanese,14,21,3,0
+12196,Takenori,Sato,,1985-06-08,70,170,Tribe Tokyo MMA,Japan,Akita,,Osage,21,22,2,3
+28185,Hernani,Perpetuo,,1985-05-24,72,170,Nova Uniao,Brazil,Rio de Janeiro,Rio de Janeiro,Eskimo,6,11,4,2
+15148,George,Sullivan,,1981-03-13,72,169,Pellegrino MMA,United States,Belmar,New Jersey,Venezuelan,2,11,6,2
+203,Cesar,Marcussi,,1900-01-00,,155,Ryan Gracie Team,Brazil,Cascavel,Parana,Venezuelan,28,20,1,4
+33156,Sean,OConnell,The Real OC,1983-09-02,73,205,,United States,Salt Lake City,Utah,Chilean,21,9,5,2
+26192,Kazuki,Tokudome,,1987-03-04,71,154,Paraestra Hachioji,Japan,Tokyo,,Yuman,34,23,6,4
+1331,Andy,Wang,,1977-05-28,66,155,Grappling Unlimited,United States,Los Angeles,California,Pakistani,31,8,5,3
+121,Scott,Bessac,,1900-01-00,76,259,,United States,Lodi,California,Paraguayan,11,21,2,0
+215,Jason,Godsey,,1964-01-01,74,245,Integrated Fighting Academy,United States,Indianapolis,Indiana,Cuban,6,16,8,4
+49213,Tim,Elliott,,1986-12-24,67,125,Glory MMA and Fitness,United States,Lees Summit,Missouri,Ute,12,2,10,0
+19390,Motonobu,Tezuka,,1987-08-29,67,135,Cobra Kai MMA Dojo,Japan,Nagano,,Pakistani,14,7,3,3
+135,Amaury,Bitetti,,1900-01-00,69,185,,Brazil,Rio De Janeiro,,Malaysian,9,18,7,3
+13336,Paulo,Thiago,,1981-01-25,71,170,X-Gym,Brazil,Brasilia,Federal District,Micronesian,26,14,9,4
+21175,Ronny,Markes,,1988-04-21,73,190,Nova Uniao Kimura,Brazil,Natal,Rio Grande do Norte,Pima,30,3,3,2
+23350,Matt,Veach,,1981-05-31,67,170,Finneys HIT Squad,United States,Granite City,Illinois,Cambodian,8,15,7,1
+68751,Kurt,Holobaugh,,1900-01-00,71,145,Gracie United,United States,Denham Springs,Louisiana,Bangladeshi,33,18,5,3
+32431,David,Branch,,1900-01-00,,154,,United States,,,Creek,6,7,7,0
+7127,Kyle,Watson,,1979-08-09,72,155,HIT Squad,United States,Granite City,Illinois,Native Hawaiian,16,18,5,2
+211,Frank,Caracci,,1970-02-16,67,205,,United States,New Orleans,Louisiana,Choctaw,25,24,6,4
+2682,Josh,Rafferty,,1900-01-00,72,169,Meat Truck Inc.,United States,Cincinnati,Ohio,Houma,31,4,7,2
+30054,Russell,Doane,,1986-08-13,66,135,Hawaii Elite MMA,United States,Waianae,Hawaii,Tlingit-Haida,1,21,3,3
+17723,Brian,Foster,,1984-04-04,70,155,factoryX Muay Thai,United States,Sallisaw,Oklahoma,Tohono O'Odham,31,23,4,2
+40956,Nick,Pace,,1987-04-17,67,135,Team Tiger Schulmann,United States,Staten Island,New York,Menominee,9,1,10,3
+503,Charlie,Valencia,,1974-10-31,63,135,Millennia MMA,United States,Los Angeles,California,Alaska Native,1,18,5,4
+17316,Jonathan,Brookins,,1985-08-13,72,135,Gracie Barra Orlando,United States,Orlando,Florida,Ottawa,32,21,1,3
+10432,Fredson,Paixao,,1979-05-13,70,145,Total Dojo,England,,,Paiute,12,16,1,1
+2193,Cheick,Kongo,,1975-05-17,76,234,Kongo Smashin Club,France,Paris,,Houma,32,8,3,1
+1518,Antoni,Hardonk,,1976-02-05,76,240,Dynamix MMA,Holland,Weesp,,Hmong,17,1,9,0
+18887,Rin,Nakai,,1986-10-22,61,135,Pancrase Venus,Japan,Matsuyama,Ehime,Uruguayan,26,1,9,3
+71120,Justin,Scoggins,Tank,1992-05-02,67,125,,United States,Spartanburg,South Carolina,Tlingit-Haida,18,4,6,4
+34371,Issei,Tamura,,1984-03-12,65,145,Krazy Bee,Japan,Shinagawa,Tokyo,Panamanian,22,17,5,1
+9574,Raphael,Assuncao,,1982-07-19,65,135,Ascension MMA,Brazil,Recife,Pernambuco,Yakama,14,7,6,1
+23841,Amilcar,Alves,,1979-12-13,72,201,Nova Uniao,Brazil,Rio de Janeiro,Rio de Janeiro,Latin American Indian,22,4,6,1
+43621,Brian,Melancon,,1982-05-28,68,170,Paradigm Training Center,United States,Houston,Texas,Houma,30,4,2,1
+83021,Elizabeth,Phillips,,1986-08-20,66,135,SikJitsu,United States,Spokane,Washington,Thai,13,10,2,1
+6373,Brock,Larson,,1977-08-23,71,170,Get Sum Athletic Compound,United States,Brainerd,Minnesota,Native Hawaiian,24,10,1,1
+81136,Rodrigo,Goiana de Lima,Monstro,1991-03-03,69,155,Coalizao Fight Team,Brazil,Macapa,Amapa,Laotian,13,3,3,4
+26632,Jon,Manley,,1986-07-07,72,170,Team Link,United States,Adams,Massachusetts,Guamanian,5,19,6,4
+3328,Christian,Wellisch,,1900-01-00,74,234,American Kickboxing Academy,United States,Los Angeles,California,Chamorro,18,5,10,2
+20121,Neil,Wain,Old Skool,1900-01-00,70,242,,England,Doncaster,,Dominican (Dominican Republic),15,25,1,4
+26261,Nordine,Taleb,,1981-06-10,73,170,Tristar Gym,Canada,Montreal,Quebec,Uruguayan,15,4,7,1
+70750,Warlley,Alves,,1991-01-04,71,170,X-Gym,Brazil,Governador Valadares,Minas Gerais,Laotian,26,7,2,1
+22873,Quinn,Mulhern,,1984-09-20,75,155,Jackson-Wink MMA,United States,Santa Fe,New Mexico,Venezuelan,5,14,2,1
+7407,John,Halverson,,1972-09-08,69,155,,United States,Waukee,Iowa,Yaqui,22,13,3,0
+10581,Hector,Ramirez,Sick Dog,1976-03-28,72,205,,United States,Orange County,California,Asian,22,9,2,3
+935,Denis,Kang,,1977-09-17,71,185,American Top Team,Canada,Vancouver,British Columbia,Argentinian,5,4,3,2
+8198,Keigo,Kunihara,,1900-01-00,72,228,,Japan,,,Pima,6,13,10,3
+21246,Seo,Hee Ham,,1987-03-08,62,115,CMA Korea,South Korea,Busan,,Aleut,14,15,9,1
+68959,Emily,Kagan,,1981-07-14,63,115,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Native Hawaiian and Other Pacific Islander (NHPI),24,18,9,2
+18744,Waylon,Lowe,,1980-10-31,67,160,,United States,Philadelphia,Pennsylvania,Iroquois,25,21,8,4
+187,Eugenio,Tadeu,,1900-01-00,68,160,,Brazil,Rio de Janeiro,,Guamanian,8,5,9,4
+17591,Nissen,Osterneck,,1981-05-01,74,185,Relson Gracie Jiu-Jitsu,United States,Maui,Hawaii,Asian Indian,34,14,4,3
+29744,Tom,DeBlass,,1900-01-00,,,,,,,Thai,15,12,7,2
+31978,Kenny,Robertson,,1984-02-14,70,170,Central Illinois Combat Club,United States,East Peoria,Illinois,Melanesian,1,25,6,4
+101401,Karolina,Kowalkiewicz,,1985-10-15,63,114,Gracie Barra Lodz,Poland,Lodz,,American Indian and Alaska Native (AIAN),12,6,5,1
+662,Ryan,Jensen,,1977-09-20,70,175,Jackson-Wink MMA,United States,Omaha,Nebraska,Malaysian,24,2,3,4
+340,Floyd,Sword,,1900-01-00,71,185,Team Four Corners,United States,Farmington,New Mexico,Mexican,11,2,6,3
+225,Flavio,Luiz Moura,,1976-01-26,71,187,Gracie Fusion,Brazil,Rio de Janiero,,Nicaraguan,35,25,9,2
+55410,Frankie,Saenz,,1980-08-12,66,135,Trident Performance Training,United States,Phoenix,Arizona,Lumbee,9,18,8,4
+17393,Shane,del Rosario,,1983-09-23,75,246,Team Oyama,United States,Irvine,California,Seminole,10,9,4,1
+14892,Jake,OBrien,,1984-09-25,75,205,Integrated Fighting Academy,United States,Indianapolis,Indiana,Aleut,25,2,10,0
+9024,Brad,Morris,,1900-01-00,73,253,Gracie Barra Sydney,Australia,Sydney,New South Wales,Iroquois,3,7,5,2
+66725,Lauren,Murphy,,1983-07-27,68,134,Gracie Barra Katy,United States,Anchorage,Alaska,Thai,33,22,5,3
+1995,Amar,Suloev,,1976-07-01,69,185,Red Devil Sport Club,Armenia,Kalinin City,,Pakistani,17,21,6,0
+3089,Tim,McKenzie,The Wrecking Machine,1900-01-00,71,174,,United States,Stockton,California,Blackfeet,15,11,6,4
+853,Homer,Moore,Rock,1971-11-12,70,205,,United States,Phoenix,Arizona,Korean,10,15,3,4
+88613,Elias,Silverio,Xuxu,1986-09-22,71,155,Elias Silverio Team,Brazil,Pirapora do Bom Jesus,Sao Paulo,Asian,20,8,7,4
+8180,Isaac,Vallie-Flagg,,1978-04-08,68,159,Jackson-Wink MMA,United States,Santa Fe,New Mexico,Sioux,35,19,8,2
+40436,Willie,Gates,,1987-01-21,68,125,Pinnacle MMA,United States,Fontana,California,Malaysian,10,24,5,2
+1349,Yasuhiro,Urushitani,,1976-09-08,65,125,Tribe Tokyo MMA,Japan,Tokyo,,Kiowa,5,7,1,0
+33095,Brad,Tavares,,1987-12-21,71,185,Xtreme Couture,United States,Kailua,Hawaii,Crow,17,25,3,1
+4673,Brandon,Wolff,,1900-01-00,70,168,MMA Development,United States,Kailua,Hawaii,Guatemalan,14,2,3,4
+15720,Luke,Zachrich,,1981-10-01,74,185,Ronin Training Center,United States,Cincinnati,Ohio,Cheyenne,18,1,1,2
+79277,Chris,Dempsey,,1987-09-08,70,205,Cold Steel MMA,United States,Johnstown,Pennsylvania,Asian,22,7,6,3
+14892,Jake,OBrien,,1984-09-25,75,205,Integrated Fighting Academy,United States,Indianapolis,Indiana,Yaqui,9,3,5,4
+36963,Ramsey,Nijem,,1988-04-01,71,155,Skrap Pack,United States,Orem,Utah,Polynesian,9,22,10,1
+23811,Buddy,Roberts,,1982-10-17,74,185,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Korean,33,19,1,1
+70452,C.J.,Keith,,1986-08-09,72,155,Pro Buhawe,United States,Porterville,California,Spaniard,18,13,8,2
+47991,Collin,Hart,,1900-01-00,74,185,Nor-Cal Fighting Alliance,United States,Santa Rosa,California,Houma,2,14,4,2
+205,Tulio,Palhares,,1900-01-00,70,180,,Brazil,Sao Paulo,,Fijian,27,10,2,0
+247,Jermaine,Andre,Bam Bam,1973-07-16,67,185,,United States,Collinville,Illinois,Japanese,24,12,3,1
+115,Geza,Kalman,,1900-01-00,,,,,,,Comanche,25,3,9,2
+254,Adrian,Serrano,,1963-12-23,68,175,Adrian Serrano Combat Sports Gym,United States,Milwaukee,Wisconsin,Melanesian,8,3,8,1
+615,Dave,Strasser,,1969-07-13,70,167,Freestyle Academy,United States,Kenosha,Wisconsin,Potawatomi,11,25,2,2
+14047,Mike,Ciesnolevicz,,1979-10-28,72,204,Miletich Martial Arts,United States,Harrisburg,Pennsylvania,Hmong,19,18,8,4
+212,Evan,Tanner,,1971-02-11,72,185,,United States,Amarillo,Texas,Mexican,27,21,2,0
+198,Mike,Van Arsdale,,1965-06-20,74,205,,United States,San Jose,California,Cuban,13,9,1,4
+180,Carlos,Barreto,Carlao,1968-07-22,76,230,,Brazil,Rio de Janeiro,,Nicaraguan,34,23,10,4
+181,Brad,Kohler,,1964-05-26,69,220,,United States,Bloomington,Minnesota,Alaskan Athabascan,33,25,8,3
+236,Kenichi,Yamamoto,,1976-07-11,71,185,Power of Dream,Japan,,,Paiute,5,22,8,0
+253,Murilo,Bustamante,,1966-07-30,73,185,Brazilian Top Team,Brazil,Arpoador,Rio de Janeiro,Yuman,15,9,8,2
+261,CJ,Fernandes,,1977-11-13,72,170,HIT Squad,USA,Granite City,Illinois,Yuman,22,23,2,4
+1351,Ivan,Salaverry,,1971-01-11,72,185,Ivan Salaverry MMA,United States,Seattle,Washington,Ute,19,15,4,1
+50239,Joby,Sanchez,,1991-06-24,66,125,Jackson-Wink MMA,United States,Albuquerque,New Mexico,Bangladeshi,32,11,4,0
+14865,Anton,Kuivanen,,1984-05-01,69,155,Primus Fight Team,Finland,Helsinki,,Paraguayan,32,25,4,3
+172,Kevin,Jackson,,1900-01-00,70,199,,United States,Phoenix,Arizona,Ute,13,13,5,4
+191,Igor,Zinoviev,Houdini,1900-01-00,73,195,,Russia,St. Petersburg,,Dominican (Dominican Republic),33,22,3,1
+147,Steve,Nelmark,The Sandman,1900-01-00,72,250,,USA,Livonia,Michigan,Tohono O'Odham,25,4,4,1
+196,Allan,Goes,,1971-04-20,72,205,Goes Martial Arts,United States,Mission Viejo,California,Indonesian,29,23,5,0
+200,Hugo,Duarte,,1968-08-09,72,240,Hugo Duarte Luta Livre,Brazil,Rio De Janeiro,,Pueblo,10,13,10,4
+128,Scott,Ferrozzo,The Pit Bull,1965-04-26,71,323,,United States,Shakopee,Minnesota,Cambodian,17,13,10,3
+113,Cal,Worsham,,1900-01-00,70,230,Worsham Team X,United States,Folsom,California,Crow,18,12,8,0
+111,John,Matua,,1900-01-00,74,400,,United States,Garden Grove,California,Polynesian,27,3,2,3
+44,Steve,Jennum,,1900-01-00,70,215,,United States,Omaha,Nebraska,South American,29,24,3,2
+122,Sam,Adkins,The Experience,1965-04-26,75,225,,United States,Houston,Texas,Argentinian,10,8,3,3
+4208,Lodune,Sincaid,The Vanilla Gorilla,1973-05-07,69,185,,United States,North Hollywood,California,Venezuelan,10,20,5,4
+1870,Andrei,Semenov,White Shark,1977-06-17,72,185,,Russia,St. Petersburg,,Ute,23,5,8,1
+279,Curtis,Stout,,1973-11-07,73,185,,USA,Kansas City,Kansas,South American,16,11,4,4
+14515,Sean,Salmon,,1977-11-09,70,205,,United States,Columbus,Ohio,Apache,10,6,7,2
+2093,Keith,Rockel,,1965-08-28,72,185,Team Elite,United States,Amherst,Massachusettes,Chickasaw,35,14,4,1
+224,Paul,Jones,,1900-01-00,69,198,,United States,Boys Ranch,Texas,Cheyenne,15,1,10,2
+118,Mark,Hall,The Cobra,1900-01-00,72,190,,United States,Murrieta,California,Cuban,13,22,8,1
+126,Joe,Moreira,,1900-01-00,,,,,,,Cuban,35,11,3,2
+33156,Sean,OConnell,The Real OC,1983-09-02,73,205,,United States,Salt Lake City,Utah,Asian Indian,8,18,9,2
+83,Gerry,Harris,,1900-01-00,80,313,,United States,,,American Indian and Alaska Native (AIAN),33,14,7,2
+21175,Ronny,Markes,,1988-04-21,73,190,Nova Uniao Kimura,Brazil,Natal,Rio Grande do Norte,Cuban,9,7,10,0
+23648,Sheldon,Westcott,,1984-08-20,73,170,Complete Fitness and Martial Arts,Canada,St. Albert,Alberta,Costa Rican,28,3,3,1
+35142,Carlos,Eduardo Rocha,Ta Danado,1981-07-12,70,170,American Kickboxing Academy,Brazil,Fortaleza,Ceara,Potawatomi,11,12,5,1
+98151,Konstantin,Erokhin,,1982-01-02,71,233,,Russia,Moscow,,Cree,9,21,4,4
+28,David,Levicki,,1900-01-00,77,290,,United States,Orem,Utah,Colombian,14,24,10,0
+3070,Wilson,Gouveia,,1978-10-03,74,219,American Top Team,United States,Coral Pass,Florida,Tlingit-Haida,21,2,8,1
+5342,Solomon,Hutcherson,King,1972-08-13,71,185,,United States,Racine,Wisconsin,American Indian and Alaska Native (AIAN),14,8,10,2
+127,Jerry,Bohlander,,1974-11-02,71,199,Lions Den,United States,Napa,California,Taiwanese,26,3,7,4
+260,Tyrone,Roberts,Native Warrior,1972-07-14,69,213,,United States,Tama,Iowa,Native Hawaiian,29,23,10,3
+57,Mike,McClain,,1900-01-00,,,,,,,Osage,3,9,8,4
+25,Sean,Daugherty,,1975-12-04,70,190,,United States,Akron,Ohio,White,34,7,1,3
+178,Houston,Dorr,,1900-01-00,72,205,,USA,Diamond Head,Mississippi,Central American,18,5,3,4
+54,Marcus,Bossett,The Grasshopper,1900-01-00,73,220,,United States,Los Angeles,California,Polynesian,28,13,10,4
+46,Joe,Charles,The Ghetto Man,1958-07-16,73,260,,United States,Culver City,California,Tlingit-Haida,32,22,3,0
+18,Zane,Frazier,Nasty,1966-07-16,78,230,,United States,North Hollywood,California,Nicaraguan,13,3,9,2
+15129,Aaron,Rosa,,1983-05-28,75,205,Rodrigo Pinheiro Brazilian Jiu-Jitsu,United States,San Antonio,Texas,Colombian,25,10,4,4
+16695,Matt,Hamill,The Hammer,1976-10-05,74,205,,United States,Loveland,Ohio,Navajo,21,22,2,1
+27115,Stanislav,Nedkov,,1981-09-12,71,203,Bushido Bulgaria,Bulgaria,Veliko Tarnovo,,Alaska Native,7,15,5,3
+73825,Dustin,Jacoby,,1988-04-04,76,185,Finneys HIT Squad,United States,Arenzville,Illinois,Paraguayan,19,3,1,4
+26358,Carlos,Diego Ferreira,,1985-01-18,68,156,James Cooper MMA,Brazil,Careiro da Varzea,Amazonas,Indonesian,23,14,8,4
+23322,Jake,Rosholt,,1982-02-09,73,205,Team Takedown,United States,Dallas,Texas,Alaska Native,4,12,1,1
+44683,John,Salter,,1985-03-21,73,185,Dethrone Base Camp,United States,Nashville,Tennessee,American Indian and Alaska Native (AIAN),10,23,1,3
+72084,Nolan,Ticman,,1988-05-17,66,125,Kings MMA,United States,Palm Springs,California,Chickasaw,15,9,9,0
+14883,,,,1900-01-00,,183,,,,,Cherokee,7,9,5,3
+14600,Bubba,McDaniel,The Menace,1983-05-03,75,190,,United States,Wichita Falls,Texas,Pueblo,20,18,10,1
+22247,Chase,Gormley,,1900-01-00,75,264,Reign MMA,United States,Los Angeles,California,Paraguayan,12,20,8,0
+23108,Edgar,Garcia,,1984-02-22,70,170,Arizona Athletic Club,United States,Yuma,Arizona,Colville,6,17,4,4
+10071,Lisa,Ellis,,1982-11-15,64,110,United Training Center,United States,Olympia,Washington,Pueblo,1,20,6,4
+12961,Bristol,Marunde,,1982-04-20,73,171,Syndicate MMA,United States,Las Vegas,Nevada,Colombian,20,9,7,3
+4638,Rob,MacDonald,,1900-01-00,75,230,Franco Behring,Canada,Ontario,,Creek,3,3,4,3
+226,Daiju,Takase,,1978-04-20,72,183,IamI,Japan,Tokyo,,Filipino,26,21,10,0
+949,Kris,Rotharmel,,1900-01-00,72,205,,USA,Metairie,Louisiana,Delaware,13,17,6,0
+251,Satoshi,Honma,,1968-05-19,72,204,,Japan,Niigata,,Samoan,1,19,10,1
+885,Jack,McLaughlin,,1961-10-01,70,218,,United States,Piqua,Ohio,Cree,28,12,3,3
+221,Tony,Petarra,,1966-11-08,71,196,Shark Tank,United States,Santa Maria,California,Bolivian,10,17,3,4
+230,John,Lewis,,1969-07-16,72,160,Lewis,United States,Las Vegas,Nevada,Lumbee,8,1,3,4
+107,Joel,Sutton,,1900-01-00,70,202,,United States,Buffalo,New York,Colombian,19,20,10,3
+185,Josh,Stuart,,1900-01-00,69,159,,United States,Harvey,Louisiana,Pueblo,33,9,2,1
+20552,Mike,Russow,,1976-11-09,73,256,,United States,Chicago,Illinois,Melanesian,29,1,2,0
+163,Royce,Alger,,1900-01-00,,,,,,,Cuban,35,22,10,2
+154,Wallid,Ismail,,1968-02-22,67,182,Brazil Dojo,Brazil,Rio De Janeiro,,Guamanian,13,19,4,3
+57848,Vinc,Pichel,From Hell,1982-11-23,70,155,,United States,Simi Valley,California,Sioux,17,11,7,1
+15962,Ryan,Hall,,1985-02-22,70,145,50,United States,Arlington,Virginia,Seminole,24,5,4,2
+75021,Ashlee,Evans-Smith,,1987-07-09,68,136,Reign MMA,United States,Lake Forest,California,Latin American Indian,29,16,2,3
+14891,Johnny,Rees,The Hater Hurter,1900-01-00,72,178,,United States,Greenwood,Indiana,Malaysian,26,2,9,0
+20967,Mike,Stumpf,,1986-08-01,70,170,Team Curran,United States,Crystal Lake,Illinois,Cheyenne,30,19,8,0
+46314,Keith,Berish,Sha Bang Bang,1985-11-14,72,203,Black & Blue MMA,United States,Poughkeepsie,New York,Paraguayan,4,18,4,1
+83599,Jake,Collier,,1988-10-23,75,185,Pit MMA,United States,Cuba,Missouri,Pakistani,23,12,2,4
+7329,Joe,Veres,,1977-11-09,66,155,MMA Lab,United States,Glendale,California,Black or African American,30,20,2,2
+12803,Igor,Araujo,,1980-12-06,73,170,Jackson-Wink MMA,,Brasilia,Federal District,Chilean,4,1,7,1
+71942,Michinori,Tanaka,,1990-10-04,65,135,Reversal Gym Yokohama Ground Slam,Japan,Yokohama,Kanagawa,Argentinian,16,18,9,2
+1567,Aaron,Riley,,1980-12-09,69,155,Jackson-Wink MMA,United States,Tell City,Indiana,Black or African American,26,25,4,0
+256,Joao,Roque,,1971-07-22,66,145,Nova Uniao,Angola,Luanda,Luanda,Cherokee,34,3,7,0
+1306,Joey,Gilbert,,1970-04-14,65,154,Gilbert Grappling,United States,Chicago,Illinois,Colville,22,2,8,2
+18304,Shane,Primm,,1984-07-30,76,185,Gracie Tampa,United States,Tampa,Florida,Asian Indian,11,5,4,0
+85,Romie,Aram,,1900-01-00,70,170,Millennia MMA,United States,Ontario,California,South American,19,18,5,2
+63897,Joseph,Sandoval,,1986-05-11,66,135,Bighead MMA,United States,Lubbock,Texas,Comanche,3,1,9,4
+64975,Joey,Gomez,The KO King,1986-07-21,68,135,Team Triumph,United States,Hollis,New Hampshire,Micronesian,5,4,10,2
+15937,Yaotzin,Meza,,1981-02-04,69,145,MMA Lab,United States,Glendale,Arizona,Korean,26,1,8,3
+5925,Jordan,Radev,,1900-01-00,67,170,Sportcentrum KOPS,Bulgaria,,,Seminole,15,13,5,2
+92415,Teemu,Packalen,,1987-05-22,73,155,Finnfighters Gym,Finland,Turku,,Argentinian,8,13,1,4
+2290,Ron,Faircloth,,1900-01-00,69,205,Dungeon MMA,United States,Stoughton,Wisconsin,Black or African American,31,17,2,1
+44417,Brendan,Loughnane,,1900-01-00,70,145,All Powers Gym,England,Manchester,Greater Manchester,Ottawa,7,14,9,1
+53506,Jessica,Rakoczy,Ragin,1977-04-14,67,115,,Canada,Hamilton,Ontario,Dominican (Dominican Republic),14,4,6,3
+8095,Kalib,Starnes,,1975-01-06,75,205,Aegis Athletics,Canada,Surrey,British Columbia,Aleut,1,22,10,0
+39261,Garett,Whiteley,,1980-12-13,72,155,IndyBoxing and Grappling,United States,Indianapolis,Indiana,Chamorro,9,12,6,4
+15125,T.J.,Waldburger,,1988-04-25,71,170,Grapplers Lair Fight Team,United States,Belton,Texas,Yuman,23,19,7,2
+24948,Josh,Shockley,,1989-11-15,73,155,Duneland Vale Tudo,United States,Lake Station,Indiana,Filipino,21,25,7,3
+13237,Henry,Martinez,,1983-08-07,67,155,Team Irish,United States,Albuquerque,New Mexico,Guamanian,14,18,4,4
+271,Aaron,Brink,,1974-11-12,75,203,,United States,San Diego,California,Comanche,28,14,1,3
+54620,Niklas,Backstrom,,1989-08-22,72,145,Allstars Training Center,Sweden,Stockholm,,Mexican,5,17,4,3
+3707,Per,Eklund,,1980-11-12,70,145,Hilti NHB,Sweden,Stockholm,,Bangladeshi,30,24,2,3
+34073,Cale,Yarbrough,,1986-12-27,74,203,Hardcore Gym,United States,Atlanta,Georgia,Tohono O'Odham,31,25,2,0
+3506,Michael,Patt,,1900-01-00,72,205,Meat Truck Inc.,United States,Dayton,Ohio,American Indian,12,24,6,3
+1964,Sean,Alvarez,,1971-07-14,72,235,Renzo Gracie Jiu-Jitsu,USA,New York,,Alaska Native,28,8,1,0
+1587,Assuerio,Silva,,1974-06-18,73,235,,Brazil,Curitiba,Parana,Vietnamese,29,8,4,3
+268,Mark,Hughes,,1973-10-13,68,185,Miletich Martial Arts,USA,Hillsborough,Illinois,Malaysian,18,7,6,4
+4555,Gideon,Ray,,1973-05-27,70,170,MMA Masters Chicago,United States,Roselle,Illinois,Yaqui,19,1,2,1
+25821,Jan,Blachowicz,,1983-02-24,74,205,PJ Promotion,Poland,Cieszyn,,Panamanian,5,25,8,2
+32446,Mats,Nilsson,,1983-12-05,73,185,Rumble Sports,Sweden,Helsingborg,,Pakistani,20,12,4,1
+4832,Rick,Davis,,1900-01-00,,155,Las Vegas Combat Club,USA,Las Vegas,Nevada,Bangladeshi,4,1,5,3
+6428,Luke,Cummo,,1980-04-27,72,170,Serra-Longo Fight Team,United States,New Hyde Park,New York,Vietnamese,25,2,8,3
+1926,Justin,James,Pretty Boy,1900-01-00,70,155,,USA,Nebraska,,Eskimo,26,8,3,1
+2295,Nick,Agallar,,1979-01-13,,155,Agallar Combative Systems,United States,Racine,Wisconsin,South American,35,11,8,3
+19863,Jeremy,Larsen,,1986-03-11,70,145,Arizona Combat Sports,United States,Phoenix,Arizona,Kiowa,32,21,1,3
+10999,War,Machine,,1981-11-30,71,170,Und1sputed,United States,Las Vegas,Nevada,Alaskan Athabascan,18,10,1,1
+14266,James,Giboo,,1978-06-01,71,170,,USA,Yale,Iowa,Cree,21,7,8,4
+354,Kelly,Dullanty,Psycho,1977-07-04,68,155,,USA,San Jose,California,Bangladeshi,26,6,8,1
+16858,Rob,Yundt,,1980-05-05,,185,,USA,Wasilla,Alaska,Chinese,29,22,3,0
+3530,Cristiano,Marcello,,1977-12-03,70,155,CM System,Brazil,Curitiba,Parana,Chinese,9,18,10,3
+80231,Magomed,Mustafaev,,1988-08-02,69,155,Fight Club Berkut,Russia,Sochi,Krasnodar Krai,Creek,10,3,2,4
+10754,Jason,Gilliam,,1972-10-31,72,169,Team Wolfpack,United States,Muncie,Indiana,Latin American Indian,22,3,1,0
+11408,Paul,Georgieff,,1982-09-22,,155,,United States,St. Paul,Minnesota,Colville,16,21,5,4
+15833,Joe,Vedepo,The Doctor,1982-01-01,72,185,,United States,Cedar Rapids,Iowa,Yaqui,31,21,2,1
+8269,Crafton,Wallace,,1972-04-15,72,184,Inferno MMA,United States,Naples,Florida,White,27,17,8,1
+12284,Tom,Murphy,,1974-11-19,74,205,Tristar Gym,United States,St. Albans,Vermont,Asian Indian,25,18,2,0
+63414,Yusuke,Kasuya,,1989-11-16,67,154,Akimoto Dojo Jungle Junction,Japan,Sagamihara,Kanagawa,Paraguayan,2,14,7,4
+88,Tiki,Ghosn,,1977-02-09,70,169,,United States,Huntington Beach,California,Comanche,17,19,2,4
+240,Brad,Gumm,,1900-01-00,71,170,Gumm Mixed Martial Arts,United States,Littleton,Colorado,Sri Lankan,7,24,3,3
+194,Andre,Roberts,The Chief,1965-02-24,74,345,,United States,Tama,Iowa,Ecuadorian,13,18,5,0
+10584,Dan,Evensen,,1900-01-00,,,,Norway,,,Guamanian,5,2,1,0
+19080,Greg,Soto,,1986-06-03,71,170,Pellegrino MMA,United States,Oakhurst,New Jersey,Mexican,3,10,10,2
+6541,Ross,Pointon,The Gladiator,1900-01-00,68,205,,England,,,Cree,23,3,10,2
+204,Paulo,Santos,,1900-01-00,,,,,,,Bolivian,34,3,5,2
+1562,Rodrigo,Ruas,,1900-01-00,,185,Ruas Vale Tudo,Brazil,,,Alaskan Athabascan,10,9,10,1
+12369,Jason,Tan,,1900-01-00,70,170,,England,Liverpool,,Cuban,23,5,1,2
+45986,Tom,Breese,,1991-09-26,75,170,Tristar Gym,England,Birmingham,West Midlands,Costa Rican,10,13,4,2
+1720,David,Hood,,1900-01-00,72,189,,United States,Lowell,Massachusetts,Indonesian,31,15,7,0
+551,Bobby,Southworth,,1969-12-16,73,228,American Kickboxing Academy,United States,Santa Cruz,California,Crow,34,21,3,2
+19,Royce,Gracie,,1966-12-12,72,176,Gracie Humaita,Brazil,Rio de Janeiro,,Native Hawaiian,5,18,1,2
+8121,Luiz,Jorge Dutra Jr.,Besouro,1982-05-06,71,170,Renovacao Fight Team,Brazil,Rio de Janeiro,Rio de Janeiro,Samoan,17,13,6,3
+160145,Mickey,Gall,,1992-01-22,,170,Miller Brothers MMA,United States,New Brunswick,New Jersey,American Indian,18,1,4,2
+41539,Jules,Bruchez,Cotton Mouth from the South,1977-08-16,72,184,Gladiator LA,United States,Lafayette,Louisiana,Asian,33,15,7,2
+2347,Jason,Reinhardt,,1969-10-31,66,135,Wand Fight Team,United States,Decatur,Illinois,Cambodian,6,20,4,1
+16098,Jesse,Sanders,,1900-01-00,73,170,,United States,Oskaloosa,Iowa,Hmong,18,21,9,3
+150,Justin,Martin,The Reaper,1900-01-00,72,205,,United States,Dallas,Texas,Blackfeet,16,7,10,3
+67,Kit,Cope,,1977-03-17,72,167,Twisted Genetiks,United States,Las Vegas,Nevada,Asian,22,1,1,0
+17355,Byron,Bloodworth,,1983-08-16,69,135,Iron Clutch Fitness,United States,Atlanta,Georgia,Alaskan Athabascan,4,21,10,3
+63422,Albert,Cheng,,1985-02-07,71,156,Xtreme Couture Toronto,Canada,Mississauga,Ontario,Thai,35,25,3,2
+3006,Miguel,Torres,,1981-01-18,69,145,Tristar Gym,United States,East Chicago,Indiana,Alaskan Athabascan,4,2,1,4
+26365,Jianping,Yang,,1986-01-07,68,140,Fight Emperor,China,,,Tongan,23,7,9,2
+8224,Mostapha,Al-Turk,,1973-07-14,74,235,London Shootfighters,England,London,,Potawatomi,17,25,6,2
+255,Nate,Schroeder,,1900-01-00,73,230,,United States,Rock Island,Illinois,South American,5,16,9,2
+53933,Matt,Dwyer,,1989-12-17,76,168,Toshido Mixed Martial Arts,Canada,Kelowna,British Columbia,Latin American Indian,17,21,2,4
+13660,Colin,Robinson,Big C,1968-11-27,76,243,,Northern Ireland,Ballymena,,Chilean,4,12,2,3
+14825,Hans,Stringer,,1987-07-06,74,205,Blackzilians,Netherlands,Zevenbergen,,Colville,23,10,1,3
+68957,Jocelyn,Jones-Lybarger,,1985-10-04,67,115,MMA Lab,United States,Phoenix,Arizona,Chinese,25,13,5,1
+72706,Timothy,Johnson,,1900-01-00,75,264,,United States,Fargo,North Dakota,Latin American Indian,21,14,10,3
+47069,Yuri,Villefort,,1991-03-23,71,156,Blackzilians,United States,Boca Raton,Florida,Polynesian,20,13,9,1
+12690,Jason,Thacker,Strange Brew,1975-08-18,72,185,,Canada,Whonnock,British Columbia,Argentinian,8,11,7,1
+3953,Tom,Blackledge,,1900-01-00,72,205,Wolfslair Academy,England,Wigan,Greater Manchester,Samoan,9,17,6,2
+24217,Rolles,Gracie,,1978-07-14,76,249,Renzo Gracie Jiu-Jitsu,Brazil,Rio de Janeiro,,Chilean,1,10,3,4
+62703,Kailin,Curran,,1991-04-11,63,113,Reign MMA,United States,Ewa Beach,Hawaii,Chamorro,24,3,4,2
+89761,Sultan,Aliev,,1984-09-17,72,185,Champion,Russia,Derbent,,Puget Sound Salish,5,8,2,1
+9062,John,Kolosci,,1974-11-26,71,155,Gilbert Grappling,United States,Portage,Indiana,Cheyenne,19,2,4,1
+53207,Thiago,de Oliveira Perpetuo,Bodao,1986-12-14,70,170,Furacao Fight Team,Brazil,Santo Andre,Sao Paulo,Latin American Indian,9,4,7,3
+122349,Izabela,Badurek,,1991-07-11,64,115,WCA Fight Team,Poland,Lublin,,Nicaraguan,5,19,7,1
+66725,Lauren,Murphy,,1983-07-27,68,134,Gracie Barra Katy,United States,Anchorage,Alaska,Cambodian,13,7,1,2
+87101,Bartosz,Fabinski,,1986-04-26,72,184,WCA Fight Team,Poland,Warsaw,,Uruguayan,20,4,9,1
+117453,Kelly,Faszholz,,1900-01-00,68,145,Nor-Cal Fighting Alliance,United States,Santa Rosa,California,Thai,26,22,9,2
+74176,Viktor,Pesta,,1990-07-15,75,240,Penta Gym Prague,Czech Republic,Prague,,Indonesian,35,22,6,2
+53712,Anthony,Christodoulou,,1987-07-30,69,155,Renzo Gracie Fight Academy,Greece,Glyfada,Attica,Tlingit-Haida,14,25,5,4
+110937,Nikita,Krylov,,1992-03-07,75,205,Vale Tudo MMA Academy,Ukraine,Kiev,,Pueblo,32,16,6,0
+213,Darrell,Gholar,,1962-11-07,68,198,,United States,North Hollywood,California,Uruguayan,31,11,1,0
+248,Tedd,Williams,,1969-12-19,72,250,Williams Combat Grappling,United States,Hesperia,California,American Indian,20,14,3,1
+144115,Larissa,Pacheco,,1994-09-07,68,135,JB Jiu-Jitsu Team,Brazil,Belem,Para,Cheyenne,13,25,1,4
+144115,Larissa,Pacheco,,1994-09-07,68,135,JB Jiu-Jitsu Team,Brazil,Belem,Para,Fijian,30,5,1,0
+49516,Daniel,Kelly,,1977-10-31,72,185,Resilience Training Centre,Australia,Melbourne,Victoria,Filipino,4,5,10,0
+40518,Scott,Askham,,1988-05-25,75,185,Atherton Submission Wrestling,England,Doncaster,South Yorkshire,Peruvian,6,7,6,1
+13745,Rex,Holman,,1900-01-00,75,205,,USA,Columbus,Ohio,Crow,16,23,2,4
+78384,Andrew,Holbrook,,1900-01-00,71,155,Indy Boxing & Grappling,United States,Indianapolis,Indiana,Fijian,8,8,1,1
+138127,Joe,Merritt,Joey Slash,1984-03-07,72,169,Millennia MMA,United States,Rancho Cucamonga,California,Pakistani,30,15,9,3
+53134,Wagner,Prado,Caldeirao,1987-12-30,73,205,Retz Muay Thai,Brazil,Campinas,Sao Paulo,Seminole,9,7,7,0
+15626,Nate,Loughran,,1900-01-00,74,170,Nor-Cal Fighting Alliance,United States,Santa Rosa,California,Sioux,32,5,6,2
+206,Adriano,Santos,,1900-01-00,,,,,,,Pima,21,19,3,0
+1629,Joey,Roberts,,1977-11-11,74,200,Memphis Bad Boyz,,,,Bolivian,35,25,5,3
+193,Noe,Hernandez,,1900-01-00,,,,,,,Lumbee,35,16,10,0
+132,Matt,Andersen,,1900-01-00,74,245,,USA,Omaha,Nebraska,Native Hawaiian,25,1,6,4
+2007,Dieuseul,Berto,Tiger,1960-07-16,69,200,Tigers World of Martial Arts,United States,Winter Haven,Florida,Costa Rican,9,13,3,3
+7148,Ansar,Chalangov,,1900-01-00,69,185,Legion Fight Team,Russia,Rostov-on-don,,Taiwanese,7,4,7,0
+16300,Ivan,Serati,,1900-01-00,73,225,Sure Grip Vale Tudo,Italy,Monza,,Chickasaw,28,7,2,4
+5170,Cory,Walmsley,,1900-01-00,72,205,Team Bison,United States,St. Paul,Minnesota,Alaska Native,25,7,4,1
+15806,Andre,Gusmao,,1977-05-19,74,185,,Brazil,Goiania,Goias,Latin American Indian,16,20,10,3
+10502,Icho,Larenas,El Dogo,1982-12-03,73,235,,Canada,,,Micronesian,34,11,6,3
+199,Joe,Pardo,,1900-01-00,73,210,Gracie Jiu-Jitsu Academy,USA,Torrance,California,South American,22,2,9,2
+45,Felix,Mitchell,,1900-01-00,71,220,,United States,Antioch,Tennessee,White,28,8,8,2
+167,Tony,Halme,The Viking,1900-01-00,76,300,,Finnland,Helsinki,,Chickasaw,28,10,1,4
+233,Steve,Judson,,1900-01-00,73,220,,United States,Phoenix,Arizona,Navajo,1,18,1,4
+58,John,Dowdy,,1900-01-00,,,,United States,Morganton,North Carolina,Eskimo,6,5,1,0
+40205,Chris,Spang,The Kiss,1987-11-26,74,171,J-Sect MMA,United States,Las Vegas,Nevada,Vietnamese,2,9,8,0
+50928,Mike,King,,1983-08-04,75,184,Buckeye MMA,United States,Perrysburg,Ohio,Polynesian,5,13,2,1
+173,Todd,Butler,,1900-01-00,73,198,,USA,Curwensville,Phildelphia,Bolivian,1,14,5,3
+6950,Tai,Bowden,,1900-01-00,,,,,,,Cherokee,4,21,6,3
+176,Harry,Moskowitz,Dirty,1968-07-16,77,275,,United States,Ocean Springs,Mississippi,Central American,26,1,8,2
+41,Harold,Howard,,1900-01-00,74,240,,Canada,Niagara Falls,Ontario,Yakama,10,12,8,2
+155,Jim,Mullen,,1900-01-00,73,215,,United States,Simi Valley,California,Bolivian,16,21,7,2
+141,Sam,Fulton,,1900-01-00,74,250,,United States,Athens,Alabama,Asian,32,12,9,4
+51,Melton,Bowen,The Punisher,1969-03-10,72,225,,United States,Irmo,South Carolina,Cheyenne,35,12,1,1
+197,Bob,Gilstrap,,1974-07-16,75,210,,United States,Seattle,Washington,Pima,10,11,3,2
+123,Keith,Mielke,,1900-01-00,69,187,,United States,San Diego,California,Cherokee,19,9,1,0
+5936,Justin,Eilers,,1978-06-28,73,235,Miletich Martial Arts,United States,Nampa,Idaho,Crow,1,15,1,4
+3263,Jeff,Newton,,1900-01-00,74,204,Todd Medina Freestyle Team,United States,Costa Mesa,California,Aleut,3,13,10,4
+134,Koji,Kitao,Mitsuharu,1963-08-12,79,390,New Japan Pro Wrestling,Japan,Tsu,Mie,Cheyenne,23,8,9,4
+171,Yuri,Vaulin,,1963-09-13,76,207,,Latvia,Riga,,Polynesian,23,7,5,1
+130,Paul,Herrera,,1900-01-00,,,Empire Training Center,USA,,,Apache,11,13,5,3
+59197,Misha,Cirkunov,,1987-02-27,75,205,Xtreme Couture,Latvia,Riga,,Iroquois,34,10,4,0
+148,Nick,Sanzo,,1900-01-00,69,190,,United States,Niskayuna,New York,South American,33,25,1,1
+152,Rainy,Martinez,,1900-01-00,72,195,,United States,Tucson,Arizona,Vietnamese,13,3,6,2
+177,Dwayne,Cason,,1900-01-00,70,212,,USA,Fayettville,North Carolina,Samoan,35,15,1,2
+53380,Krzysztof,Jotko,,1989-08-19,73,185,Planet Eater,Poland,Orneta,,Spaniard,10,18,6,0
+122383,Zhikui,Yao,The Conqueror,1991-02-07,67,125,,China,,,Fijian,27,10,7,4
+15104,Eliot,Marshall,The Fire,1980-07-07,75,205,Grudge Training Center,United States,Boulder,Colorado,Pima,18,25,7,2
+48820,Jon,Madsen,,1980-02-12,72,222,HIT Squad,United States,Granite City,Illinois,Shoshone,11,6,7,3
+231,Lowell,Anderson,,1900-01-00,66,158,Gracie Jiu-Jitsu,United States,Fairfield,Idaho,Panamanian,29,22,6,3
+52454,Reginaldo,Vieira,,1900-01-00,66,125,Peso Pesado Gold Team,Brazil,Sao Paulo,Sao Paulo,Sri Lankan,1,23,2,0
+58213,Jason,Saggo,,1985-11-23,71,155,Wulfrun MMA,Canada,Bolton,Ontario,American Indian,7,22,9,4
+114125,Marco,Polo Reyes,El Toro,1900-01-00,,155,,Mexico,,,Native Hawaiian,12,7,9,3
+46259,Edson,Barboza,,1986-01-21,71,155,Ricardo Almeida Jiu-Jitsu,Brazil,Nova Friburgo,Rio de Janeiro,Alaskan Athabascan,28,8,6,1
+12079,Steve,Byrnes,,1900-01-00,,185,MMA Development,United States,Hawaii,,Yakama,31,4,7,0
+84964,Bec,Rawlings,Rowdy,1989-02-11,66,116,Gamebred Combat Club,Australia,Brisbane,Queensland,Indonesian,31,19,3,0
+146291,Joaquim,Silva,Netto BJJ,1989-02-05,68,155,Evolucao Thai,Brazil,Anapolis,Goias,Guamanian,5,3,8,0
+73436,Darren,Till,,1992-12-24,72,170,Astra Fight Team,England,Liverpool,Merseyside,American Indian and Alaska Native (AIAN),35,19,3,4
+15882,Steven,Lynch,,1900-01-00,70,170,,Northern Ireland,Antrim,,Samoan,2,7,5,2
+233,Ren&#233;,van de Zande,,1900-01-00,,,,Holland,,,Kiowa,19,15,4,3
+233,Lars,Nor&#233;n,,1900-01-00,,,,,,,Guamanian,23,3,10,1
+97499,Arnold,Allen,Almighty,1994-01-17,69,145,BKK Fighters,England,Felixstowe,Suffolk,Comanche,29,1,6,0
+86920,Damian,Stasiak,Webster,1990-02-20,68,145,United Gym,Poland,Lodz,,Venezuelan,16,2,7,4
+16696,Danny,Abbadi,,1900-01-00,71,185,,United States,Orlando,Florida,Samoan,23,18,10,2
+23437,Alan,Omer,,1988-09-14,69,145,Stallion Cage,Iraq,Erbil,Kurdistan Region,Chamorro,13,9,8,1
+68957,Jocelyn,Jones-Lybarger,,1985-10-04,67,115,MMA Lab,United States,Phoenix,Arizona,Cuban,1,18,7,3
+37404,Mitch,Gagnon,,1984-10-10,66,135,Troop MMA,Canada,Sudbury,Ontario,Colville,6,19,2,3
+23762,Daniel,Barrera,,1980-12-23,,170,,United States,Radcliff,Kentucky,Latin American Indian,8,16,10,3
+161,Jack,Nilson,The Ripper,1900-01-00,,,,,,,Guamanian,31,18,5,1
+15906,T.J.,Grant,,1984-02-26,70,155,Fit Plus,Canada,Cole Harbour,Nova Scotia,Yuman,16,10,6,2
+40308,Erick,Montano,Perry,1900-01-00,,170,Bonebreakers Team,Mexico,,,Tohono O'Odham,18,11,2,0
+11451,Nate,Diaz,,1900-01-00,70,155,,,,,Houma,25,4,1,1
+144949,Aleksandra,Albu,Stitch,1990-07-14,62,115,Red Fury Fight Team,Russia,Moscow,,Uruguayan,1,5,10,4
+11962,Sean,Gannon,The Cannon,1900-01-00,75,265,,United States,Boston,Massachusetts,Guatemalan,34,2,3,2
+112413,Freddy,Serrano,Bam Bam,1979-09-22,62,125,Octagon MMA Colombia,Colombia,Bogota,,Guatemalan,16,19,9,1
+12096,Troy,Mandaloniz,Rude Boy,1980-01-02,69,170,,United States,Hilo,Hawaii,Sri Lankan,15,5,8,2
+238,Ironman,238,,1900-01-00,,145,T-Pleasure,Japan,,,Yaqui,11,14,3,3
+93863,Dave,Galera,Scarecrow,1900-01-00,71,135,Lakay MMA,Philippines,Baguio,Cordillera Administrative Region,Eskimo,19,13,6,1
+63272,Mike,Jackson,The Truth,1985-03-22,74,170,4oz. Fight Club,United States,Houston,Texas,Uruguayan,7,18,2,3
+69341,Matheus,Nicolau Pereira,,1993-01-06,66,135,Nova Uniao,Brazil,Belo Horizonte,Minas Gerais,Chinese,11,21,5,4
+121077,Alex,Nicholson,The Spartan,1990-05-02,76,227,,United States,Apopka,Florida,Guatemalan,9,22,2,0
+151,Eric,Martin,,1900-01-00,,,,,,,Alaskan Athabascan,16,11,5,4
+111777,Leonardo,Morales,Chimmy,1992-12-22,71,137,Gladiadores MMA,Nicaragua,Managua,,Lumbee,22,20,6,3
+135315,Anying,Wang,Smiley,1991-04-04,72,170,Phuket Top Team,Mongolia,,,Ute,34,15,4,4
+115641,Randy,Brown,Rude Boy,1990-07-08,74,171,Budokan Martial Arts Academy,Jamaica,Spanish Town,,Dominican (Dominican Republic),13,13,1,4
+29635,Dileno,Lopes,,1987-09-26,,135,Nova Uniao Manaus,Brazil,Manacapuru,Amazonas,Alaska Native,30,22,9,2
+44627,Alvaro,Herrera,El Chango,1990-05-14,72,170,UAG MMA,Mexico,Guadalajara,Jalisco,Paraguayan,27,25,4,1
+42419,Chris,Indich,,1987-04-22,70,170,The Arena MMA,Australia,Perth,Western Australia,Iroquois,26,8,1,1
+172645,Alex,Torres,Rolo,1900-01-00,70,145,Octagon MMA Colombia,Colombia,Bogota,,Houma,9,20,5,4
+59764,Lance,Benoist,,1988-08-26,71,170,St. Charles MMA,United States,St. Louis,Missouri,Potawatomi,26,6,10,2
+54303,Daniel,Omielanczuk,,1982-08-31,72,242,Ankos Zapasy,Poland,Warsaw,,Apache,4,24,10,4
+6608,Luis,Henrique Barbosa de Oliveira,KLB,1993-08-21,75,243,Infight,Brazil,Rio de Janeiro,Rio de Janeiro,Vietnamese,19,21,4,0
+19456,Matt,Arroyo,No Regard,1982-09-10,72,155,,United States,Cobleskill,New York,Potawatomi,3,4,9,0
+40,Christophe,Leninger,,1962-07-16,72,200,,United States,Scottsdale,Arizona,Dominican (Dominican Republic),23,7,2,2
+86246,Kyle,Bochniak,Killer B,1900-01-00,69,145,Broadway Jiu-Jitsu,United States,Boston,Massachusetts,Native Hawaiian and Other Pacific Islander (NHPI),11,20,6,0
+10346,Richie,Hightower,The Dirty Samurai,1981-11-24,,155,,United States,Phoenix,Arizona,Malaysian,23,7,2,4
+2656,Chris,Sanford,,1900-01-00,71,185,Cesar Gracie Jiu-Jitsu,United States,San Francisco,California,Ottawa,15,13,5,1
+68494,Derek,Brunson,,1984-01-04,73,186,Jacksons Mixed Martial Arts,United States,Wilmington,North Carolina,Taiwanese,4,23,8,4
+81835,Diego,Rivas,Pitbull,1991-11-11,,143,Okinawa Dojo,Chile,,,Filipino,29,23,8,4
+152341,Francis,Ngannou,,1986-09-05,76,250,MMA Factory,France,,,Ute,7,18,2,4
+52633,Brendan,OReilly,The Badger,1987-06-24,68,170,Gamebred Submission Fighting,Australia,Brisbane,Queensland,Dominican (Dominican Republic),19,19,6,0
+67098,Justine,Kish,,1988-04-13,65,116,Black House,United States,Cramerton,North Carolina,Micronesian,27,4,4,1
+44957,Jason,Knight,The Kid,1992-07-14,71,145,,United States,Mississippi,,Yuman,29,25,3,3
+16555,Efrain,Escudero,Hecho en Mexico,1986-01-15,69,155,MMA Lab,United States,Tempe,Arizona,Thai,30,1,8,2
+98419,Ericka,Almeida,,1989-03-05,66,115,Team Nogueira,Brazil,Sorocaba,Sao Paulo,Sri Lankan,23,6,9,2
+129351,Enrique,Barzola,El Fuerte,1989-04-25,67,145,Pitbull Martial Arts Center,Peru,El Agustino,Lima,Filipino,6,22,8,3
+57480,Bruno,Rodrigues,Korea,1900-01-00,66,125,Tata Fight Team,Brazil,Rio de Janeiro,Rio de Janeiro,Spaniard,25,5,10,0
+100921,Vernon,Ramos,,1992-06-03,69,168,507 BJJ,Panama,,,Cuban,7,6,8,2
+172941,Horacio,Gutierrez,The Punisher,1900-01-00,70,145,Chicago Fight Team,Mexico,Guadalajara,Jalisco,Pakistani,19,14,1,4
+146377,Chris,de la Rocha,,1900-01-00,75,245,,United States,Washougal,Washington,Yakama,13,18,7,1
+64413,Kyoji,Horiguchi,,1990-10-12,65,125,American Top Team,Japan,Takasaki,Gunma,Tlingit-Haida,1,22,3,2
+84854,Rocky,Lee,,1987-04-08,69,145,AKA Thailand,Taiwan,,,Tohono O'Odham,28,12,6,2
+88793,Royston,Wee,,1986-11-15,67,137,Impact MMA Singapore,Singapore,,,Navajo,2,13,2,0
+45607,Tateki,Matsuda,Tech,1986-02-27,67,125,Team Sityodtong,United States,Boston,Massachusetts,Thai,13,15,1,0
+45721,Humberto,Brown Morrison,,1984-11-03,69,145,Alley Cat Fight Team,Panama,,,Menominee,32,23,1,2
+59713,Matt,Hobar,The Crowbar,1987-01-07,70,135,Octagon MMA,United States,Dallas,Texas,Korean,12,19,7,2
+50588,Ian,Entwistle,Enty,1986-11-19,68,136,Apex MMA,England,Accrington,,Guatemalan,3,22,9,1
+46202,Philip,De Fries,,1986-04-21,76,248,Alliance MMA,England,Sunderland,Tyne and Wear,Asian,19,16,3,1
+1831,Ryo,Chonan,Piranha,1976-10-08,69,169,Tribe Tokyo MMA,Japan,,,Melanesian,1,5,5,0
+24913,Ken,Stone,,1982-10-08,68,135,American Top Team,United States,Coconut Creek,Florida,Colville,4,16,6,4
+11970,Dale,Hartt,,1900-01-00,70,155,Team Sityodtong,United States,Bangor,Maine,Nicaraguan,23,13,3,0
+21131,Clay,Harvison,Heavy Metal,1980-09-25,73,160,Madhouse Training,United States,Marietta,Georgia,Melanesian,27,17,4,1
+25912,Marcus,Jones,Big Baby,1973-08-15,78,265,,United States,Tampa,Florida,Bangladeshi,18,23,4,2
+241,Scott,Adams,,1974-07-16,72,225,The Pit,,San Luis Obispo,California,Dominican (Dominican Republic),21,8,4,2
+287,Chris,Condo,,1900-01-00,,,,,,,Cree,25,5,3,3
+4441,Paul,Creighton,,1970-04-07,66,155,,USA,Manhattan,New York,Navajo,32,16,5,4
+9977,Sione,Latu,,1900-01-00,,,,,,,Chinese,16,24,3,2
+189,Townsend,Saunders,,1968-07-16,65,170,,United States,White Sands,New Mexico,Central American,21,2,2,1
+285,Courtney,Turner,,1900-01-00,74,175,,USA,Metairie,Louisiana,Cherokee,21,12,9,4
+164,Steven,Graham,,1900-01-00,73,290,,USA,Fayettsville,North Carolina,White,15,22,10,0
+170,Alex,Hunter,,1900-01-00,69,226,,USA,Tarpon Springs,Florida,Central American,5,22,9,2
+160,Saeed,Hosseini,,1900-01-00,,,,,,,Taiwanese,3,1,3,4
+169,Donnie,Chappell,,1900-01-00,,,,,,,Taiwanese,14,21,3,0
+165,Dmitri,Stepanov,,1900-01-00,,,,,,,Osage,21,22,2,3
+159,Wes,Albritton,,1900-01-00,,,,,,,Eskimo,6,11,4,2
+140,John,Campetella,,1900-01-00,69,235,,USA,New York City,New York,Venezuelan,2,11,6,2
+145,Reza,Nasri,,1900-01-00,71,205,,"Iran, Islamic Republic of",Isfahan,,Venezuelan,28,20,1,4
+138,Scott,Fiedler,,1900-01-00,76,235,,United States,Pacific,Missouri,Chilean,21,9,5,2
+149,Jackie,Lee,,1900-01-00,,,,,,,Yuman,34,23,6,4
+143,Dave,Berry,,1900-01-00,,,,,,,Pakistani,31,8,5,3
+144,Julian,Sanchez,,1900-01-00,75,300,,United States,San Antonio,Texas,Paraguayan,11,21,2,0
+133,Mark,Schultz,,1960-10-26,70,203,,United States,Lindon,Utah,Cuban,6,16,8,4
+131,Rafael,Carino,Earthquake,1973-07-16,80,245,Nova Uniao,Brazil,Rio De Janeiro,,Ute,12,2,10,0
+62,Larry,Cureton,,1900-01-00,74,248,,United States,Jersey City,New Jersey,Pakistani,14,7,3,3
+125,Thomas,Ramirez,,1900-01-00,73,410,,Puerto Rico,Bayamon,,Malaysian,9,18,7,3
+116,Onassis,Parungao,,1900-01-00,,,,,,,Micronesian,26,14,9,4
+117,Francesco,Maturi,Fang,1900-01-00,75,235,,United States,Moorehead,Minnesota,Pima,30,3,3,2
+42,Roland,Payne,,1964-07-16,69,205,,United States,Charlotte,North Carolina,Cambodian,8,15,7,1
+37,Alberto,Cerra Leon,,1900-01-00,68,231,,Spain,Lemoa,,Bangladeshi,33,18,5,3
+63,Ernie,Verdicia,,1900-01-00,70,219,,United States,Miami,Florida,Creek,6,7,7,0
+109,He-Man,Ali Gipson,,1973-03-01,,216,,United States,Las Vegas,Nevada,Native Hawaiian,16,18,5,2
+60,Andy,Anderson,The Hammer,1964-07-16,69,240,,United States,Arlington,Texas,Choctaw,25,24,6,4
+55,Eldo,Dias Xavier,,1964-07-16,71,180,,Brazil,,,Houma,31,4,7,2
+32,Robert,Lucarelli,,1900-01-00,74,245,,United States,Schenectady,New York,Tlingit-Haida,1,21,3,3
+30,Thaddeus,Luster,,1900-01-00,75,200,,United States,Van Nuys,California,Tohono O'Odham,31,23,4,2
+29,Frank,Hamaker,,1900-01-00,74,245,,Netherlands,Amsterdam,,Menominee,9,1,10,3
+119,Ryan,Parker,,1900-01-00,75,235,,United States,Moorehead,Minnesota,Alaska Native,1,18,5,4
+8592,Marcus,Davis,The Irish Hand Grenade,1973-08-24,68,170,Team Irish,United States,Bangor,Maine,Ottawa,32,21,1,3
+259,John,Alessio,The Natural,1979-07-05,70,155,Xtreme Couture,Canada,Vancouver,British Columbia,Paiute,12,16,1,1
